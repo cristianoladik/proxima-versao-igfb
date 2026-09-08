@@ -68,6 +68,10 @@ com tipo `publicar_igfb`, para que um único agendador externo confiável envie:
 Não habilite dois agendadores externos para a mesma janela. A trava protege de
 duplicidade, mas um único disparador facilita auditoria e pontualidade.
 
+Execute a reposição local fora das janelas. Se a trava de manutenção atravessar
+também a retentativa de `:30`, o item permanece pendente e precisa de um disparo
+posterior com a data e o horário explícitos.
+
 ## Secrets e variável do GitHub
 
 Criar somente estes quatro secrets, todos pertencentes às contas novas:
