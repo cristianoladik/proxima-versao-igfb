@@ -1,0 +1,256 @@
+name: Publicar Reels e Stories no Instagram e Facebook
+
+on:
+  schedule:
+    # Brasília é UTC-3. O segundo disparo de cada janela é uma retentativa
+    # idempotente; a reivindicação persistida impede publicação duplicada.
+    - cron: "0 8 * * *"
+    - cron: "30 8 * * *"
+    - cron: "0 12 * * *"
+    - cron: "30 12 * * *"
+    - cron: "0 16 * * *"
+    - cron: "30 16 * * *"
+    - cron: "0 20 * * *"
+    - cron: "30 20 * * *"
+    - cron: "0 0 * * *"
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+    inputs:
+      data_publicacao:
+        description: "Data em Brasília (AAAA-MM-DD); vazio usa hoje"
+        required: false
+        type: string
+      horario_publicacao:
+        description: "Janela em Brasília"
+        required: true
+        default: "09:00"
+        type: choice
+        options:
+          - "05:00"
+          - "09:00"
+          - "13:00"
+          - "17:00"
+          - "21:00"
+      escopo:
+        description: "auto publica Stories junto apenas às 09:00"
+        required: true
+        default: auto
+        type: choice
+        options:
+          - auto
+          - reel
+          - story
+          - ambos
+  repository_dispatch:
+    types: [publicar_igfb]
+
+concurrency:
+  group: proxima-versao-publicacao-instagram-facebook
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    if: ${{ vars.PUBLICACAO_HABILITADA == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Atualizar fila antes da reivindicação
+        run: git pull --ff-only origin main
+
+      - name: Confirmar que não há reposição local ativa
+        run: python gerenciar_manutencao.py verificar
+
+      - name: Definir data, horário e escopo
+        id: janela
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          INPUT_DATA: ${{ inputs.data_publicacao }}
+          INPUT_HORARIO: ${{ inputs.horario_publicacao }}
+          INPUT_ESCOPO: ${{ inputs.escopo }}
+          CLIENT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+        run: >-
+          python definir_janela.py
+          --event-name "$EVENT_NAME"
+          --cron "$EVENT_SCHEDULE"
+          --data "$INPUT_DATA"
+          --horario "$INPUT_HORARIO"
+          --escopo "${INPUT_ESCOPO:-auto}"
+          --payload "$CLIENT_PAYLOAD"
+
+      - name: Validar filas antes de publicar
+        run: python validar_filas.py
+
+      - name: Reivindicar itens antes de chamar a Meta
+        id: claim
+        env:
+          CLAIM_ID: ${{ github.run_id }}-${{ github.run_attempt }}
+          DATA_PUBLICACAO: ${{ steps.janela.outputs.data }}
+          HORARIO_PUBLICACAO: ${{ steps.janela.outputs.horario }}
+          ESCOPO: ${{ steps.janela.outputs.escopo }}
+        run: >-
+          python reivindicar.py
+          --data "$DATA_PUBLICACAO"
+          --horario "$HORARIO_PUBLICACAO"
+          --escopo "$ESCOPO"
+          --claim-id "$CLAIM_ID"
+          --duracao-minutos 25
+
+      - name: Persistir trava antes de chamar a Meta
+        id: persistir_claim
+        if: ${{ steps.claim.outputs.reel == 'true' || steps.claim.outputs.story == 'true' }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add fila/fila-reels.json fila/fila-stories.json
+          git commit -m "chore: reivindicar janela ${{ steps.janela.outputs.data }} ${{ steps.janela.outputs.horario }}"
+          git push
+
+      - name: Publicar Reel no Instagram
+        id: reel_instagram
+        if: ${{ success() && steps.claim.outputs.reel == 'true' }}
+        continue-on-error: true
+        env:
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ID: ${{ secrets.IG_BUSINESS_ID }}
+          DATA_PUBLICACAO: ${{ steps.janela.outputs.data }}
+          HORARIO_PUBLICACAO: ${{ steps.janela.outputs.horario }}
+          CLAIM_ID: ${{ github.run_id }}-${{ github.run_attempt }}
+          PLATAFORMA_ALVO: instagram
+          CHECKPOINT_GIT: "true"
+        run: python publicar.py
+
+      - name: Persistir resultado do Reel no Instagram
+        id: salvar_reel_instagram
+        if: ${{ always() && steps.persistir_claim.outcome == 'success' && steps.claim.outputs.reel == 'true' }}
+        run: |
+          git add fila/fila-reels.json
+          git diff --staged --quiet || git commit -m "chore: resultado Reel Instagram ${{ steps.janela.outputs.data }} ${{ steps.janela.outputs.horario }}"
+          git pull --rebase origin main
+          git push
+
+      - name: Publicar Reel no Facebook
+        id: reel_facebook
+        if: ${{ always() && steps.claim.outputs.reel == 'true' && steps.salvar_reel_instagram.outcome == 'success' }}
+        continue-on-error: true
+        env:
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          MEDIA_CACHE_DIR: ${{ runner.temp }}/midias
+          DATA_PUBLICACAO: ${{ steps.janela.outputs.data }}
+          HORARIO_PUBLICACAO: ${{ steps.janela.outputs.horario }}
+          CLAIM_ID: ${{ github.run_id }}-${{ github.run_attempt }}
+          PLATAFORMA_ALVO: facebook
+          ENCERRAR_CLAIM: "true"
+          CHECKPOINT_GIT: "true"
+        run: python publicar.py
+
+      - name: Persistir resultado do Reel no Facebook
+        id: salvar_reel_facebook
+        if: ${{ always() && steps.claim.outputs.reel == 'true' && steps.salvar_reel_instagram.outcome == 'success' }}
+        run: |
+          git add fila/fila-reels.json
+          git diff --staged --quiet || git commit -m "chore: resultado Reel Facebook ${{ steps.janela.outputs.data }} ${{ steps.janela.outputs.horario }}"
+          git pull --rebase origin main
+          git push
+
+      - name: Publicar pacote de Stories no Instagram
+        id: stories_instagram
+        if: >-
+          ${{ always() && steps.persistir_claim.outcome == 'success' &&
+          steps.claim.outputs.story == 'true' &&
+          (steps.claim.outputs.reel != 'true' ||
+          (steps.salvar_reel_instagram.outcome == 'success' &&
+          steps.salvar_reel_facebook.outcome == 'success')) }}
+        continue-on-error: true
+        env:
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ID: ${{ secrets.IG_BUSINESS_ID }}
+          DATA_PUBLICACAO: ${{ steps.janela.outputs.data }}
+          HORARIO_PUBLICACAO: ${{ steps.janela.outputs.horario }}
+          CLAIM_ID: ${{ github.run_id }}-${{ github.run_attempt }}
+          PLATAFORMA_ALVO: instagram
+          CHECKPOINT_GIT: "true"
+        run: python publicar_stories.py
+
+      - name: Persistir resultado dos Stories no Instagram
+        id: salvar_stories_instagram
+        if: ${{ always() && steps.claim.outputs.story == 'true' && steps.persistir_claim.outcome == 'success' }}
+        run: |
+          git add fila/fila-stories.json
+          git diff --staged --quiet || git commit -m "chore: resultado Stories Instagram ${{ steps.janela.outputs.data }}"
+          git pull --rebase origin main
+          git push
+
+      - name: Publicar pacote de Stories no Facebook
+        id: stories_facebook
+        if: ${{ always() && steps.claim.outputs.story == 'true' && steps.salvar_stories_instagram.outcome == 'success' }}
+        continue-on-error: true
+        env:
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION || 'v26.0' }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          MEDIA_CACHE_DIR: ${{ runner.temp }}/midias
+          DATA_PUBLICACAO: ${{ steps.janela.outputs.data }}
+          HORARIO_PUBLICACAO: ${{ steps.janela.outputs.horario }}
+          CLAIM_ID: ${{ github.run_id }}-${{ github.run_attempt }}
+          PLATAFORMA_ALVO: facebook
+          ENCERRAR_CLAIM: "true"
+          CHECKPOINT_GIT: "true"
+        run: python publicar_stories.py
+
+      - name: Persistir resultado dos Stories no Facebook
+        id: salvar_stories_facebook
+        if: ${{ always() && steps.claim.outputs.story == 'true' && steps.salvar_stories_instagram.outcome == 'success' }}
+        run: |
+          git add fila/fila-stories.json
+          git diff --staged --quiet || git commit -m "chore: resultado Stories Facebook ${{ steps.janela.outputs.data }}"
+          git pull --rebase origin main
+          git push
+
+      - name: Remover somente assets já confirmados nas duas redes
+        id: limpar
+        if: >-
+          ${{ always() && steps.persistir_claim.outcome == 'success' &&
+          (steps.claim.outputs.reel != 'true' ||
+          (steps.salvar_reel_instagram.outcome == 'success' &&
+          steps.salvar_reel_facebook.outcome == 'success')) &&
+          (steps.claim.outputs.story != 'true' ||
+          (steps.salvar_stories_instagram.outcome == 'success' &&
+          steps.salvar_stories_facebook.outcome == 'success')) }}
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          RELEASE_TAG: fila-instagram-facebook
+        run: |
+          python limpar_release.py
+
+      - name: Persistir comprovantes de limpeza
+        if: ${{ always() && steps.limpar.outcome == 'success' }}
+        run: |
+          git add fila/fila-reels.json fila/fila-stories.json
+          git diff --staged --quiet || git commit -m "chore: limpar mídia confirmada ${{ steps.janela.outputs.data }}"
+          git pull --rebase origin main
+          git push
+
+      - name: Encerrar com erro se alguma publicação falhou
+        if: >-
+          ${{ always() && (steps.reel_instagram.outcome == 'failure' ||
+          steps.reel_facebook.outcome == 'failure' ||
+          steps.stories_instagram.outcome == 'failure' ||
+          steps.stories_facebook.outcome == 'failure') }}
+        run: exit 1
