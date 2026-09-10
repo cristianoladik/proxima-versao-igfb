@@ -38,7 +38,11 @@
             "publicado_em": "2026-09-10T17:28:17-03:00"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-09-10T17:29:01-03:00",
+            "tentativas": 1,
+            "video_id": "1479802877289968",
+            "fase_api": "upload_iniciado"
           }
         },
         {
