@@ -38,14 +38,15 @@
             "publicado_em": "2026-09-10T17:28:17-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-10T17:29:01-03:00",
             "tentativas": 1,
             "video_id": "1479802877289968",
             "fase_api": "publicado_confirmado",
             "post_id": "1804677220975994",
             "id": "1804677220975994",
-            "media_id": "1479802877289968"
+            "media_id": "1479802877289968",
+            "publicado_em": "2026-09-10T17:29:35-03:00"
           }
         },
         {
@@ -73,7 +74,11 @@
             "publicado_em": "2026-09-10T17:29:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-09-10T17:29:35-03:00",
+            "tentativas": 1,
+            "video_id": "1108308545000456",
+            "fase_api": "upload_iniciado"
           }
         }
       ],
