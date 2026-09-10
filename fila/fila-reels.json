@@ -2,5 +2,70 @@
   "versao_schema": 1,
   "canal": "instagram-facebook-reels",
   "timezone": "America/Sao_Paulo",
-  "conteudos": []
+  "conteudos": [
+    {
+      "id": "reel-20260911-0500-7577128732",
+      "data": "2026-09-11",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1 - NASCER NUM LAR TOXICO PODE TE DEIXAR TOXICO.mp4",
+        "sha256": "7577128732539e7a89c296bf64d23bcb1b6586548d1149faed8cddada304f8fc"
+      },
+      "midia": {
+        "asset": "7577128732539e7a-1---NASCER-NUM-LAR-TOXICO-PODE-TE-DEIXAR-TOXICO.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/7577128732539e7a-1---NASCER-NUM-LAR-TOXICO-PODE-TE-DEIXAR-TOXICO.mp4",
+        "sha256": "7577128732539e7a89c296bf64d23bcb1b6586548d1149faed8cddada304f8fc",
+        "tamanho_bytes": 22723527,
+        "duracao_segundos": 56.56,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3016135,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20260912-0500-e7bde3c146",
+      "data": "2026-09-12",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1 - O MUNDO TEM BILHOES DE PESSOAS.mp4",
+        "sha256": "e7bde3c1461fa5e334411261286ceeeb56f9e2bafbb2c9138a564eee6d7d3c21"
+      },
+      "midia": {
+        "asset": "e7bde3c1461fa5e3-1---O-MUNDO-TEM-BILHOES-DE-PESSOAS.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/e7bde3c1461fa5e3-1---O-MUNDO-TEM-BILHOES-DE-PESSOAS.mp4",
+        "sha256": "e7bde3c1461fa5e334411261286ceeeb56f9e2bafbb2c9138a564eee6d7d3c21",
+        "tamanho_bytes": 12069578,
+        "duracao_segundos": 23.56,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3899310,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    }
+  ],
+  "estoque_minimo_dias": 1,
+  "estoque_alvo_dias": 2
 }

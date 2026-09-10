@@ -2,5 +2,98 @@
   "versao_schema": 1,
   "canal": "instagram-facebook-stories",
   "timezone": "America/Sao_Paulo",
-  "pacotes": []
+  "pacotes": [
+    {
+      "id": "story-20260911-6704511b92",
+      "data": "2026-09-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1781 - 28 DIAS QUE MUDARAM COMPLETAMENTE MINHA VIDA.mp4",
+        "sha256": "6704511b927b57c7620b9fee5e68c9a74b185e32765e4cc9984d9687ba964a50"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "50c77e5459f657cb-001-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/50c77e5459f657cb-001-parte-01.mp4",
+            "sha256": "50c77e5459f657cb7847fd182cc658cd04086d53ef4fcc773432d213eeb9054e",
+            "tamanho_bytes": 8758164,
+            "duracao_segundos": 39.88,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1619707,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "fb858f60ff4a5c78-001-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/fb858f60ff4a5c78-001-parte-02.mp4",
+            "sha256": "fb858f60ff4a5c78e7dba963bebeae586f35f30a9e58bace23efd3e9929d205c",
+            "tamanho_bytes": 8052727,
+            "duracao_segundos": 39.88,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1480243,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260912-037920be94",
+      "data": "2026-09-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1782 - ESSA GUERRA NAO E SUA.mp4",
+        "sha256": "037920be9461ad60dd244422b545451e16f89dd2540cffa98107eaa35e36cbab"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "5c1b0a0f0b4c9d03-002-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/5c1b0a0f0b4c9d03-002-parte-01.mp4",
+            "sha256": "5c1b0a0f0b4c9d036750534f668906afce3f0dff24ae73e018545e0337e4c849",
+            "tamanho_bytes": 3914452,
+            "duracao_segundos": 17.6,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1642585,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    }
+  ],
+  "estoque_minimo_dias": 1,
+  "estoque_alvo_dias": 2
 }
