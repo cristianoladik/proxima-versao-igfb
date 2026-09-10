@@ -7,7 +7,7 @@
       "id": "story-20260911-6704511b92",
       "data": "2026-09-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1781 - 28 DIAS QUE MUDARAM COMPLETAMENTE MINHA VIDA.mp4",
         "sha256": "6704511b927b57c7620b9fee5e68c9a74b185e32765e4cc9984d9687ba964a50"
@@ -74,22 +74,19 @@
             "publicado_em": "2026-09-10T17:29:00-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-10T17:29:35-03:00",
             "tentativas": 1,
             "video_id": "1108308545000456",
             "fase_api": "publicado_confirmado",
             "post_id": "1100896452488056",
             "id": "1100896452488056",
-            "media_id": "1108308545000456"
+            "media_id": "1108308545000456",
+            "publicado_em": "2026-09-10T17:30:22-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "34526477067-1",
-        "reivindicado_em": "2026-09-10T17:27:30-03:00",
-        "expira_em": "2026-09-10T17:52:30-03:00"
-      }
+      "concluido_em": "2026-09-10T17:30:22-03:00"
     },
     {
       "id": "story-20260912-037920be94",
