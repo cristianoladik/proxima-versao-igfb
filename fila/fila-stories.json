@@ -123,8 +123,2156 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20260913-8bc93cbec2",
+      "data": "2026-09-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1783 - O SISTEMA NAO NOS PROGRAMOU PRA ISSO.mp4",
+        "sha256": "8bc93cbec2c6ee4441b40a1cf9ad0d64301bb7d13b0b222d66db55e2df51bf44"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "dfc7dc137e3e69fb-003-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/dfc7dc137e3e69fb-003-parte-01.mp4",
+            "sha256": "dfc7dc137e3e69fbb5009a9bb8ed12aabd49f0fd906fc89f8a11f02dc9337c24",
+            "tamanho_bytes": 9564091,
+            "duracao_segundos": 43.04,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1640013,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260914-6ea5380874",
+      "data": "2026-09-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1784 - A DOR E INEVITAVEL MAS O SOFRIMENTO E ESCOLHA.mp4",
+        "sha256": "6ea5380874ea5da32128ed0465971db4feee41258c254800f7210f9962fb6eb6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "df9d9c94f6df84d8-004-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/df9d9c94f6df84d8-004-parte-01.mp4",
+            "sha256": "df9d9c94f6df84d8d9b5121a3f611b79ceaa307cbaf835829b77af2f07b4cf7b",
+            "tamanho_bytes": 1490940,
+            "duracao_segundos": 15.68,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 625307,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260915-0e54d28ca0",
+      "data": "2026-09-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1785 - ESSE E O MELHOR INVESTIMENTO.mp4",
+        "sha256": "0e54d28ca06309a08fee7d73bc0d6ae3d646974dc57081f00422dc77f4c7e43a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "36708f08c68bc480-005-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/36708f08c68bc480-005-parte-01.mp4",
+            "sha256": "36708f08c68bc480e1594e21d0ec5aa1768ecf10c59d9667556244de2809de44",
+            "tamanho_bytes": 5132443,
+            "duracao_segundos": 32.36,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1134985,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260916-1f705afc56",
+      "data": "2026-09-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1786 - O RESTO E COM DEUS.mp4",
+        "sha256": "1f705afc565bf8c4372923d04cd1c2d1b3cbdca820f6e82e049276e5b430b9db"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "3002669122689406-006-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/3002669122689406-006-parte-01.mp4",
+            "sha256": "3002669122689406a49f00b10de338d91494055683ae3e55788ba0d1b5d8c084",
+            "tamanho_bytes": 7743120,
+            "duracao_segundos": 37.48,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1516371,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260917-5ee88be510",
+      "data": "2026-09-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1787 - ALGUMAS PESSOAS PRECISAM IR EMBORA DA SUA VIDA.mp4",
+        "sha256": "5ee88be510e96fc880caf94ead961ee9f5a1beabf5d7bd52c3314c6692d5addb"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "c90c7e7271bbffa4-007-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/c90c7e7271bbffa4-007-parte-01.mp4",
+            "sha256": "c90c7e7271bbffa4550888df3525fb619c1c3dd96f69b94c2dfef2e96c8c9fcc",
+            "tamanho_bytes": 4749372,
+            "duracao_segundos": 42.88,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 751687,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260918-407ec60d00",
+      "data": "2026-09-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1788 - COMO VENDER MAIS.mp4",
+        "sha256": "407ec60d00969901579581001693c0a87dead89c30db16e7efb0fe5a1fc1a7a6"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "3906c2d35389634f-008-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/3906c2d35389634f-008-parte-01.mp4",
+            "sha256": "3906c2d35389634f8bc905ebced36476388368c709e3d486b0336eb23ab0d40d",
+            "tamanho_bytes": 18538136,
+            "duracao_segundos": 42.84,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 3325157,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "090472741b3c6736-008-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/090472741b3c6736-008-parte-02.mp4",
+            "sha256": "090472741b3c6736d337362ad1a592020f9671a9515a4e1aca0b65c00e044507",
+            "tamanho_bytes": 16776286,
+            "duracao_segundos": 42.84,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 3012704,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260919-e27395607c",
+      "data": "2026-09-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1789 - VOCE VAI RECEBER UMA BOA NOTICIA.mp4",
+        "sha256": "e27395607cfa366de798a681d952bc6eda8210ffe118f370c6e8acaed2e834e9"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "115422fbaac08a0f-009-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/115422fbaac08a0f-009-parte-01.mp4",
+            "sha256": "115422fbaac08a0f2859582dc3e5066d0b00d0ceade45a28f3e62d656a891e9e",
+            "tamanho_bytes": 7138524,
+            "duracao_segundos": 39.2,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1321063,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260920-e72f9421f4",
+      "data": "2026-09-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1790 - 5 CRENCAS QUE ESTAO TRAVANDO SUAS VENDAS.mp4",
+        "sha256": "e72f9421f4a695485a7fa00d6af95c5d5e25b3b315e385e2586170d94b6a88b8"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "98f551af7dc7e2bd-010-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/98f551af7dc7e2bd-010-parte-01.mp4",
+            "sha256": "98f551af7dc7e2bd501434334c8e6f0bea7ddea3e0ff824de21b1d76d6987203",
+            "tamanho_bytes": 11427140,
+            "duracao_segundos": 31.96,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2722990,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "3c5e48f62aea9739-010-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/3c5e48f62aea9739-010-parte-02.mp4",
+            "sha256": "3c5e48f62aea97395961192b2da6f3315cfa0529df6a71fc9dd692a0be54906a",
+            "tamanho_bytes": 9577936,
+            "duracao_segundos": 31.96,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2262775,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260921-f0c90c1ab6",
+      "data": "2026-09-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1791 - A ANSIEDADE NAO VAI TE VENCER.mp4",
+        "sha256": "f0c90c1ab61b5b56f36d344e424faa3c9a3ac516418c13ac4bf54215c56d263a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "c40e76aabf4e4980-011-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/c40e76aabf4e4980-011-parte-01.mp4",
+            "sha256": "c40e76aabf4e4980f6b5270c147c66387ed08b6c0025cb002910c153503e26f9",
+            "tamanho_bytes": 5277045,
+            "duracao_segundos": 26.16,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1476596,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260922-94b9e34026",
+      "data": "2026-09-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1792 - NAO ANDE COM QUEM NAO QUER CRESCER.mp4",
+        "sha256": "94b9e340265e51a42b2900b016788e58980afc44230f28e2a7d8d5a557991698"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "5b1a063592acd9d8-012-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/5b1a063592acd9d8-012-parte-01.mp4",
+            "sha256": "5b1a063592acd9d8a1523f6ac572f14ce2406ff50378feb72f9ab0237cedf1c5",
+            "tamanho_bytes": 3439625,
+            "duracao_segundos": 14.56,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1752212,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260923-7b7bfae8a4",
+      "data": "2026-09-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1793 - CUIDADO COM TUDO QUE TEM F.mp4",
+        "sha256": "7b7bfae8a405bc54b7894bebd9c53ded98a180539db9a82db0c9cd21e44ec3e7"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "0e038dfd7cc11087-013-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0e038dfd7cc11087-013-parte-01.mp4",
+            "sha256": "0e038dfd7cc110871b57069832d95537ddb1da28bbb18337f5ceebe5f14c96a3",
+            "tamanho_bytes": 7563500,
+            "duracao_segundos": 36.36,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1528536,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260924-4cada924cd",
+      "data": "2026-09-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1794 - O PODER DOS 5 SEGUNDOS TECNICA QUE MUDA SUA VIDA.mp4",
+        "sha256": "4cada924cd6625004428afd97ecd334bdd67a8a6287709b296ea65d60b526bcd"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "34767af260a4b24f-014-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/34767af260a4b24f-014-parte-01.mp4",
+            "sha256": "34767af260a4b24f3c2084154e7b0d577c7ab2a86e4f35c419664a3acb556214",
+            "tamanho_bytes": 6969809,
+            "duracao_segundos": 26.84,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1933212,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260925-2f24a0e3e7",
+      "data": "2026-09-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1795 - VOCE PRECISA DISSO.mp4",
+        "sha256": "2f24a0e3e7b2e9279c1d78983f5c482a85e7bd72c1651813b15f93f3740c983d"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "2820b9b59ef9e8b4-015-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/2820b9b59ef9e8b4-015-parte-01.mp4",
+            "sha256": "2820b9b59ef9e8b489694a18a6e56e92fc2a2813d165dc2469e53aa62215304a",
+            "tamanho_bytes": 7577684,
+            "duracao_segundos": 58.56,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 899333,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260926-0c81e05736",
+      "data": "2026-09-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1796 - DEZEMBRO E MES DE POR PRESSAO.mp4",
+        "sha256": "0c81e057364c9e3568b93ace29e36d8fd2616f776fd119afcec2bc1942931c66"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "0d03bc41142b811d-016-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0d03bc41142b811d-016-parte-01.mp4",
+            "sha256": "0d03bc41142b811d81b2d013cc48065ebf195854cbe1fbd0c3332bf7b4dbff91",
+            "tamanho_bytes": 15216067,
+            "duracao_segundos": 51.04,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2249488,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260927-4266f8966d",
+      "data": "2026-09-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1797 - ESSE E O CAMINHO DO CONHECIMENTO.mp4",
+        "sha256": "4266f8966d81a5bf37a462fc14c23558045a5b5beed8af0aa7d5f4031058e531"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "b4ce67e7fba0872b-017-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/b4ce67e7fba0872b-017-parte-01.mp4",
+            "sha256": "b4ce67e7fba0872b4f1b8eb0b0f7d30efcbf2945dcb2a35fa9e8aee1558329b6",
+            "tamanho_bytes": 6192490,
+            "duracao_segundos": 32.76,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1375669,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260928-2969d03ec5",
+      "data": "2026-09-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1798 - VOCE PRECISA OUVIR O QUE ESSA FAMILIA TEM A DIZER.mp4",
+        "sha256": "2969d03ec5f57ed241830e7886937571ac9420a26ff3f7b78f9c003f912d4577"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "598bbda49d741265-018-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/598bbda49d741265-018-parte-01.mp4",
+            "sha256": "598bbda49d7412652cc85fae44554fffefbbdfa1223240739941129b3123ad91",
+            "tamanho_bytes": 11021853,
+            "duracao_segundos": 44.24,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1856169,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260929-cdaf3848c5",
+      "data": "2026-09-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1799 - 3 COISAS QUE VAO MUDAR O SEU DESTINO.mp4",
+        "sha256": "cdaf3848c53ef321a78dd25c2818772040413a3f27aa0c7a36f0f0f05d897478"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "e6a2b3cc1678283a-019-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/e6a2b3cc1678283a-019-parte-01.mp4",
+            "sha256": "e6a2b3cc1678283a553dcdae58e5d3b90c8e1cedd7c2f4bb5d06983ebdb4a82c",
+            "tamanho_bytes": 9302367,
+            "duracao_segundos": 43.36,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1580631,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20260930-a6de8a5fb3",
+      "data": "2026-09-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1800 - VAI DAR A LOGICA IRMAO.mp4",
+        "sha256": "a6de8a5fb3a9b25949030017163fc116c5096e7db6c592184633d36560c13db2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "9034694975b5c2da-020-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/9034694975b5c2da-020-parte-01.mp4",
+            "sha256": "9034694975b5c2da4c4022ab643927647b3f15d1c396d0b7efee87a4e77f29a5",
+            "tamanho_bytes": 3413144,
+            "duracao_segundos": 10.68,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2421816,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261001-86298f353d",
+      "data": "2026-10-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1801 - VOCE PRECISA OUVIR ISSO AGORA.mp4",
+        "sha256": "86298f353da4a73d950601a9a3bc74d068aec1d05cce51b8e1ff38ecc2f9ed93"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "9baf0682abc40e49-021-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/9baf0682abc40e49-021-parte-01.mp4",
+            "sha256": "9baf0682abc40e4948b14fcbe97fbdc3e3b836d185f3b60790f57d7e3f254710",
+            "tamanho_bytes": 18880383,
+            "duracao_segundos": 55.68,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2575328,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261002-d49820bc18",
+      "data": "2026-10-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1802 - SE VOCE PUDESSE PEDIR UM CONSELHO TOMANDO CAFE QUEM SER.mp4",
+        "sha256": "d49820bc18afabd519738e0b4e2c969c5303f2550801c3a7037851eca218de0f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "56798bb7d2f2d417-022-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/56798bb7d2f2d417-022-parte-01.mp4",
+            "sha256": "56798bb7d2f2d417bd62aca9f0e740c377b0306a8c652c85fc10cd38b24bb244",
+            "tamanho_bytes": 9989630,
+            "duracao_segundos": 44.24,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1668590,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261003-9bfdbbde0f",
+      "data": "2026-10-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1803 - SIGA ESSES PASSOS.mp4",
+        "sha256": "9bfdbbde0f10536602fbfdd359914fd4568de1a2b789ca763a02a2fe71467a5b"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "712da2022e81ed66-023-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/712da2022e81ed66-023-parte-01.mp4",
+            "sha256": "712da2022e81ed66d1a4df5539ed8a4ac535440e8b55750cad15906a09913f74",
+            "tamanho_bytes": 4617972,
+            "duracao_segundos": 19.674,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1746319,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261004-3ff8d89489",
+      "data": "2026-10-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1804 - PARE DE AGIR COMO CRIANCA.mp4",
+        "sha256": "3ff8d89489b1c6373ea61217e0dec8bad57b21c9ac34a6192775fd257429faf4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "204627f7d09818cd-024-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/204627f7d09818cd-024-parte-01.mp4",
+            "sha256": "204627f7d09818cdc790428539da64862a6357153bbc24709441c7a0acf965ef",
+            "tamanho_bytes": 11362741,
+            "duracao_segundos": 47.24,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1789170,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261005-8052ee8550",
+      "data": "2026-10-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1805 - SAI DE PERTO DESSES CARAS.mp4",
+        "sha256": "8052ee8550dc599fa1e293418f94176c8776f1de399e0b11da0972e5c7f23170"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "e504e60ca36924f0-025-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/e504e60ca36924f0-025-parte-01.mp4",
+            "sha256": "e504e60ca36924f0c8c6ea907a88f324e5baa0161ddf30ec8f5a973202d6cbdd",
+            "tamanho_bytes": 5851640,
+            "duracao_segundos": 27.96,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1538091,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261006-fd2a5806ed",
+      "data": "2026-10-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1806 - VENDEDOR DESPREPARADO VEJA OS ERROS.mp4",
+        "sha256": "fd2a5806edc7575d7176b4e94f9f6638fa687e0e9138645f2a48782f62eb3d2e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "176d896fdef8a120-026-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/176d896fdef8a120-026-parte-01.mp4",
+            "sha256": "176d896fdef8a120cd9224d0e122c0f953b28e582705cc24223fdea175e460ed",
+            "tamanho_bytes": 5868486,
+            "duracao_segundos": 25.36,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1715110,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261007-b5e2d0d8ba",
+      "data": "2026-10-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1807 - ACREDITA EM MACUMBA MAS NAO ACREDITA EM ORACAO.mp4",
+        "sha256": "b5e2d0d8bae954990031975cc7704ebfca8ffaa9eacd97be31a5c7a73e9bc929"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "0a4343a808069313-027-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0a4343a808069313-027-parte-01.mp4",
+            "sha256": "0a4343a80806931317ec2d1e6f7601bb392d4ae67871415712e2ccb023ed7bc8",
+            "tamanho_bytes": 6208150,
+            "duracao_segundos": 44.4,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 983452,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261008-d9a837edb9",
+      "data": "2026-10-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1808 - SE ESTA BATENDO A META NA PRIMEIRA SEMANA OLHE PARA O Q.mp4",
+        "sha256": "d9a837edb93276739f054dea192c4587129aad499ea84e50d0b8300ff6639fec"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "9c2226e1d45b03eb-028-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/9c2226e1d45b03eb-028-parte-01.mp4",
+            "sha256": "9c2226e1d45b03eb9df02fe9eba56d87790f2c6627266fd26b0db6e814182c83",
+            "tamanho_bytes": 8692536,
+            "duracao_segundos": 26.48,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2489741,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261009-ea4aa0500e",
+      "data": "2026-10-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1809 - VOCE ESTA NO CONTROLE.mp4",
+        "sha256": "ea4aa0500eb6b7a256cd1683fcd666233d7e46dbef62726d07c9f318f13e0d0c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "238ac8c647af0d3b-029-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/238ac8c647af0d3b-029-parte-01.mp4",
+            "sha256": "238ac8c647af0d3b1d7d6c7de74a12ee634b015811892c2b8e271855a7e9c1c7",
+            "tamanho_bytes": 3323742,
+            "duracao_segundos": 17.76,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1361954,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261010-d7a7f07320",
+      "data": "2026-10-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1810 - 80 DO QUE VOCE PENSA E POR CAUSA DISSO.mp4",
+        "sha256": "d7a7f07320e999e0401a93da553f65d07d4a97629ff56ca1798fdd0080a339fa"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "af13fb80fb42a1a4-030-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/af13fb80fb42a1a4-030-parte-01.mp4",
+            "sha256": "af13fb80fb42a1a4fdbf63c987418a7025d9d769b8342d79fdea4610b21ef6c8",
+            "tamanho_bytes": 6947048,
+            "duracao_segundos": 39.72,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1264791,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261011-31d8108ac2",
+      "data": "2026-10-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1811 - A ERA LULA PRECISA ACABAR.mp4",
+        "sha256": "31d8108ac24fa5bbe159c9d8d190180bca5994906caeb1ab638f6b337c9da8e5"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "2abac97422c6716d-031-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/2abac97422c6716d-031-parte-01.mp4",
+            "sha256": "2abac97422c6716ddf5f82fe2b2e85ea54d872de744e4b941e37720bf1157cec",
+            "tamanho_bytes": 2944830,
+            "duracao_segundos": 38.64,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 472111,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "b0d693e56e843fd5-031-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/b0d693e56e843fd5-031-parte-02.mp4",
+            "sha256": "b0d693e56e843fd578ba78c2bf595c5933a63c15e05e41b6a163b08b788623c7",
+            "tamanho_bytes": 2606575,
+            "duracao_segundos": 38.64,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 407212,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261012-93de5f7065",
+      "data": "2026-10-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1812 - VA ATE O LIMITE DA ESTUPIDEZ.mp4",
+        "sha256": "93de5f706501550bc82fa7b8899e2d9c2951030907e26774158cd0cbd51f7425"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "9a0393d45e4d8802-032-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/9a0393d45e4d8802-032-parte-01.mp4",
+            "sha256": "9a0393d45e4d8802937b236942be8d61ac30cbb1318e1e2b138b99c7cbb1f12d",
+            "tamanho_bytes": 4475838,
+            "duracao_segundos": 16.72,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2002335,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261013-4184cc3706",
+      "data": "2026-10-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1813 - NUNCA VI ALGUEM DE ESQUERDA FICAR INELEGIVEL.mp4",
+        "sha256": "4184cc3706f10984c80153830c1474e0f21a5cad1d2543fb57f15ba827799456"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "b7e16c9fc773d14a-033-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/b7e16c9fc773d14a-033-parte-01.mp4",
+            "sha256": "b7e16c9fc773d14a4860ec0ac09780b3af52e440dc6268faac70131ed45fc72f",
+            "tamanho_bytes": 2053086,
+            "duracao_segundos": 33.52,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 354561,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "829b4a1ce3b15785-033-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/829b4a1ce3b15785-033-parte-02.mp4",
+            "sha256": "829b4a1ce3b1578577eeff85c4c853a3fa5cfe1e4c1d93b6a49f50d4a9ce756d",
+            "tamanho_bytes": 2032977,
+            "duracao_segundos": 33.52,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 349575,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261014-660546add1",
+      "data": "2026-10-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1814 - QUEM VOCE CHAMARIA PARA PEDIR UM CONSELHO TOMANDO UM CA.mp4",
+        "sha256": "660546add1bce5c48894d09438a9d8b58b5d3146b4ad051867bc0d779399cd05"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "5a93bdedc65fb207-034-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/5a93bdedc65fb207-034-parte-01.mp4",
+            "sha256": "5a93bdedc65fb2077e29fe6cd95518df00f68df2ba1aa2f9706cf5f66d176c17",
+            "tamanho_bytes": 13729367,
+            "duracao_segundos": 50.44,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2038432,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261015-19bd2903d1",
+      "data": "2026-10-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1815 - TEM QUE FAZER ISSO TODOS OS DIAS.mp4",
+        "sha256": "19bd2903d11f4edf86b9b11240519020692a82ffd17f16879b0eb86e39f5502c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "4009109b3fe862ec-035-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/4009109b3fe862ec-035-parte-01.mp4",
+            "sha256": "4009109b3fe862ecbd3b9de6b551d780446e526357b562af3d4b6096a5ed98b6",
+            "tamanho_bytes": 8357446,
+            "duracao_segundos": 52.354,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1143114,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261016-fd96ee4990",
+      "data": "2026-10-16",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1816 - AMBIENTES CERTOS PESSOAS ERRADAS.mp4",
+        "sha256": "fd96ee4990cc0d9210bd0a648e2bbadef053f0bcb659807439ccada2b6fdc3cc"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "ad7fec267fe129e9-036-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/ad7fec267fe129e9-036-parte-01.mp4",
+            "sha256": "ad7fec267fe129e98659ba55464e2514d261638cf3a893e7b27cb11bd71b8fcf",
+            "tamanho_bytes": 9134735,
+            "duracao_segundos": 43.08,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1559923,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261017-6f63cacb30",
+      "data": "2026-10-17",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1817 - O LIVRO QUE VAI MUDAR SUA VISAO DA VIDA.mp4",
+        "sha256": "6f63cacb3079b6a8ac333ee2b80d0f89519b38945dc8116e0c2aa2e46971def1"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "6247e839b863b081-037-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/6247e839b863b081-037-parte-01.mp4",
+            "sha256": "6247e839b863b081ad32c00995b377331b548d2779579c4f5a2a6ee0fc8892bf",
+            "tamanho_bytes": 10605633,
+            "duracao_segundos": 42.8,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1843961,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261018-8202df11b3",
+      "data": "2026-10-18",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1818 - TA VIVO ENTAO DA PRA MELHORAR.mp4",
+        "sha256": "8202df11b3351da09cd8f37f431b2c0f844c91798cc3427e59bd6032eb1bf938"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "8a40536b0cd69e5c-038-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/8a40536b0cd69e5c-038-parte-01.mp4",
+            "sha256": "8a40536b0cd69e5ce2ddb14070c63e241ff0cda3559c2954f230829ff8175392",
+            "tamanho_bytes": 3534016,
+            "duracao_segundos": 25.68,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 963289,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261019-ec8ee4d3b3",
+      "data": "2026-10-19",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1819 - PAPO RETO DO NINJA QUE VAI MUDAR SUA MENTE.mp4",
+        "sha256": "ec8ee4d3b31ce75c18fafff819d1f105bd6c94b652fd44807c845351b7a71a6f"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "57add1bf90a41289-039-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/57add1bf90a41289-039-parte-01.mp4",
+            "sha256": "57add1bf90a412896b097a9c0fa7c496172f365d933dea6e230f3c63634ac67a",
+            "tamanho_bytes": 5440090,
+            "duracao_segundos": 20.0,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2034829,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261020-ec8d8f088b",
+      "data": "2026-10-20",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1820 - QUEM ESTA EM PAZ NAO QUER GUERRA.mp4",
+        "sha256": "ec8d8f088b63db7351a24da50e613273d4b4c404fbb06ea2b48131106a14f602"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "e0554d187c445697-040-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/e0554d187c445697-040-parte-01.mp4",
+            "sha256": "e0554d187c445697db450caa31b23cac4c704faf30f52eb03c60cf61aabe758c",
+            "tamanho_bytes": 5266642,
+            "duracao_segundos": 23.76,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1636847,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261021-aa59a7860c",
+      "data": "2026-10-21",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1821 - UM VERDADEIRO AMIGO NAO TE ZOA.mp4",
+        "sha256": "aa59a7860c9870557d8218810c853f26613c5f48e0f05b46e935a4a9a801ad93"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "1797e4e1d2a32171-041-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/1797e4e1d2a32171-041-parte-01.mp4",
+            "sha256": "1797e4e1d2a32171020db9d004749112f268222435c96ab280d4d5f3bd205103",
+            "tamanho_bytes": 3113780,
+            "duracao_segundos": 14.12,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1627662,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261022-0960221453",
+      "data": "2026-10-22",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1822 - INVEJA 3 CONSELHOS PARA NAO SER ALVO.mp4",
+        "sha256": "0960221453503f9e74e14acc308f9f32858ff19136b84ab2598e2ba6e39b7349"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "25bd153c23f5c030-042-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/25bd153c23f5c030-042-parte-01.mp4",
+            "sha256": "25bd153c23f5c030e3e47d4918d70ceed577f26bb11d18ee29add061c11488f0",
+            "tamanho_bytes": 11998615,
+            "duracao_segundos": 50.76,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1754675,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261023-1af603b841",
+      "data": "2026-10-23",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1823 - JA PASSOU POR ISSO.mp4",
+        "sha256": "1af603b8418261ce398d7b872f08e17e6e8a486a0d1ccf863990e2146db29855"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "6f9a38710c0e188c-043-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/6f9a38710c0e188c-043-parte-01.mp4",
+            "sha256": "6f9a38710c0e188c897a7c0f6c3077856a8fce25a85ca17fbc980c9622533340",
+            "tamanho_bytes": 6398326,
+            "duracao_segundos": 37.08,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1245650,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "37ce1bf1ba60f58c-043-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/37ce1bf1ba60f58c-043-parte-02.mp4",
+            "sha256": "37ce1bf1ba60f58c78495092337fff73eda2e2bf770f48639e8047553e9da40f",
+            "tamanho_bytes": 6706851,
+            "duracao_segundos": 37.08,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1313180,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261024-f2d666e385",
+      "data": "2026-10-24",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1824 - O LIVRO QUE O NINJA INDICA.mp4",
+        "sha256": "f2d666e3850584185c0874bbcb06783b69ccecda32bb8ec25c55cfc3fdabe6ef"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "305baad5db3f1943-044-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/305baad5db3f1943-044-parte-01.mp4",
+            "sha256": "305baad5db3f194339282f2af83f9f0da126b9a2da7a9e42057f0c88e3d692b7",
+            "tamanho_bytes": 7474801,
+            "duracao_segundos": 28.44,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1964911,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261025-1d0a511622",
+      "data": "2026-10-25",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1825 - DEUS SABE DE COISAS QUE VOCE NUNCA VAI SABER.mp4",
+        "sha256": "1d0a511622487fdd55c8310b2b3062f8b9dca02cfba6a3715a3d7756005c5ce2"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "117203c6e3f75351-045-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/117203c6e3f75351-045-parte-01.mp4",
+            "sha256": "117203c6e3f75351e127a11378562035727a70943675b0deeae94492dd4b5fa3",
+            "tamanho_bytes": 7146018,
+            "duracao_segundos": 47.0,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1077907,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261026-984b073a5b",
+      "data": "2026-10-26",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1826 - QUAL E O OBJETIVO DO SEU TRABALHO.mp4",
+        "sha256": "984b073a5b0d56cbbd5171f7875cbeecd60c2314f8e5be79d4243ff108ae6aff"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "f1aa1cd274ae8b03-046-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/f1aa1cd274ae8b03-046-parte-01.mp4",
+            "sha256": "f1aa1cd274ae8b03b21b1b95018b1bfb8232e0d834a27f68b3a8e654a44d78e7",
+            "tamanho_bytes": 16724147,
+            "duracao_segundos": 58.96,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2131262,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261027-df4943013f",
+      "data": "2026-10-27",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1827 - TIRA OS PESOS DO BARCO.mp4",
+        "sha256": "df4943013f0fad9d538d2222862a60897cbc5803d8ccb4b2395d38fb086de662"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "6b4d5b7aa145217a-047-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/6b4d5b7aa145217a-047-parte-01.mp4",
+            "sha256": "6b4d5b7aa145217a2a311a7fff2280d91d6aed5bc53f3926608dc553bde2b9b3",
+            "tamanho_bytes": 6641051,
+            "duracao_segundos": 32.52,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1496939,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "8c9ce7235780e765-047-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/8c9ce7235780e765-047-parte-02.mp4",
+            "sha256": "8c9ce7235780e7650eba5323b5fa2277802b91ab85b0124ae373bb7d196c8126",
+            "tamanho_bytes": 6120043,
+            "duracao_segundos": 32.52,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1370362,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261028-632b2e122c",
+      "data": "2026-10-28",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1828 - JUNIOR ROSTIROLA TEM UMA MENSAGEM LINDA PRA VOCE.mp4",
+        "sha256": "632b2e122caa0d87942fe8aa3be1b7f97821af2342a811702b0881809eef8f85"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "7cf6f256206c6515-048-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/7cf6f256206c6515-048-parte-01.mp4",
+            "sha256": "7cf6f256206c6515d782852388b0776e87f0c149cffa6c67cffef4714b0b458d",
+            "tamanho_bytes": 8016221,
+            "duracao_segundos": 31.04,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1926670,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261029-a0c11d1c80",
+      "data": "2026-10-29",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1829 - PEITE OS BOLETOS.mp4",
+        "sha256": "a0c11d1c80af66960e1a37da6ae55fb73aabff10bc4bb0a418137d93b7fcbb0e"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "97ef1cd185b52830-049-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/97ef1cd185b52830-049-parte-01.mp4",
+            "sha256": "97ef1cd185b528302eb1c7c755b623800839ba51da561a961e965cd35c35fe8f",
+            "tamanho_bytes": 8432241,
+            "duracao_segundos": 30.24,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2094664,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "428531ec3b37a3b3-049-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/428531ec3b37a3b3-049-parte-02.mp4",
+            "sha256": "428531ec3b37a3b3fee027389845185791417885c8583dd00e3fa1908d19e3e9",
+            "tamanho_bytes": 8679882,
+            "duracao_segundos": 30.24,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2162795,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261030-5b09a682c4",
+      "data": "2026-10-30",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1830 - VOCE DECIDE COMO LEVA SUA VIDA.mp4",
+        "sha256": "5b09a682c4051ad617c1890f65bc94ee13e012d116f6192bf21b8627a6562c25"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "5c3c88e36cd38df6-050-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/5c3c88e36cd38df6-050-parte-01.mp4",
+            "sha256": "5c3c88e36cd38df6ef14ac6e899abc71b1e733e85aec74349e0bb9eb8a41f18b",
+            "tamanho_bytes": 5857879,
+            "duracao_segundos": 34.92,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1206659,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261031-755143b485",
+      "data": "2026-10-31",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1831 - JOEL JOTA FICA SEM PALAVRAS O QUE JUNIOR ROSTIROLA DISS.mp4",
+        "sha256": "755143b48594870ce86b02938425803b519fc0c6b00661ae7fef17e7036fb2a4"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "e8b3daee5853d5e3-051-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/e8b3daee5853d5e3-051-parte-01.mp4",
+            "sha256": "e8b3daee5853d5e3e721f6a2afbeaacac0a617271ad2f63d3e410fd2c54e3b17",
+            "tamanho_bytes": 10909810,
+            "duracao_segundos": 48.72,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1655119,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261101-1474c55855",
+      "data": "2026-11-01",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1832 - LARGUE ESSAS COMPANHIAS.mp4",
+        "sha256": "1474c558550c2efead32552dcb07d9c3ddb6e9cfaad1fd6d31a643f0565caaed"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "6298b434d4b6fda9-052-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/6298b434d4b6fda9-052-parte-01.mp4",
+            "sha256": "6298b434d4b6fda91117ea0a50f51a1de91a5e831f3bf328e53f3a46fc833674",
+            "tamanho_bytes": 7107683,
+            "duracao_segundos": 38.56,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1339053,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        },
+        {
+          "ordem": 2,
+          "midia": {
+            "asset": "7a765ac8ddfb3f8a-052-parte-02.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/7a765ac8ddfb3f8a-052-parte-02.mp4",
+            "sha256": "7a765ac8ddfb3f8a57bd2bae515e2553c08fb984a8822b948c18d4c40eeeccaa",
+            "tamanho_bytes": 10859036,
+            "duracao_segundos": 38.56,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2117862,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261102-d0f590f565",
+      "data": "2026-11-02",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1833 - VOCE NAO PODE DESISTIR.mp4",
+        "sha256": "d0f590f565c62d8463bbc3e6c4c60f36b5a7d301a3cfe8e8d5fb9238e0763d9a"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "802300e700578bf6-053-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/802300e700578bf6-053-parte-01.mp4",
+            "sha256": "802300e700578bf698945945dcfd6a298f51231fd10fe2d550b9a4935932a505",
+            "tamanho_bytes": 5692273,
+            "duracao_segundos": 27.2,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1538162,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261103-5e07e1daed",
+      "data": "2026-11-03",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1834 - ESSA MENSAGEM DE RODRIGO SILVA VAI MUDAR SEU DIA.mp4",
+        "sha256": "5e07e1daedc8c5e560c49a71a3bd70ca83ea77844ef92a2b65a4a0b538032f10"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "bbbd4be38ffdac6a-054-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/bbbd4be38ffdac6a-054-parte-01.mp4",
+            "sha256": "bbbd4be38ffdac6ae616d88d2a45c0ad60f8cf174eca4e4bf4dd479707e06ea9",
+            "tamanho_bytes": 13448484,
+            "duracao_segundos": 47.04,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2148205,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261104-469d0c3cdf",
+      "data": "2026-11-04",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1835 - VOCE CONCORDA COM ISSO.mp4",
+        "sha256": "469d0c3cdf7a05fc142b6ecf6b1bca29be56935b02ef70f1cf44856c3e6702fe"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "1bbd884a125c890e-055-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/1bbd884a125c890e-055-parte-01.mp4",
+            "sha256": "1bbd884a125c890e45cb6f5016d068bf27605ca3a533f955105cba2021351fa4",
+            "tamanho_bytes": 10143678,
+            "duracao_segundos": 48.32,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1544696,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261105-119832d3a0",
+      "data": "2026-11-05",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1836 - VOCE E TIMIDO.mp4",
+        "sha256": "119832d3a0f88315b98fc01b329fdf4c50b421d6a1cdf273560759b552de788c"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "0f44a7bff1d4b249-056-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0f44a7bff1d4b249-056-parte-01.mp4",
+            "sha256": "0f44a7bff1d4b249b13bd271d15772ab690d592df7bddfee2cc424fca5d98ca5",
+            "tamanho_bytes": 8401142,
+            "duracao_segundos": 38.08,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1628970,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261106-166320f8b2",
+      "data": "2026-11-06",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1837 - FACA ISSO E SERA UM PROCRASTINADOR NATO.mp4",
+        "sha256": "166320f8b20e25fcc39409bd4016aea573e6ebecb01c7a8db9174409cc3ea378"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "61fdd35ca81e7a38-057-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/61fdd35ca81e7a38-057-parte-01.mp4",
+            "sha256": "61fdd35ca81e7a38aa95ed644f6f3a6f69c3e43e0ee66bb9400c2f1fff476e74",
+            "tamanho_bytes": 7971001,
+            "duracao_segundos": 33.08,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1791823,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261107-076f13f69a",
+      "data": "2026-11-07",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1838 - O VERDADEIRO SIGNIFICADO DA MEDALHA QUE JOEL PRESENTEOU.mp4",
+        "sha256": "076f13f69abfa0d0629a6602eb2b9f83254882e8ba6c0f6e336d55374ac17b43"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "13a2ab1e4a308cbe-058-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/13a2ab1e4a308cbe-058-parte-01.mp4",
+            "sha256": "13a2ab1e4a308cbed6aa54f89ee9ecc41364f1dae279abbe0a7ab112e1ed6f00",
+            "tamanho_bytes": 12753306,
+            "duracao_segundos": 45.04,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2123533,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261108-189d7a268e",
+      "data": "2026-11-08",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1839 - VOCE SERA LEMBRADO POR ISSO.mp4",
+        "sha256": "189d7a268ef86b0d868af43689362d39703a0f5ed5a5d3ec16dc2769e356b882"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "403d2642bf2d1f0d-059-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/403d2642bf2d1f0d-059-parte-01.mp4",
+            "sha256": "403d2642bf2d1f0d4614b04570682af8f33f66d590d64ef7d37d93ecb9dfecdb",
+            "tamanho_bytes": 5534416,
+            "duracao_segundos": 29.0,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1390686,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
+    },
+    {
+      "id": "story-20261109-97192cc791",
+      "data": "2026-11-09",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1840 - FELIZ NATAL.mp4",
+        "sha256": "97192cc7915a1b0cc92cd533e08324bc1460eaa56937e1eb47cae27c184fdeda"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "9df2a4748bfe8060-060-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/9df2a4748bfe8060-060-parte-01.mp4",
+            "sha256": "9df2a4748bfe806011b19199b86cd259a4b817b4ce235cfcdcc3043b06d13b8e",
+            "tamanho_bytes": 4731848,
+            "duracao_segundos": 28.76,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 1182831,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ],
-  "estoque_minimo_dias": 1,
-  "estoque_alvo_dias": 2
+  "estoque_minimo_dias": 30,
+  "estoque_alvo_dias": 60
 }
