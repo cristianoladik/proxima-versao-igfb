@@ -7,7 +7,7 @@
       "id": "reel-20260911-0500-7577128732",
       "data": "2026-09-11",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1 - NASCER NUM LAR TOXICO PODE TE DEIXAR TOXICO.mp4",
         "sha256": "7577128732539e7a89c296bf64d23bcb1b6586548d1149faed8cddada304f8fc"
@@ -37,18 +37,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-10T17:25:20-03:00",
         "tentativas": 1,
         "video_id": "1807402870678159",
         "fase_api": "publicado_confirmado",
-        "id": "1807402870678159"
+        "id": "1807402870678159",
+        "publicado_em": "2026-09-10T17:26:11-03:00"
       },
-      "execucao": {
-        "id": "34526114920-1",
-        "reivindicado_em": "2026-09-10T17:23:54-03:00",
-        "expira_em": "2026-09-10T17:48:54-03:00"
-      }
+      "concluido_em": "2026-09-10T17:26:11-03:00"
     },
     {
       "id": "reel-20260912-0500-e7bde3c146",
