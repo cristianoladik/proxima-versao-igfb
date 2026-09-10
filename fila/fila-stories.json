@@ -29,12 +29,13 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-10T17:27:32-03:00",
             "tentativas": 1,
             "container_id": "18097657520173532",
             "fase_api": "publicado_confirmado",
-            "id": "18099761087305230"
+            "id": "18099761087305230",
+            "publicado_em": "2026-09-10T17:28:17-03:00"
           },
           "facebook": {
             "status": "pendente"
@@ -56,7 +57,11 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-09-10T17:28:17-03:00",
+            "tentativas": 1,
+            "container_id": "18097657742173532",
+            "fase_api": "container_criado"
           },
           "facebook": {
             "status": "pendente"
