@@ -94,7 +94,7 @@
       "id": "story-20260912-037920be94",
       "data": "2026-09-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1782 - ESSA GUERRA NAO E SUA.mp4",
         "sha256": "037920be9461ad60dd244422b545451e16f89dd2540cffa98107eaa35e36cbab"
@@ -125,22 +125,19 @@
             "publicado_em": "2026-09-11T19:19:31-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-11T19:19:33-03:00",
             "tentativas": 1,
             "video_id": "1093446183086190",
             "fase_api": "publicado_confirmado",
             "post_id": "2496856394112525",
             "id": "2496856394112525",
-            "media_id": "1093446183086190"
+            "media_id": "1093446183086190",
+            "publicado_em": "2026-09-11T19:20:26-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "34653419155-1",
-        "reivindicado_em": "2026-09-11T19:18:43-03:00",
-        "expira_em": "2026-09-11T19:43:43-03:00"
-      }
+      "concluido_em": "2026-09-11T19:20:26-03:00"
     },
     {
       "id": "story-20260913-8bc93cbec2",
