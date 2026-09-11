@@ -129,8 +129,10 @@
             "ultima_tentativa_em": "2026-09-11T19:19:33-03:00",
             "tentativas": 1,
             "video_id": "1093446183086190",
-            "fase_api": "finish_aceito",
-            "post_id": "2496856394112525"
+            "fase_api": "publicado_confirmado",
+            "post_id": "2496856394112525",
+            "id": "2496856394112525",
+            "media_id": "1093446183086190"
           }
         }
       ],
