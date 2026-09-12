@@ -106,7 +106,10 @@ def validar_midia(midia: dict[str, Any], contexto: str, tipo: str) -> None:
         raise RuntimeError(f"Nome de asset inseguro em {contexto}.")
     segundos = float(midia.get("duracao_segundos", 0))
     minimo = 4.0 if tipo == "reel" else 3.0
-    limite = 60.0 if tipo == "reel" else 59.0
+    # Reel vai ate 180s desde a regra do Cristiano de 10/09/2026. Este
+    # repositorio tinha ficado para tras em 60s, e por isso a rodada de
+    # 12/09 recusou a fila inteira num Reel de mais de um minuto.
+    limite = 180.0 if tipo == "reel" else 59.0
     if segundos < minimo or segundos > limite:
         raise RuntimeError(
             f"Duração fora do intervalo {minimo:g}–{limite:g}s em {contexto}."
