@@ -2287,6 +2287,40 @@
           }
         }
       ]
+    },
+    {
+      "id": "story-20261110-e7bde3c146",
+      "data": "2026-11-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "1 - O MUNDO TEM BILHOES DE PESSOAS.mp4",
+        "sha256": "e7bde3c1461fa5e334411261286ceeeb56f9e2bafbb2c9138a564eee6d7d3c21"
+      },
+      "partes": [
+        {
+          "ordem": 1,
+          "midia": {
+            "asset": "6b9290d6c3f97e50-061-parte-01.mp4",
+            "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/6b9290d6c3f97e50-061-parte-01.mp4",
+            "sha256": "6b9290d6c3f97e507b56bfe1cbaad6e5ffd645ce7d22a96306c4ee4e4535ef40",
+            "tamanho_bytes": 7591228,
+            "duracao_segundos": 23.56,
+            "largura": 1080,
+            "altura": 1920,
+            "fps": 25.0,
+            "bitrate_video_bps": 2442160,
+            "codec_video": "h264",
+            "formato_pixel": "yuv420p"
+          },
+          "instagram": {
+            "status": "pendente"
+          },
+          "facebook": {
+            "status": "pendente"
+          }
+        }
+      ]
     }
   ],
   "estoque_minimo_dias": 30,

@@ -7146,6 +7146,161 @@
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261110-0500-eb0feec579",
+      "data": "2026-11-10",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "2 - JUNTOS PODEMOS.mp4",
+        "sha256": "eb0feec579e2300af87bccf71f7fd81999e2eca90b109c88fef71c0c28bf59b2"
+      },
+      "midia": {
+        "asset": "eb0feec579e2300a-2---JUNTOS-PODEMOS.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/eb0feec579e2300a-2---JUNTOS-PODEMOS.mp4",
+        "sha256": "eb0feec579e2300af87bccf71f7fd81999e2eca90b109c88fef71c0c28bf59b2",
+        "tamanho_bytes": 48577434,
+        "duracao_segundos": 112.68,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3249526,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261110-0900-eb76ab5813",
+      "data": "2026-11-10",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "3 - O EMPREENDEDORISMO COMECA ANTES DO CNPJ.mp4",
+        "sha256": "eb76ab58138acf2a0d724e981dde9cc8eaf085aa4b88b065608f7bee9e4b5274"
+      },
+      "midia": {
+        "asset": "eb76ab58138acf2a-3---O-EMPREENDEDORISMO-COMECA-ANTES-DO-CNPJ.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/eb76ab58138acf2a-3---O-EMPREENDEDORISMO-COMECA-ANTES-DO-CNPJ.mp4",
+        "sha256": "eb76ab58138acf2a0d724e981dde9cc8eaf085aa4b88b065608f7bee9e4b5274",
+        "tamanho_bytes": 37188775,
+        "duracao_segundos": 85.24,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3290245,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261110-1300-c5fbff9996",
+      "data": "2026-11-10",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "3 - PRECISAMOS FALAR SOBRE ISSO.mp4",
+        "sha256": "c5fbff999624c9cd3a4003f388c4ad7ccd7e7c35986836455b713a1842dc22c8"
+      },
+      "midia": {
+        "asset": "c5fbff999624c9cd-3---PRECISAMOS-FALAR-SOBRE-ISSO.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/c5fbff999624c9cd-3---PRECISAMOS-FALAR-SOBRE-ISSO.mp4",
+        "sha256": "c5fbff999624c9cd3a4003f388c4ad7ccd7e7c35986836455b713a1842dc22c8",
+        "tamanho_bytes": 66435199,
+        "duracao_segundos": 93.96,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 5448091,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261110-1700-2e8cb6ded8",
+      "data": "2026-11-10",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "4 - NAO CONSEGUE EMPREENDER.mp4",
+        "sha256": "2e8cb6ded83b8b253e011dc2c2a8cbbb3b05c335d0169fc384de5beda9d10af5"
+      },
+      "midia": {
+        "asset": "2e8cb6ded83b8b25-4---NAO-CONSEGUE-EMPREENDER.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/2e8cb6ded83b8b25-4---NAO-CONSEGUE-EMPREENDER.mp4",
+        "sha256": "2e8cb6ded83b8b253e011dc2c2a8cbbb3b05c335d0169fc384de5beda9d10af5",
+        "tamanho_bytes": 89505340,
+        "duracao_segundos": 154.2,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 4445198,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261110-2100-c369f31be1",
+      "data": "2026-11-10",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "5 - DINHEIRO RESOLVE PROBLEMAS.mp4",
+        "sha256": "c369f31be13ebe375449f54e53de8de2927e620d72321a928624dcc06db9f4bc"
+      },
+      "midia": {
+        "asset": "c369f31be13ebe37-5---DINHEIRO-RESOLVE-PROBLEMAS.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/c369f31be13ebe37-5---DINHEIRO-RESOLVE-PROBLEMAS.mp4",
+        "sha256": "c369f31be13ebe375449f54e53de8de2927e620d72321a928624dcc06db9f4bc",
+        "tamanho_bytes": 42035410,
+        "duracao_segundos": 112.76,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2782717,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
     }
   ],
   "estoque_minimo_dias": 30,
