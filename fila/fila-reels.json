@@ -7329,8 +7329,318 @@
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261111-0500-4ad7ce5d3d",
+      "data": "2026-11-11",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "6 - O QUE NINGUEM TE CONTA SOBRE ENRIQUECER.mp4",
+        "sha256": "4ad7ce5d3d414465c4d319e2672c2ac8cfabf4bdb6e1a151c8b4343ddff13762"
+      },
+      "midia": {
+        "asset": "4ad7ce5d3d414465-6---O-QUE-NINGUEM-TE-CONTA-SOBRE-ENRIQUECER.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/4ad7ce5d3d414465-6---O-QUE-NINGUEM-TE-CONTA-SOBRE-ENRIQUECER.mp4",
+        "sha256": "4ad7ce5d3d414465c4d319e2672c2ac8cfabf4bdb6e1a151c8b4343ddff13762",
+        "tamanho_bytes": 42511656,
+        "duracao_segundos": 106.44,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2994652,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-0900-b7aeb941e0",
+      "data": "2026-11-11",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "10 - A FAMILIA E ONDE CONSTRUIMOS NOSSOS VALORES.mp4",
+        "sha256": "b7aeb941e093d1838aa709e9584d9a6fee0ecd36cb416869d20fd7fe88a9a8a8"
+      },
+      "midia": {
+        "asset": "b7aeb941e093d183-10---A-FAMILIA-E-ONDE-CONSTRUIMOS-NOSSOS-VALORES.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/b7aeb941e093d183-10---A-FAMILIA-E-ONDE-CONSTRUIMOS-NOSSOS-VALORES.mp4",
+        "sha256": "b7aeb941e093d1838aa709e9584d9a6fee0ecd36cb416869d20fd7fe88a9a8a8",
+        "tamanho_bytes": 32980691,
+        "duracao_segundos": 88.24,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2788891,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-1300-0f32b79257",
+      "data": "2026-11-11",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "11 - DIA DO COMERCIANTE.mp4",
+        "sha256": "0f32b79257ef038be7f17e56924ffacd139f1ba358dcf55223294f63d3f09756"
+      },
+      "midia": {
+        "asset": "0f32b79257ef038b-11---DIA-DO-COMERCIANTE.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0f32b79257ef038b-11---DIA-DO-COMERCIANTE.mp4",
+        "sha256": "0f32b79257ef038be7f17e56924ffacd139f1ba358dcf55223294f63d3f09756",
+        "tamanho_bytes": 49652399,
+        "duracao_segundos": 101.32,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3717771,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-1700-5b30ffe8be",
+      "data": "2026-11-11",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "12 - .mp4",
+        "sha256": "5b30ffe8be73c2a600de40bc9f982a0b59a9a6e0982fca1bccf17292bd348153"
+      },
+      "midia": {
+        "asset": "5b30ffe8be73c2a6-12---.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/5b30ffe8be73c2a6-12---.mp4",
+        "sha256": "5b30ffe8be73c2a600de40bc9f982a0b59a9a6e0982fca1bccf17292bd348153",
+        "tamanho_bytes": 14620647,
+        "duracao_segundos": 63.88,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 1632615,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261111-2100-eeed01e12b",
+      "data": "2026-11-11",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "12 - A BUSCA PELO CONHECIMENTO LEVA VOCE A SUA PROXIMA VERSA.mp4",
+        "sha256": "eeed01e12bd78485189c4edf052b84bb79303df0c86efeca9b4e92fbc346db4f"
+      },
+      "midia": {
+        "asset": "eeed01e12bd78485-12---A-BUSCA-PELO-CONHECIMENTO-LEVA-VOCE-A-SUA-PROXIMA-VERSA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/eeed01e12bd78485-12---A-BUSCA-PELO-CONHECIMENTO-LEVA-VOCE-A-SUA-PROXIMA-VERSA.mp4",
+        "sha256": "eeed01e12bd78485189c4edf052b84bb79303df0c86efeca9b4e92fbc346db4f",
+        "tamanho_bytes": 15809183,
+        "duracao_segundos": 63.88,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 1781466,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-0500-0f5907de5c",
+      "data": "2026-11-12",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "16 - NAO DEIXE QUE O MEDO SEJA MAIOR DO QUE O SEU PROPOSITO.mp4",
+        "sha256": "0f5907de5ca9fa7400b62d15f754b229e21d734aed2b793618bbb5d42957253a"
+      },
+      "midia": {
+        "asset": "0f5907de5ca9fa74-16---NAO-DEIXE-QUE-O-MEDO-SEJA-MAIOR-DO-QUE-O-SEU-PROPOSITO.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0f5907de5ca9fa74-16---NAO-DEIXE-QUE-O-MEDO-SEJA-MAIOR-DO-QUE-O-SEU-PROPOSITO.mp4",
+        "sha256": "0f5907de5ca9fa7400b62d15f754b229e21d734aed2b793618bbb5d42957253a",
+        "tamanho_bytes": 30747712,
+        "duracao_segundos": 71.8,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3223908,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-0900-0512c495e6",
+      "data": "2026-11-12",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "19 - LUXO DE VERDADE NAO E O QUE VOCE MOSTRA.mp4",
+        "sha256": "0512c495e61f6df83c59a25e7b6f60b18b53382ebe2c93ed629fb8c616784943"
+      },
+      "midia": {
+        "asset": "0512c495e61f6df8-19---LUXO-DE-VERDADE-NAO-E-O-QUE-VOCE-MOSTRA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0512c495e61f6df8-19---LUXO-DE-VERDADE-NAO-E-O-QUE-VOCE-MOSTRA.mp4",
+        "sha256": "0512c495e61f6df83c59a25e7b6f60b18b53382ebe2c93ed629fb8c616784943",
+        "tamanho_bytes": 20327153,
+        "duracao_segundos": 60.48,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2490504,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-1300-bcd3b8b139",
+      "data": "2026-11-12",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "20 - MENINO BURR0 POR ISSO QUE APANH.mp4",
+        "sha256": "bcd3b8b139ddbb3e9e7441107c8e7ce079be257e953bba927de53eb3cbf6de29"
+      },
+      "midia": {
+        "asset": "bcd3b8b139ddbb3e-20---MENINO-BURR0-POR-ISSO-QUE-APANH.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/bcd3b8b139ddbb3e-20---MENINO-BURR0-POR-ISSO-QUE-APANH.mp4",
+        "sha256": "bcd3b8b139ddbb3e9e7441107c8e7ce079be257e953bba927de53eb3cbf6de29",
+        "tamanho_bytes": 48770502,
+        "duracao_segundos": 73.16,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 5131424,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-1700-84c42d0864",
+      "data": "2026-11-12",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "20 - MUITA GENTE CONFUNDE FICAR SEM DINHEIRO.mp4",
+        "sha256": "84c42d08647b8557f54a87bd83ceb048b6a374c52723537875867946bc668912"
+      },
+      "midia": {
+        "asset": "84c42d08647b8557-20---MUITA-GENTE-CONFUNDE-FICAR-SEM-DINHEIRO.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/84c42d08647b8557-20---MUITA-GENTE-CONFUNDE-FICAR-SEM-DINHEIRO.mp4",
+        "sha256": "84c42d08647b8557f54a87bd83ceb048b6a374c52723537875867946bc668912",
+        "tamanho_bytes": 40808856,
+        "duracao_segundos": 97.76,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3140716,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261112-2100-ed7848a4af",
+      "data": "2026-11-12",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "23 - O QUE E FELICIDADE PRA MIM.mp4",
+        "sha256": "ed7848a4afd2297b82f28e2e169931e6fd493ce63991848c01e78dcc68c886c7"
+      },
+      "midia": {
+        "asset": "ed7848a4afd2297b-23---O-QUE-E-FELICIDADE-PRA-MIM.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/ed7848a4afd2297b-23---O-QUE-E-FELICIDADE-PRA-MIM.mp4",
+        "sha256": "ed7848a4afd2297b82f28e2e169931e6fd493ce63991848c01e78dcc68c886c7",
+        "tamanho_bytes": 49865019,
+        "duracao_segundos": 116.04,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3235320,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
     }
   ],
-  "estoque_minimo_dias": 30,
+  "estoque_minimo_dias": 60,
   "estoque_alvo_dias": 60
 }

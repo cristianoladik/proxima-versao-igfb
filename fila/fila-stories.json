@@ -2339,6 +2339,6 @@
       ]
     }
   ],
-  "estoque_minimo_dias": 30,
+  "estoque_minimo_dias": 60,
   "estoque_alvo_dias": 60
 }
