@@ -52,7 +52,7 @@
       "id": "reel-20260912-0500-e7bde3c146",
       "data": "2026-09-12",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1 - O MUNDO TEM BILHOES DE PESSOAS.mp4",
         "sha256": "e7bde3c1461fa5e334411261286ceeeb56f9e2bafbb2c9138a564eee6d7d3c21"
@@ -82,18 +82,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-12T23:01:48-03:00",
         "tentativas": 1,
         "video_id": "937477932214771",
         "fase_api": "publicado_confirmado",
-        "id": "937477932214771"
+        "id": "937477932214771",
+        "publicado_em": "2026-09-12T23:02:26-03:00"
       },
-      "execucao": {
-        "id": "34731922390-1",
-        "reivindicado_em": "2026-09-12T23:00:17-03:00",
-        "expira_em": "2026-09-12T23:25:17-03:00"
-      }
+      "concluido_em": "2026-09-12T23:02:26-03:00"
     },
     {
       "id": "reel-20260913-0500-259bf3a121",
