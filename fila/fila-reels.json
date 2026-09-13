@@ -117,12 +117,13 @@
       },
       "instagram": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-13T09:20:20-03:00",
         "tentativas": 1,
         "container_id": "18098548883173532",
         "fase_api": "publicado_confirmado",
-        "id": "18194823370390026"
+        "id": "18194823370390026",
+        "publicado_em": "2026-09-13T09:21:07-03:00"
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
