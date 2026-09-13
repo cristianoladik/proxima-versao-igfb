@@ -97,7 +97,7 @@
       "id": "reel-20260913-0500-259bf3a121",
       "data": "2026-09-13",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "2 - CAFEINA OU CORTISOL O QUE ATRAPALHA MAIS O SONO.mp4",
         "sha256": "259bf3a121aecef9bb0afc2939fd9b0ce9b6c5c0e0f075fccfb8840a350bf407"
@@ -127,18 +127,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-13T09:21:09-03:00",
         "tentativas": 1,
         "video_id": "2060241341364254",
         "fase_api": "publicado_confirmado",
-        "id": "2060241341364254"
+        "id": "2060241341364254",
+        "publicado_em": "2026-09-13T09:21:58-03:00"
       },
-      "execucao": {
-        "id": "34756799380-1",
-        "reivindicado_em": "2026-09-13T09:20:18-03:00",
-        "expira_em": "2026-09-13T09:45:18-03:00"
-      }
+      "concluido_em": "2026-09-13T09:21:58-03:00"
     },
     {
       "id": "reel-20260914-0500-e3cce0a470",
