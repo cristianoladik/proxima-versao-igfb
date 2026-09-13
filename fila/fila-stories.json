@@ -144,7 +144,7 @@
       "id": "story-20260913-8bc93cbec2",
       "data": "2026-09-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1783 - O SISTEMA NAO NOS PROGRAMOU PRA ISSO.mp4",
         "sha256": "8bc93cbec2c6ee4441b40a1cf9ad0d64301bb7d13b0b222d66db55e2df51bf44"
@@ -175,22 +175,19 @@
             "publicado_em": "2026-09-12T23:05:02-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-12T23:05:03-03:00",
             "tentativas": 1,
             "video_id": "1112556727781161",
             "fase_api": "publicado_confirmado",
             "post_id": "1599311414936245",
             "id": "1599311414936245",
-            "media_id": "1112556727781161"
+            "media_id": "1112556727781161",
+            "publicado_em": "2026-09-12T23:05:53-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "34732101430-1",
-        "reivindicado_em": "2026-09-12T23:04:13-03:00",
-        "expira_em": "2026-09-12T23:29:13-03:00"
-      }
+      "concluido_em": "2026-09-12T23:05:53-03:00"
     },
     {
       "id": "story-20260914-6ea5380874",
