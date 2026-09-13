@@ -18,6 +18,11 @@ from fila_utils import (
     salvar,
 )
 
+# O conferidor da fila agora só AVISA sobre item ruim, para um vídeo errado lá
+# no fim da fila não calar o canal inteiro. Quem barra o item ruim é aqui, na
+# hora de publicar, e só o horário dele fica sem publicar (12/09/2026).
+from validar_filas import defeito_do_reel, defeito_do_story
+
 
 def claim_esta_ativo(item: dict[str, Any], agora: datetime) -> bool:
     expiracao = str(item.get("execucao", {}).get("expira_em", ""))
@@ -76,14 +81,24 @@ def main() -> None:
     stories = carregar(FILA_STORIES)
     reel = story = False
     if args.escopo in {"reel", "ambos"}:
+        item_reel = localizar_reel(reels, args.data, args.horario)
+        if item_reel is not None:
+            defeito = defeito_do_reel(item_reel, str(item_reel.get("id", "")))
+            if defeito:
+                # So este horario fica sem publicar; o resto da fila segue.
+                raise SystemExit(f"Reel do slot recusado por defeito: {defeito}")
         reel = reivindicar_item(
-            localizar_reel(reels, args.data, args.horario),
+            item_reel,
             args.claim_id,
             agora,
             args.duracao_minutos,
         )
     if args.escopo in {"story", "ambos"}:
         item_story = localizar_story(stories, args.data, args.horario)
+        if item_story is not None:
+            defeito = defeito_do_story(item_story, str(item_story.get("id", "")))
+            if defeito:
+                raise SystemExit(f"Story do slot recusado por defeito: {defeito}")
         story = reivindicar_item(
             item_story,
             args.claim_id,

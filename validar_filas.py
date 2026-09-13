@@ -133,22 +133,15 @@ def validar_midia(midia: dict[str, Any], contexto: str, tipo: str) -> None:
         raise RuntimeError(f"Codec ou formato de pixel incompatível em {contexto}.")
 
 
-def validar_reels(fila: dict[str, Any]) -> int:
-    if fila.get("versao_schema") != 1 or fila.get("canal") != "instagram-facebook-reels":
-        raise RuntimeError("Cabeçalho da fila de Reels inválido.")
-    ids: set[str] = set()
-    janelas: set[tuple[str, str]] = set()
-    for item in fila.get("conteudos", []):
-        identificador = str(item.get("id", ""))
-        janela = (validar_data_iso(item.get("data"), identificador), str(item.get("horario", "")))
-        if not identificador or identificador in ids:
-            raise RuntimeError(f"ID de Reel ausente ou repetido: {identificador!r}")
-        if janela in janelas or janela[1] not in HORARIOS_REELS:
-            raise RuntimeError(f"Janela de Reel inválida ou repetida: {janela}")
-        ids.add(identificador)
-        janelas.add(janela)
-        if item.get("status") not in STATUS_ITEM:
-            raise RuntimeError(f"Status de Reel inválido em {identificador}.")
+def defeito_do_reel(item: dict[str, Any], identificador: str) -> str | None:
+    """Devolve o problema que afeta SÓ este Reel, ou None se ele está bom.
+
+    Um vídeo com duração errada lá no fim da fila não pode calar o canal
+    inteiro. Era o que acontecia: o conferidor parava no primeiro item ruim e a
+    publicação do dia nem chegava a ser tentada. Em 12/09/2026 cinco vídeos
+    agendados para novembro deixaram a Próxima Versão sem publicar de manhã.
+    """
+    try:
         validar_origem(item.get("origem", {}), identificador)
         validar_execucao(item, identificador)
         validar_midia(item.get("midia", {}), identificador, "reel")
@@ -160,29 +153,41 @@ def validar_reels(fila: dict[str, Any]) -> int:
                 plataforma=plataforma,
             )
         if item.get("status") == "concluido" and not all(
-            item[p].get("status") == "publicado" for p in ("instagram", "facebook")
+            item.get(p, {}).get("status") == "publicado"
+            for p in ("instagram", "facebook")
         ):
             raise RuntimeError(f"Reel concluído sem as duas confirmações: {identificador}")
-    return len(ids)
+    except RuntimeError as erro:
+        return str(erro)
+    return None
 
 
-def validar_stories(fila: dict[str, Any]) -> tuple[int, int]:
-    if fila.get("versao_schema") != 1 or fila.get("canal") != "instagram-facebook-stories":
-        raise RuntimeError("Cabeçalho da fila de Stories inválido.")
+def validar_reels(fila: dict[str, Any]) -> tuple[int, dict[str, str]]:
+    if fila.get("versao_schema") != 1 or fila.get("canal") != "instagram-facebook-reels":
+        raise RuntimeError("Cabeçalho da fila de Reels inválido.")
     ids: set[str] = set()
-    datas: set[str] = set()
-    total_partes = 0
-    for pacote in fila.get("pacotes", []):
-        identificador = str(pacote.get("id", ""))
-        data = validar_data_iso(pacote.get("data"), identificador)
+    janelas: set[tuple[str, str]] = set()
+    defeitos: dict[str, str] = {}
+    for item in fila.get("conteudos", []):
+        identificador = str(item.get("id", ""))
+        janela = (validar_data_iso(item.get("data"), identificador), str(item.get("horario", "")))
         if not identificador or identificador in ids:
-            raise RuntimeError(f"ID de Story ausente ou repetido: {identificador!r}")
-        if data in datas or pacote.get("horario", "09:00") != "09:00":
-            raise RuntimeError(f"Data/horário de Story inválido ou repetido: {data}")
+            raise RuntimeError(f"ID de Reel ausente ou repetido: {identificador!r}")
+        if janela in janelas or janela[1] not in HORARIOS_REELS:
+            raise RuntimeError(f"Janela de Reel inválida ou repetida: {janela}")
         ids.add(identificador)
-        datas.add(data)
-        if pacote.get("status") not in STATUS_ITEM:
-            raise RuntimeError(f"Status de Story inválido em {identificador}.")
+        janelas.add(janela)
+        if item.get("status") not in STATUS_ITEM:
+            raise RuntimeError(f"Status de Reel inválido em {identificador}.")
+        defeito = defeito_do_reel(item, identificador)
+        if defeito:
+            defeitos[identificador] = defeito
+    return len(ids), defeitos
+
+
+def defeito_do_story(pacote: dict[str, Any], identificador: str) -> str | None:
+    """Devolve o problema que afeta SÓ este pacote de Story, ou None."""
+    try:
         validar_origem(pacote.get("origem", {}), identificador)
         validar_execucao(pacote, identificador)
         partes = pacote.get("partes", [])
@@ -207,19 +212,52 @@ def validar_stories(fila: dict[str, Any]) -> tuple[int, int]:
                     plataforma=plataforma,
                 )
         if pacote.get("status") == "concluido" and not all(
-            parte[p].get("status") == "publicado"
+            parte.get(p, {}).get("status") == "publicado"
             for parte in partes
             for p in ("instagram", "facebook")
         ):
             raise RuntimeError(f"Story concluído sem todas as confirmações: {identificador}")
-        total_partes += len(partes)
-    return len(ids), total_partes
+    except RuntimeError as erro:
+        return str(erro)
+    return None
+
+
+def validar_stories(fila: dict[str, Any]) -> tuple[int, int, dict[str, str]]:
+    if fila.get("versao_schema") != 1 or fila.get("canal") != "instagram-facebook-stories":
+        raise RuntimeError("Cabeçalho da fila de Stories inválido.")
+    ids: set[str] = set()
+    datas: set[str] = set()
+    defeitos: dict[str, str] = {}
+    total_partes = 0
+    for pacote in fila.get("pacotes", []):
+        identificador = str(pacote.get("id", ""))
+        data = validar_data_iso(pacote.get("data"), identificador)
+        if not identificador or identificador in ids:
+            raise RuntimeError(f"ID de Story ausente ou repetido: {identificador!r}")
+        if data in datas or pacote.get("horario", "09:00") != "09:00":
+            raise RuntimeError(f"Data/horário de Story inválido ou repetido: {data}")
+        ids.add(identificador)
+        datas.add(data)
+        if pacote.get("status") not in STATUS_ITEM:
+            raise RuntimeError(f"Status de Story inválido em {identificador}.")
+        defeito = defeito_do_story(pacote, identificador)
+        if defeito:
+            defeitos[identificador] = defeito
+        total_partes += len(pacote.get("partes", []))
+    return len(ids), total_partes, defeitos
 
 
 def main() -> None:
-    reels = validar_reels(carregar(FILA_REELS))
-    stories, partes = validar_stories(carregar(FILA_STORIES))
+    reels, defeitos_reels = validar_reels(carregar(FILA_REELS))
+    stories, partes, defeitos_stories = validar_stories(carregar(FILA_STORIES))
     print(f"OK: {reels} Reels, {stories} pacotes de Stories e {partes} partes válidas.")
+    # Defeito de item é AVISO, não parada. Quem recusa o item ruim na hora de
+    # publicar é o reivindicar.py, e só o horário daquele item é afetado.
+    defeitos = {**defeitos_reels, **defeitos_stories}
+    if defeitos:
+        print(f"AVISO: {len(defeitos)} item(ns) com defeito; serão pulados na publicação:")
+        for identificador, motivo in sorted(defeitos.items()):
+            print(f"  - {identificador}: {motivo}")
 
 
 if __name__ == "__main__":
