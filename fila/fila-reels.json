@@ -173,7 +173,7 @@
       "id": "reel-20260915-0500-5d0fc975eb",
       "data": "2026-09-15",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "5 - POR QUE AS PESSOAS GOSTAM DE REALITY SHOW.mp4",
         "sha256": "5d0fc975eb7e4c334eb7364bb5992a9a31b8b5f8075496ea39791dbefd5eb343"
@@ -203,18 +203,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-15T18:19:57-03:00",
         "tentativas": 1,
         "video_id": "1075198548594103",
         "fase_api": "publicado_confirmado",
-        "id": "1075198548594103"
+        "id": "1075198548594103",
+        "publicado_em": "2026-09-15T18:20:50-03:00"
       },
-      "execucao": {
-        "id": "35024878028-1",
-        "reivindicado_em": "2026-09-15T18:18:59-03:00",
-        "expira_em": "2026-09-15T18:43:59-03:00"
-      }
+      "concluido_em": "2026-09-15T18:20:50-03:00"
     },
     {
       "id": "reel-20260916-0500-09887548fe",
