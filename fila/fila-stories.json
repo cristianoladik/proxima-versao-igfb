@@ -228,7 +228,7 @@
       "id": "story-20260915-0e54d28ca0",
       "data": "2026-09-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1785 - ESSE E O MELHOR INVESTIMENTO.mp4",
         "sha256": "0e54d28ca06309a08fee7d73bc0d6ae3d646974dc57081f00422dc77f4c7e43a"
@@ -250,13 +250,13 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "erro",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-15T18:21:29-03:00",
             "tentativas": 2,
             "container_id": "18099116687173532",
             "fase_api": "publicado_confirmado",
-            "erro": "O Instagram não processou o container: {'id': '18099116687173532', 'status_code': 'ERROR', 'status': 'Error: Media upload has failed with error code 2207077'}",
-            "id": "17956182804252946"
+            "id": "17956182804252946",
+            "publicado_em": "2026-09-15T18:21:42-03:00"
           },
           "facebook": {
             "status": "publicado",
@@ -271,11 +271,7 @@
           }
         }
       ],
-      "execucao": {
-        "id": "35025125025-1",
-        "reivindicado_em": "2026-09-15T18:21:25-03:00",
-        "expira_em": "2026-09-15T18:46:25-03:00"
-      }
+      "concluido_em": "2026-09-15T18:21:42-03:00"
     },
     {
       "id": "story-20260916-1f705afc56",
