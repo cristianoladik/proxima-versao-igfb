@@ -254,8 +254,9 @@
             "ultima_tentativa_em": "2026-09-15T18:21:29-03:00",
             "tentativas": 2,
             "container_id": "18099116687173532",
-            "fase_api": "publicacao_pendente_confirmacao",
-            "erro": "O Instagram não processou o container: {'id': '18099116687173532', 'status_code': 'ERROR', 'status': 'Error: Media upload has failed with error code 2207077'}"
+            "fase_api": "publicado_confirmado",
+            "erro": "O Instagram não processou o container: {'id': '18099116687173532', 'status_code': 'ERROR', 'status': 'Error: Media upload has failed with error code 2207077'}",
+            "id": "17956182804252946"
           },
           "facebook": {
             "status": "publicado",
