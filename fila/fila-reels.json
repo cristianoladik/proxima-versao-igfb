@@ -7639,6 +7639,161 @@
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261113-0500-4e62945f6e",
+      "data": "2026-11-13",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "24 - CHEGAR LA.mp4",
+        "sha256": "4e62945f6e1459b821f7862db43e97d1c42e3af81eca22c3831dad6b890523e5"
+      },
+      "midia": {
+        "asset": "4e62945f6e1459b8-24---CHEGAR-LA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/4e62945f6e1459b8-24---CHEGAR-LA.mp4",
+        "sha256": "4e62945f6e1459b821f7862db43e97d1c42e3af81eca22c3831dad6b890523e5",
+        "tamanho_bytes": 48066009,
+        "duracao_segundos": 91.04,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 4023131,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-0900-ee113c9d0d",
+      "data": "2026-11-13",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "26 - SE VOCE TEM DIVIDAS VOCE NAO PROSPERA.mp4",
+        "sha256": "ee113c9d0d5680860274e8a8e94aaf99eac03235456b2b0cfef21d4ccae4c48e"
+      },
+      "midia": {
+        "asset": "ee113c9d0d568086-26---SE-VOCE-TEM-DIVIDAS-VOCE-NAO-PROSPERA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/ee113c9d0d568086-26---SE-VOCE-TEM-DIVIDAS-VOCE-NAO-PROSPERA.mp4",
+        "sha256": "ee113c9d0d5680860274e8a8e94aaf99eac03235456b2b0cfef21d4ccae4c48e",
+        "tamanho_bytes": 45691416,
+        "duracao_segundos": 75.8,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 4621452,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-1300-71f6fba1f7",
+      "data": "2026-11-13",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "27 - EMPREENDER NAO E SO GANHAR DINHEIRO.mp4",
+        "sha256": "71f6fba1f798ce3f7b19b07b47fcf0edadbc8f065a3327b6fb982910687a2c7f"
+      },
+      "midia": {
+        "asset": "71f6fba1f798ce3f-27---EMPREENDER-NAO-E-SO-GANHAR-DINHEIRO.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/71f6fba1f798ce3f-27---EMPREENDER-NAO-E-SO-GANHAR-DINHEIRO.mp4",
+        "sha256": "71f6fba1f798ce3f7b19b07b47fcf0edadbc8f065a3327b6fb982910687a2c7f",
+        "tamanho_bytes": 19848574,
+        "duracao_segundos": 64.04,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2280534,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-1700-2c70921bde",
+      "data": "2026-11-13",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "32 - EXISTEM DOIS TIPOS DE HOMEM.mp4",
+        "sha256": "2c70921bde6abfb06b8b0acfc35a9daecca3ef2d89d76d041eddcdfb55e54056"
+      },
+      "midia": {
+        "asset": "2c70921bde6abfb0-32---EXISTEM-DOIS-TIPOS-DE-HOMEM.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/2c70921bde6abfb0-32---EXISTEM-DOIS-TIPOS-DE-HOMEM.mp4",
+        "sha256": "2c70921bde6abfb06b8b0acfc35a9daecca3ef2d89d76d041eddcdfb55e54056",
+        "tamanho_bytes": 21678212,
+        "duracao_segundos": 61.76,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2607662,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261113-2100-1f6b08e50f",
+      "data": "2026-11-13",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "34 - O PERIGO DA VAIDADE NOS NEGOCIOS.mp4",
+        "sha256": "1f6b08e50f40e046fdd2d1b5a3f3d8e80554e61b135fea71ec3eb89f2eac1e51"
+      },
+      "midia": {
+        "asset": "1f6b08e50f40e046-34---O-PERIGO-DA-VAIDADE-NOS-NEGOCIOS.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/1f6b08e50f40e046-34---O-PERIGO-DA-VAIDADE-NOS-NEGOCIOS.mp4",
+        "sha256": "1f6b08e50f40e046fdd2d1b5a3f3d8e80554e61b135fea71ec3eb89f2eac1e51",
+        "tamanho_bytes": 50161162,
+        "duracao_segundos": 116.44,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3245558,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
     }
   ],
   "estoque_minimo_dias": 60,
