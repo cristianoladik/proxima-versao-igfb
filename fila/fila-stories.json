@@ -250,11 +250,12 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente",
+            "status": "erro",
             "ultima_tentativa_em": "2026-09-15T12:58:01-03:00",
             "tentativas": 1,
             "container_id": "18099116687173532",
-            "fase_api": "container_criado"
+            "fase_api": "container_criado",
+            "erro": "O Instagram não processou o container: {'id': '18099116687173532', 'status_code': 'ERROR', 'status': 'Error: Media upload has failed with error code 2207077'}"
           },
           "facebook": {
             "status": "pendente"
