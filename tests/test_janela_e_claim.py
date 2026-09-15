@@ -35,12 +35,14 @@ class JanelaTests(unittest.TestCase):
             ("2026-09-08", "21:00", "reel"),
         )
 
-    def test_schedule_atrasado_mais_de_quatro_horas_e_bloqueado(self) -> None:
+    def test_schedule_atrasado_mais_de_quatro_horas_publica_mesmo_assim(self) -> None:
         muito_atrasado = datetime(
             2026, 9, 8, 20, 30, tzinfo=timezone(timedelta(hours=-3))
         )
-        with self.assertRaisesRegex(RuntimeError, "atrasado"):
-            definir("schedule", "0 8 * * *", "", "", "auto", "", muito_atrasado)
+        self.assertEqual(
+            definir("schedule", "0 8 * * *", "", "", "auto", "", muito_atrasado),
+            ("2026-09-08", "05:00", "reel"),
+        )
 
     def test_dispatch_externo_exige_janela_explicita(self) -> None:
         payload = '{"data":"2026-09-09","horario":"13:00","escopo":"reel"}'

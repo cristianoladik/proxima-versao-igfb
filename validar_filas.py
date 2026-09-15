@@ -13,7 +13,7 @@ from fila_utils import FILA_REELS, FILA_STORIES, carregar
 
 SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
 HORARIOS_REELS = {"05:00", "09:00", "13:00", "17:00", "21:00"}
-STATUS_ITEM = {"pendente", "concluido"}
+STATUS_ITEM = {"pendente", "concluido", "pulado"}
 STATUS_PLATAFORMA = {"pendente", "erro", "publicado"}
 FASES_INSTAGRAM = {
     "container_criado",

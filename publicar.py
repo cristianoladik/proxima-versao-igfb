@@ -8,6 +8,9 @@ from typing import Any, Callable
 import requests
 
 from fila_utils import (
+    MAX_SUBSTITUICOES_POR_RODADA,
+    esgotou_tentativas,
+    pular_e_puxar_proximo,
     FILA_REELS,
     PLATAFORMAS,
     agora_brasilia,
@@ -276,14 +279,23 @@ def main() -> None:
 
     resultados: list[bool] = []
     checkpoint = lambda mensagem: salvar_checkpoint(FILA_REELS, fila, mensagem)
-    for plataforma, funcao in (
-        ("instagram", publicar_instagram),
-        ("facebook", publicar_facebook),
-    ):
-        if plataforma not in selecionadas:
-            continue
-        resultados.append(executar_plataforma(item, plataforma, funcao, checkpoint))
+    for _ in range(MAX_SUBSTITUICOES_POR_RODADA):
+        resultados = []
+        for plataforma, funcao in (
+            ("instagram", publicar_instagram),
+            ("facebook", publicar_facebook),
+        ):
+            if plataforma not in selecionadas:
+                continue
+            resultados.append(executar_plataforma(item, plataforma, funcao, checkpoint))
+            salvar(FILA_REELS, fila)
+        if all(resultados) or not esgotou_tentativas([item], selecionadas):
+            break
+        proximo = pular_e_puxar_proximo(fila, "conteudos", item, data, horario)
         salvar(FILA_REELS, fila)
+        if proximo is None:
+            break
+        item = proximo
 
     if all(item[p].get("status") == "publicado" for p in PLATAFORMAS):
         item.update(

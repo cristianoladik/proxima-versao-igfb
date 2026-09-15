@@ -8,6 +8,9 @@ from typing import Any, Callable
 import requests
 
 from fila_utils import (
+    MAX_SUBSTITUICOES_POR_RODADA,
+    esgotou_tentativas,
+    pular_e_puxar_proximo,
     FILA_STORIES,
     PLATAFORMAS,
     agora_brasilia,
@@ -296,20 +299,34 @@ def main() -> None:
             salvar(FILA_STORIES, fila)
             print(f"ERRO Instagram antes do pacote: {erro}")
 
-    for parte in sorted(pacote.get("partes", []), key=lambda item: int(item["ordem"])):
-        for plataforma, funcao in (
-            ("instagram", publicar_instagram),
-            ("facebook", publicar_facebook),
-        ):
-            if plataforma not in selecionadas:
-                continue
-            if plataforma == "instagram" and not instagram_disponivel:
-                continue
-            if not executar_plataforma(parte, plataforma, funcao, checkpoint):
-                houve_erro = True
-            salvar(FILA_STORIES, fila)
-        if any(parte[p].get("status") == "erro" for p in selecionadas):
+    for _ in range(MAX_SUBSTITUICOES_POR_RODADA):
+        houve_erro_neste = False
+        for parte in sorted(pacote.get("partes", []), key=lambda item: int(item["ordem"])):
+            for plataforma, funcao in (
+                ("instagram", publicar_instagram),
+                ("facebook", publicar_facebook),
+            ):
+                if plataforma not in selecionadas:
+                    continue
+                if plataforma == "instagram" and not instagram_disponivel:
+                    continue
+                if not executar_plataforma(parte, plataforma, funcao, checkpoint):
+                    houve_erro_neste = True
+                salvar(FILA_STORIES, fila)
+            if any(parte[p].get("status") == "erro" for p in selecionadas):
+                break
+        if not houve_erro_neste:
             break
+        houve_erro = True
+        # Cota indisponível não é culpa do pacote: não pula, só espera a próxima rodada.
+        if not instagram_disponivel or not esgotou_tentativas(pacote.get("partes", []), selecionadas):
+            break
+        proximo = pular_e_puxar_proximo(fila, "pacotes", pacote, data, horario)
+        salvar(FILA_STORIES, fila)
+        if proximo is None:
+            break
+        pacote = proximo
+        houve_erro = False
 
     if all(
         parte[p].get("status") == "publicado"

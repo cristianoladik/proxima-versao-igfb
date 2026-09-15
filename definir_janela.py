@@ -52,10 +52,10 @@ def janela_agendada(cron: str, agora: datetime) -> tuple[str, str, str]:
         ocorrencia -= timedelta(days=1)
     atraso = agora_utc - ocorrencia
     if atraso > ATRASO_MAXIMO_SCHEDULE:
-        raise RuntimeError(
-            f"Schedule atrasado {atraso}; limite seguro é {ATRASO_MAXIMO_SCHEDULE}. "
-            "Use workflow_dispatch com data explícita após conferir a fila."
-        )
+        # Em 15/09/2026 o GitHub atrasou os crons em 4 a 5 horas e o dia ficou sem
+        # Reel nem Story. Decisão do Cristiano: publicar igual, independente do
+        # atraso. A reivindicação persistida continua impedindo duplicata.
+        print(f"AVISO: schedule atrasado {atraso} (acima de {ATRASO_MAXIMO_SCHEDULE}); publicando mesmo assim.")
     escopo = "ambos" if horario == "09:00" else "reel"
     data_brasilia = ocorrencia.astimezone(BRT).date().isoformat()
     return data_brasilia, horario, escopo
