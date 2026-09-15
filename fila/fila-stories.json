@@ -258,7 +258,11 @@
             "erro": "O Instagram não processou o container: {'id': '18099116687173532', 'status_code': 'ERROR', 'status': 'Error: Media upload has failed with error code 2207077'}"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-09-15T12:58:06-03:00",
+            "tentativas": 1,
+            "video_id": "1911359106510453",
+            "fase_api": "upload_iniciado"
           }
         }
       ],
