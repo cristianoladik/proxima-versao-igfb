@@ -278,7 +278,7 @@
       "id": "story-20260916-1f705afc56",
       "data": "2026-09-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1786 - O RESTO E COM DEUS.mp4",
         "sha256": "1f705afc565bf8c4372923d04cd1c2d1b3cbdca820f6e82e049276e5b430b9db"
@@ -309,22 +309,19 @@
             "publicado_em": "2026-09-16T12:52:42-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-16T12:52:43-03:00",
             "tentativas": 1,
             "video_id": "2526800824492661",
             "fase_api": "publicado_confirmado",
             "post_id": "1007652405617859",
             "id": "1007652405617859",
-            "media_id": "2526800824492661"
+            "media_id": "2526800824492661",
+            "publicado_em": "2026-09-16T12:53:39-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "35118038792-1",
-        "reivindicado_em": "2026-09-16T12:50:50-03:00",
-        "expira_em": "2026-09-16T13:15:50-03:00"
-      }
+      "concluido_em": "2026-09-16T12:53:39-03:00"
     },
     {
       "id": "story-20260917-5ee88be510",
