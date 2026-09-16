@@ -7808,6 +7808,161 @@
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261114-0500-6e5d14af41",
+      "data": "2026-11-14",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "35 - PENSE POSITIVO.mp4",
+        "sha256": "6e5d14af41be3aad6a6ce945d456a0471ad65db97d67c6a2c748eab5e433b5ca"
+      },
+      "midia": {
+        "asset": "6e5d14af41be3aad-35---PENSE-POSITIVO.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/6e5d14af41be3aad-35---PENSE-POSITIVO.mp4",
+        "sha256": "6e5d14af41be3aad6a6ce945d456a0471ad65db97d67c6a2c748eab5e433b5ca",
+        "tamanho_bytes": 55175747,
+        "duracao_segundos": 109.68,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3823344,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-0900-0f664f722a",
+      "data": "2026-11-14",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "36 - COMO FORTALECER A MENTE EM DIAS DIFICEIS.mp4",
+        "sha256": "0f664f722a9a017211a3c7fcb8fd34fb885ea9a45b646233e2cc82f20120ce75"
+      },
+      "midia": {
+        "asset": "0f664f722a9a0172-36---COMO-FORTALECER-A-MENTE-EM-DIAS-DIFICEIS.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/0f664f722a9a0172-36---COMO-FORTALECER-A-MENTE-EM-DIAS-DIFICEIS.mp4",
+        "sha256": "0f664f722a9a017211a3c7fcb8fd34fb885ea9a45b646233e2cc82f20120ce75",
+        "tamanho_bytes": 39399492,
+        "duracao_segundos": 96.28,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3073105,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-1300-1bff63cafd",
+      "data": "2026-11-14",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "37 - NOS SOMOS GERADORES DE PROBLEMAS.mp4",
+        "sha256": "1bff63cafd3b5fb2fd0d7799bfe567087d9eb34321df94e47b3928bf29cd4bc2"
+      },
+      "midia": {
+        "asset": "1bff63cafd3b5fb2-37---NOS-SOMOS-GERADORES-DE-PROBLEMAS.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/1bff63cafd3b5fb2-37---NOS-SOMOS-GERADORES-DE-PROBLEMAS.mp4",
+        "sha256": "1bff63cafd3b5fb2fd0d7799bfe567087d9eb34321df94e47b3928bf29cd4bc2",
+        "tamanho_bytes": 26861208,
+        "duracao_segundos": 84.6,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2340387,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-1700-6158c99a5a",
+      "data": "2026-11-14",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "39 - COMECE QUANTAS VEZES FOR PRECISO.mp4",
+        "sha256": "6158c99a5a95e351d698582aae86173abe295bd08e4ca0994baad493098066e4"
+      },
+      "midia": {
+        "asset": "6158c99a5a95e351-39---COMECE-QUANTAS-VEZES-FOR-PRECISO.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/6158c99a5a95e351-39---COMECE-QUANTAS-VEZES-FOR-PRECISO.mp4",
+        "sha256": "6158c99a5a95e351d698582aae86173abe295bd08e4ca0994baad493098066e4",
+        "tamanho_bytes": 39866535,
+        "duracao_segundos": 125.76,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2338140,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261114-2100-a9465c6b17",
+      "data": "2026-11-14",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "45 - BOM DIA.mp4",
+        "sha256": "a9465c6b1756a8171d2a974a7e76de8d1b80919740a8d8faf5a6d80bf241179e"
+      },
+      "midia": {
+        "asset": "a9465c6b1756a817-45---BOM-DIA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/a9465c6b1756a817-45---BOM-DIA.mp4",
+        "sha256": "a9465c6b1756a8171d2a974a7e76de8d1b80919740a8d8faf5a6d80bf241179e",
+        "tamanho_bytes": 53758715,
+        "duracao_segundos": 125.36,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3228549,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
     }
   ],
   "estoque_minimo_dias": 60,
