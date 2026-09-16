@@ -218,7 +218,7 @@
       "id": "reel-20260916-0500-09887548fe",
       "data": "2026-09-16",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "6 - APRENDA A SE COMUNICAR.mp4",
         "sha256": "09887548fe2bc120ae014a72ceb741f836e2f0d6da50ea35d7e6d7e29e34a7ec"
@@ -248,18 +248,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-16T09:53:59-03:00",
         "tentativas": 1,
         "video_id": "1781429379533922",
         "fase_api": "publicado_confirmado",
-        "id": "1781429379533922"
+        "id": "1781429379533922",
+        "publicado_em": "2026-09-16T09:54:48-03:00"
       },
-      "execucao": {
-        "id": "35098422880-1",
-        "reivindicado_em": "2026-09-16T09:53:04-03:00",
-        "expira_em": "2026-09-16T10:18:04-03:00"
-      }
+      "concluido_em": "2026-09-16T09:54:48-03:00"
     },
     {
       "id": "reel-20260917-0500-fbb1ba9743",
