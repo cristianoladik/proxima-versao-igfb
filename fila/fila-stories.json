@@ -328,7 +328,7 @@
       "id": "story-20260917-5ee88be510",
       "data": "2026-09-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1787 - ALGUMAS PESSOAS PRECISAM IR EMBORA DA SUA VIDA.mp4",
         "sha256": "5ee88be510e96fc880caf94ead961ee9f5a1beabf5d7bd52c3314c6692d5addb"
@@ -359,22 +359,19 @@
             "publicado_em": "2026-09-17T12:57:44-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-17T12:57:45-03:00",
             "tentativas": 1,
             "video_id": "1406080481590822",
             "fase_api": "publicado_confirmado",
             "post_id": "1430723895619787",
             "id": "1430723895619787",
-            "media_id": "1406080481590822"
+            "media_id": "1406080481590822",
+            "publicado_em": "2026-09-17T12:58:39-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "35243459683-1",
-        "reivindicado_em": "2026-09-17T12:56:54-03:00",
-        "expira_em": "2026-09-17T13:21:54-03:00"
-      }
+      "concluido_em": "2026-09-17T12:58:39-03:00"
     },
     {
       "id": "story-20260918-407ec60d00",
