@@ -7977,6 +7977,161 @@
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
       }
+    },
+    {
+      "id": "reel-20261115-0500-383a3bbc7b",
+      "data": "2026-11-15",
+      "horario": "05:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "47 - .mp4",
+        "sha256": "383a3bbc7b5aab762740347a289abd016501b68584dbdd8b297d9d1720ac3ae6"
+      },
+      "midia": {
+        "asset": "383a3bbc7b5aab76-47---.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/383a3bbc7b5aab76-47---.mp4",
+        "sha256": "383a3bbc7b5aab762740347a289abd016501b68584dbdd8b297d9d1720ac3ae6",
+        "tamanho_bytes": 24244266,
+        "duracao_segundos": 61.16,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2968452,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-0900-340e98ed2e",
+      "data": "2026-11-15",
+      "horario": "09:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "47 - A BUSCA PELO CONHECIMENTO LEVA VOCE A SUA PROXIMA VERSA.mp4",
+        "sha256": "340e98ed2ec3daf335010f5186b23aa58234e8571ec4f4db125346b0328caa84"
+      },
+      "midia": {
+        "asset": "340e98ed2ec3daf3-47---A-BUSCA-PELO-CONHECIMENTO-LEVA-VOCE-A-SUA-PROXIMA-VERSA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/340e98ed2ec3daf3-47---A-BUSCA-PELO-CONHECIMENTO-LEVA-VOCE-A-SUA-PROXIMA-VERSA.mp4",
+        "sha256": "340e98ed2ec3daf335010f5186b23aa58234e8571ec4f4db125346b0328caa84",
+        "tamanho_bytes": 24604469,
+        "duracao_segundos": 61.16,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 3015580,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-1300-9531109255",
+      "data": "2026-11-15",
+      "horario": "13:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "49 - A BUSCA PELO CONHECIMENTO LEVA VOCE A SUA PROXIMA VERSA.mp4",
+        "sha256": "9531109255cefb204472ac27e2f88e016b64ab9ffbdd30beaa738bec2b29457e"
+      },
+      "midia": {
+        "asset": "9531109255cefb20-49---A-BUSCA-PELO-CONHECIMENTO-LEVA-VOCE-A-SUA-PROXIMA-VERSA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/9531109255cefb20-49---A-BUSCA-PELO-CONHECIMENTO-LEVA-VOCE-A-SUA-PROXIMA-VERSA.mp4",
+        "sha256": "9531109255cefb204472ac27e2f88e016b64ab9ffbdd30beaa738bec2b29457e",
+        "tamanho_bytes": 23756525,
+        "duracao_segundos": 73.48,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2387622,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-1700-cec163447c",
+      "data": "2026-11-15",
+      "horario": "17:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "49 - RECOMECE.mp4",
+        "sha256": "cec163447c9dbf384d3fea6f8763aff4bc8b4b84487daf73fae2c1e1c19ff990"
+      },
+      "midia": {
+        "asset": "cec163447c9dbf38-49---RECOMECE.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/cec163447c9dbf38-49---RECOMECE.mp4",
+        "sha256": "cec163447c9dbf384d3fea6f8763aff4bc8b4b84487daf73fae2c1e1c19ff990",
+        "tamanho_bytes": 21343981,
+        "duracao_segundos": 73.48,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 2124960,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
+    },
+    {
+      "id": "reel-20261115-2100-fa0442dcb5",
+      "data": "2026-11-15",
+      "horario": "21:00",
+      "status": "pendente",
+      "origem": {
+        "arquivo": "53 - O QUE MUDOU FOI SO O TAMANHO DA LATA.mp4",
+        "sha256": "fa0442dcb5d4c826cefc9a2f81a2e77d07e518510313f4fa45705783b197597e"
+      },
+      "midia": {
+        "asset": "fa0442dcb5d4c826-53---O-QUE-MUDOU-FOI-SO-O-TAMANHO-DA-LATA.mp4",
+        "url_publica": "https://github.com/cristianoladik/proxima-versao-igfb/releases/download/fila-instagram-facebook/fa0442dcb5d4c826-53---O-QUE-MUDOU-FOI-SO-O-TAMANHO-DA-LATA.mp4",
+        "sha256": "fa0442dcb5d4c826cefc9a2f81a2e77d07e518510313f4fa45705783b197597e",
+        "tamanho_bytes": 15629287,
+        "duracao_segundos": 86.6,
+        "largura": 1080,
+        "altura": 1920,
+        "fps": 25.0,
+        "bitrate_video_bps": 1244548,
+        "codec_video": "h264",
+        "formato_pixel": "yuv420p"
+      },
+      "instagram": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      },
+      "facebook": {
+        "legenda": "Siga @proximaversao_br.",
+        "status": "pendente"
+      }
     }
   ],
   "estoque_minimo_dias": 60,
