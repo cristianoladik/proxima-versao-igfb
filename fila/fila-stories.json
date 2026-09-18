@@ -404,7 +404,7 @@
             "ultima_tentativa_em": "2026-09-18T12:32:56-03:00",
             "tentativas": 1,
             "container_id": "18099840416173532",
-            "fase_api": "container_criado"
+            "fase_api": "publicacao_pendente_confirmacao"
           },
           "facebook": {
             "status": "pendente"
