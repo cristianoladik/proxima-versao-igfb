@@ -378,7 +378,7 @@
       "id": "story-20260918-407ec60d00",
       "data": "2026-09-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1788 - COMO VENDER MAIS.mp4",
         "sha256": "407ec60d00969901579581001693c0a87dead89c30db16e7efb0fe5a1fc1a7a6"
@@ -445,22 +445,19 @@
             "publicado_em": "2026-09-18T12:34:54-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-18T12:35:47-03:00",
             "tentativas": 1,
             "video_id": "2209178626299253",
             "fase_api": "publicado_confirmado",
             "post_id": "1406963077458950",
             "id": "1406963077458950",
-            "media_id": "2209178626299253"
+            "media_id": "2209178626299253",
+            "publicado_em": "2026-09-18T12:36:39-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "35362894941-1",
-        "reivindicado_em": "2026-09-18T12:31:11-03:00",
-        "expira_em": "2026-09-18T12:56:11-03:00"
-      }
+      "concluido_em": "2026-09-18T12:36:39-03:00"
     },
     {
       "id": "story-20260919-e27395607c",
