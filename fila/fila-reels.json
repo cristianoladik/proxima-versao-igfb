@@ -353,7 +353,7 @@
       "id": "reel-20260918-0900-cafc09afc7",
       "data": "2026-09-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "7 - COMO MELHORAR SUA MEMORIA.mp4",
         "sha256": "cafc09afc790a7d9ccbb904b20f5ec2bb21bf31dfccc9ecfc765638c01630b17"
@@ -383,18 +383,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-18T12:32:04-03:00",
         "tentativas": 1,
         "video_id": "1063287843085640",
         "fase_api": "publicado_confirmado",
-        "id": "1063287843085640"
+        "id": "1063287843085640",
+        "publicado_em": "2026-09-18T12:32:53-03:00"
       },
-      "execucao": {
-        "id": "35362894941-1",
-        "reivindicado_em": "2026-09-18T12:31:11-03:00",
-        "expira_em": "2026-09-18T12:56:11-03:00"
-      }
+      "concluido_em": "2026-09-18T12:32:53-03:00"
     },
     {
       "id": "reel-20260919-0500-9361196221",
