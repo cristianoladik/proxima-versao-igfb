@@ -398,7 +398,7 @@
       "id": "reel-20260919-0500-9361196221",
       "data": "2026-09-19",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "8 - E MUITO FACIL FALAR DE DEUS O DESAFIO E DEMONSTRAR ISSO.mp4",
         "sha256": "9361196221fa9faff82d5869b46f7db28e6e7cd21cc84bf0d8f929efc3c575e9"
@@ -428,18 +428,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-19T09:06:45-03:00",
         "tentativas": 1,
         "video_id": "2586771188428329",
         "fase_api": "publicado_confirmado",
-        "id": "2586771188428329"
+        "id": "2586771188428329",
+        "publicado_em": "2026-09-19T09:07:32-03:00"
       },
-      "execucao": {
-        "id": "35441892795-1",
-        "reivindicado_em": "2026-09-19T09:05:53-03:00",
-        "expira_em": "2026-09-19T09:30:53-03:00"
-      }
+      "concluido_em": "2026-09-19T09:07:32-03:00"
     },
     {
       "id": "reel-20260919-0900-7f1e0d4f2b",
