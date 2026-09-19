@@ -443,7 +443,7 @@
       "id": "reel-20260919-0900-7f1e0d4f2b",
       "data": "2026-09-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "8 - TRECHO DE UMA AULA QUE TENHO NO RESERVATORIO DE DOPAMIN.mp4",
         "sha256": "7f1e0d4f2b7748cd909e75b2374de72959fb352ea57e05d8b6835753220976cb"
@@ -473,18 +473,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-19T12:06:22-03:00",
         "tentativas": 1,
         "video_id": "1475199817991894",
         "fase_api": "publicado_confirmado",
-        "id": "1475199817991894"
+        "id": "1475199817991894",
+        "publicado_em": "2026-09-19T12:07:14-03:00"
       },
-      "execucao": {
-        "id": "35450718266-1",
-        "reivindicado_em": "2026-09-19T12:05:34-03:00",
-        "expira_em": "2026-09-19T12:30:34-03:00"
-      }
+      "concluido_em": "2026-09-19T12:07:14-03:00"
     },
     {
       "id": "reel-20260920-0500-740e88f78b",
