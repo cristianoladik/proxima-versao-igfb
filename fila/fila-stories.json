@@ -465,7 +465,7 @@
       "id": "story-20260919-e27395607c",
       "data": "2026-09-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1789 - VOCE VAI RECEBER UMA BOA NOTICIA.mp4",
         "sha256": "e27395607cfa366de798a681d952bc6eda8210ffe118f370c6e8acaed2e834e9"
@@ -496,22 +496,19 @@
             "publicado_em": "2026-09-19T12:08:29-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-19T12:08:30-03:00",
             "tentativas": 1,
             "video_id": "1611566287001152",
             "fase_api": "publicado_confirmado",
             "post_id": "2107203296836251",
             "id": "2107203296836251",
-            "media_id": "1611566287001152"
+            "media_id": "1611566287001152",
+            "publicado_em": "2026-09-19T12:09:20-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "35450718266-1",
-        "reivindicado_em": "2026-09-19T12:05:34-03:00",
-        "expira_em": "2026-09-19T12:30:34-03:00"
-      }
+      "concluido_em": "2026-09-19T12:09:20-03:00"
     },
     {
       "id": "story-20260920-e72f9421f4",
