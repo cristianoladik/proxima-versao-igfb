@@ -515,7 +515,7 @@
       "id": "story-20260920-e72f9421f4",
       "data": "2026-09-20",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1790 - 5 CRENCAS QUE ESTAO TRAVANDO SUAS VENDAS.mp4",
         "sha256": "e72f9421f4a695485a7fa00d6af95c5d5e25b3b315e385e2586170d94b6a88b8"
@@ -582,22 +582,19 @@
             "publicado_em": "2026-09-20T12:13:23-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-20T12:14:16-03:00",
             "tentativas": 1,
             "video_id": "861633756939858",
             "fase_api": "publicado_confirmado",
             "post_id": "1441483634545554",
             "id": "1441483634545554",
-            "media_id": "861633756939858"
+            "media_id": "861633756939858",
+            "publicado_em": "2026-09-20T12:15:05-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "35518692213-1",
-        "reivindicado_em": "2026-09-20T12:09:45-03:00",
-        "expira_em": "2026-09-20T12:34:45-03:00"
-      }
+      "concluido_em": "2026-09-20T12:15:05-03:00"
     },
     {
       "id": "story-20260921-f0c90c1ab6",
