@@ -533,7 +533,7 @@
       "id": "reel-20260920-0900-b013d1f33b",
       "data": "2026-09-20",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "9 - TEM GENTE QUE PASSA ANOS ESTUDANDO COMO VENDER.mp4",
         "sha256": "b013d1f33b78facf760cc087071d9c0e91635462e904409847c4b84f49dc3278"
@@ -563,18 +563,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-20T12:10:36-03:00",
         "tentativas": 1,
         "video_id": "1672716024480779",
         "fase_api": "publicado_confirmado",
-        "id": "1672716024480779"
+        "id": "1672716024480779",
+        "publicado_em": "2026-09-20T12:11:25-03:00"
       },
-      "execucao": {
-        "id": "35518692213-1",
-        "reivindicado_em": "2026-09-20T12:09:45-03:00",
-        "expira_em": "2026-09-20T12:34:45-03:00"
-      }
+      "concluido_em": "2026-09-20T12:11:25-03:00"
     },
     {
       "id": "reel-20260921-0500-188f691bc7",
