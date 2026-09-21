@@ -602,7 +602,7 @@
       "id": "story-20260921-f0c90c1ab6",
       "data": "2026-09-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1791 - A ANSIEDADE NAO VAI TE VENCER.mp4",
         "sha256": "f0c90c1ab61b5b56f36d344e424faa3c9a3ac516418c13ac4bf54215c56d263a"
@@ -633,22 +633,19 @@
             "publicado_em": "2026-09-21T14:34:20-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-21T14:34:22-03:00",
             "tentativas": 1,
             "video_id": "1398502232394380",
             "fase_api": "publicado_confirmado",
             "post_id": "28214867871489093",
             "id": "28214867871489093",
-            "media_id": "1398502232394380"
+            "media_id": "1398502232394380",
+            "publicado_em": "2026-09-21T14:35:27-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "35632523340-1",
-        "reivindicado_em": "2026-09-21T14:31:17-03:00",
-        "expira_em": "2026-09-21T14:56:17-03:00"
-      }
+      "concluido_em": "2026-09-21T14:35:27-03:00"
     },
     {
       "id": "story-20260922-94b9e34026",
