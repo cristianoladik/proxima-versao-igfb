@@ -693,6 +693,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "35729875889-1",
+        "reivindicado_em": "2026-09-22T09:53:05-03:00",
+        "expira_em": "2026-09-22T10:18:05-03:00"
       }
     },
     {
