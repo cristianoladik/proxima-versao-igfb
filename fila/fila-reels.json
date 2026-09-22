@@ -668,7 +668,7 @@
       "id": "reel-20260922-0500-821147dd10",
       "data": "2026-09-22",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "10 - PROSPERE A EMPRESA PRIMEIRO E DEPOIS PENSE EM UM PLANO .mp4",
         "sha256": "821147dd104c1fa69e02f753de7eb176ad85280adce7811d743985a0f6b57fba"
@@ -698,18 +698,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-22T09:53:57-03:00",
         "tentativas": 1,
         "video_id": "1092534213131858",
         "fase_api": "publicado_confirmado",
-        "id": "1092534213131858"
+        "id": "1092534213131858",
+        "publicado_em": "2026-09-22T09:54:30-03:00"
       },
-      "execucao": {
-        "id": "35729875889-1",
-        "reivindicado_em": "2026-09-22T09:53:05-03:00",
-        "expira_em": "2026-09-22T10:18:05-03:00"
-      }
+      "concluido_em": "2026-09-22T09:54:30-03:00"
     },
     {
       "id": "reel-20260922-0900-d213e0c69c",
