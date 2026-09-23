@@ -702,7 +702,7 @@
       "id": "story-20260923-7b7bfae8a4",
       "data": "2026-09-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1793 - CUIDADO COM TUDO QUE TEM F.mp4",
         "sha256": "7b7bfae8a405bc54b7894bebd9c53ded98a180539db9a82db0c9cd21e44ec3e7"
@@ -733,22 +733,19 @@
             "publicado_em": "2026-09-23T12:53:24-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-23T12:53:27-03:00",
             "tentativas": 1,
             "video_id": "1621554619676905",
             "fase_api": "publicado_confirmado",
             "post_id": "1496758382283636",
             "id": "1496758382283636",
-            "media_id": "1621554619676905"
+            "media_id": "1621554619676905",
+            "publicado_em": "2026-09-23T12:54:17-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "35884501976-1",
-        "reivindicado_em": "2026-09-23T12:50:40-03:00",
-        "expira_em": "2026-09-23T13:15:40-03:00"
-      }
+      "concluido_em": "2026-09-23T12:54:17-03:00"
     },
     {
       "id": "story-20260924-4cada924cd",
