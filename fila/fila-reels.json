@@ -848,7 +848,7 @@
       "id": "reel-20260924-0500-f8dad89fde",
       "data": "2026-09-24",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "12 - USO DE DROGAS.mp4",
         "sha256": "f8dad89fde24b2845ef20e23d080eb9536235e07c0dc24f5d84c40220c527c83"
@@ -878,18 +878,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-24T09:58:39-03:00",
         "tentativas": 1,
         "video_id": "1120518813739962",
         "fase_api": "publicado_confirmado",
-        "id": "1120518813739962"
+        "id": "1120518813739962",
+        "publicado_em": "2026-09-24T09:59:28-03:00"
       },
-      "execucao": {
-        "id": "36002357245-1",
-        "reivindicado_em": "2026-09-24T09:57:15-03:00",
-        "expira_em": "2026-09-24T10:22:15-03:00"
-      }
+      "concluido_em": "2026-09-24T09:59:28-03:00"
     },
     {
       "id": "reel-20260924-0900-6181a9ae39",
