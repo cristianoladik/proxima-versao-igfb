@@ -752,7 +752,7 @@
       "id": "story-20260924-4cada924cd",
       "data": "2026-09-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1794 - O PODER DOS 5 SEGUNDOS TECNICA QUE MUDA SUA VIDA.mp4",
         "sha256": "4cada924cd6625004428afd97ecd334bdd67a8a6287709b296ea65d60b526bcd"
@@ -783,22 +783,19 @@
             "publicado_em": "2026-09-24T13:15:31-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-24T13:15:33-03:00",
             "tentativas": 1,
             "video_id": "1719054245850179",
             "fase_api": "publicado_confirmado",
             "post_id": "1448075693992796",
             "id": "1448075693992796",
-            "media_id": "1719054245850179"
+            "media_id": "1719054245850179",
+            "publicado_em": "2026-09-24T13:16:08-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "36025707902-1",
-        "reivindicado_em": "2026-09-24T13:12:26-03:00",
-        "expira_em": "2026-09-24T13:37:26-03:00"
-      }
+      "concluido_em": "2026-09-24T13:16:08-03:00"
     },
     {
       "id": "story-20260925-2f24a0e3e7",
