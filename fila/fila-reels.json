@@ -983,7 +983,7 @@
       "id": "reel-20260925-0900-2a74e7b4fd",
       "data": "2026-09-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "13 - ADOLESCENTE NAO PODE USAR CANNABIS.mp4",
         "sha256": "2a74e7b4fd0e36bc0d4bcc27c3306c90ae397196488357749b20e778f13461b2"
@@ -1013,18 +1013,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-25T13:14:49-03:00",
         "tentativas": 1,
         "video_id": "2226072081587052",
         "fase_api": "publicado_confirmado",
-        "id": "2226072081587052"
+        "id": "2226072081587052",
+        "publicado_em": "2026-09-25T13:15:36-03:00"
       },
-      "execucao": {
-        "id": "36159300125-1",
-        "reivindicado_em": "2026-09-25T13:12:57-03:00",
-        "expira_em": "2026-09-25T13:37:57-03:00"
-      }
+      "concluido_em": "2026-09-25T13:15:36-03:00"
     },
     {
       "id": "reel-20260925-1300-7dda15b13e",
