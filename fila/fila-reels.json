@@ -1028,7 +1028,7 @@
       "id": "reel-20260925-1300-7dda15b13e",
       "data": "2026-09-25",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "13 - LIDERENCA NAO E CARGO E POSTURA.mp4",
         "sha256": "7dda15b13e7c7057df4aa6b5be19b3a1f3d215aa9c6c3451aebda3c8765b72f2"
@@ -1058,18 +1058,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-25T16:56:36-03:00",
         "tentativas": 1,
         "video_id": "2551720175332446",
         "fase_api": "publicado_confirmado",
-        "id": "2551720175332446"
+        "id": "2551720175332446",
+        "publicado_em": "2026-09-25T16:57:24-03:00"
       },
-      "execucao": {
-        "id": "36182567751-1",
-        "reivindicado_em": "2026-09-25T16:55:10-03:00",
-        "expira_em": "2026-09-25T17:20:10-03:00"
-      }
+      "concluido_em": "2026-09-25T16:57:24-03:00"
     },
     {
       "id": "reel-20260926-0500-5ac50c5a0c",
