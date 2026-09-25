@@ -802,7 +802,7 @@
       "id": "story-20260925-2f24a0e3e7",
       "data": "2026-09-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1795 - VOCE PRECISA DISSO.mp4",
         "sha256": "2f24a0e3e7b2e9279c1d78983f5c482a85e7bd72c1651813b15f93f3740c983d"
@@ -833,22 +833,19 @@
             "publicado_em": "2026-09-25T13:16:52-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-25T13:16:53-03:00",
             "tentativas": 1,
             "video_id": "1607419741126584",
             "fase_api": "publicado_confirmado",
             "post_id": "1096138626545277",
             "id": "1096138626545277",
-            "media_id": "1607419741126584"
+            "media_id": "1607419741126584",
+            "publicado_em": "2026-09-25T13:17:41-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "36159300125-1",
-        "reivindicado_em": "2026-09-25T13:12:57-03:00",
-        "expira_em": "2026-09-25T13:37:57-03:00"
-      }
+      "concluido_em": "2026-09-25T13:17:41-03:00"
     },
     {
       "id": "story-20260926-0c81e05736",
