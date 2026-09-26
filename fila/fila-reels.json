@@ -1163,7 +1163,7 @@
       "id": "reel-20260926-1300-2385417082",
       "data": "2026-09-26",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "14 - TUDO CHEGA A VOCE NA HORA CERTA.mp4",
         "sha256": "23854170825d88f8c80413d33106481dfae6a09dbd320eb17d6647ff67cd081f"
@@ -1193,18 +1193,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-26T16:08:28-03:00",
         "tentativas": 1,
         "video_id": "1801926094172070",
         "fase_api": "publicado_confirmado",
-        "id": "1801926094172070"
+        "id": "1801926094172070",
+        "publicado_em": "2026-09-26T16:09:01-03:00"
       },
-      "execucao": {
-        "id": "36264915734-1",
-        "reivindicado_em": "2026-09-26T16:07:06-03:00",
-        "expira_em": "2026-09-26T16:32:06-03:00"
-      }
+      "concluido_em": "2026-09-26T16:09:01-03:00"
     },
     {
       "id": "reel-20260927-0500-c05aba0e18",
