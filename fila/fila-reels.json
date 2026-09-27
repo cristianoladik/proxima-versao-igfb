@@ -1298,7 +1298,7 @@
       "id": "reel-20260927-1300-780149bf2f",
       "data": "2026-09-27",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "15 - O INTESTINO E O PRIMEIRO CEREBRO.mp4",
         "sha256": "780149bf2f89050e9bddf2afe20e12bf791a76fc70bb2b92a3805eff231278e6"
@@ -1328,18 +1328,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-27T16:40:30-03:00",
         "tentativas": 1,
         "video_id": "28434629596228735",
         "fase_api": "publicado_confirmado",
-        "id": "28434629596228735"
+        "id": "28434629596228735",
+        "publicado_em": "2026-09-27T16:41:20-03:00"
       },
-      "execucao": {
-        "id": "36345124115-1",
-        "reivindicado_em": "2026-09-27T16:39:06-03:00",
-        "expira_em": "2026-09-27T17:04:06-03:00"
-      }
+      "concluido_em": "2026-09-27T16:41:20-03:00"
     },
     {
       "id": "reel-20260928-0500-bdfea73025",
