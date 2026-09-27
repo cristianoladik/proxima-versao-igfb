@@ -1208,7 +1208,7 @@
       "id": "reel-20260927-0500-c05aba0e18",
       "data": "2026-09-27",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "15 - COMECE O DIA DANDO BOM DIA PARA DEUS.mp4",
         "sha256": "c05aba0e1802254e0ae7983ea69ec234ab0aa3d0471dc1df668d2d2073bb2eb2"
@@ -1238,18 +1238,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-27T10:22:36-03:00",
         "tentativas": 1,
         "video_id": "28409733241982643",
         "fase_api": "publicado_confirmado",
-        "id": "28409733241982643"
+        "id": "28409733241982643",
+        "publicado_em": "2026-09-27T10:23:21-03:00"
       },
-      "execucao": {
-        "id": "36322119285-1",
-        "reivindicado_em": "2026-09-27T10:21:45-03:00",
-        "expira_em": "2026-09-27T10:46:45-03:00"
-      }
+      "concluido_em": "2026-09-27T10:23:21-03:00"
     },
     {
       "id": "reel-20260927-0900-096b44f6b3",
