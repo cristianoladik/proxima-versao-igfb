@@ -902,7 +902,7 @@
       "id": "story-20260927-4266f8966d",
       "data": "2026-09-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1797 - ESSE E O CAMINHO DO CONHECIMENTO.mp4",
         "sha256": "4266f8966d81a5bf37a462fc14c23558045a5b5beed8af0aa7d5f4031058e531"
@@ -933,22 +933,19 @@
             "publicado_em": "2026-09-27T13:10:08-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-27T13:10:09-03:00",
             "tentativas": 1,
             "video_id": "1130832806025580",
             "fase_api": "publicado_confirmado",
             "post_id": "28672616979035320",
             "id": "28672616979035320",
-            "media_id": "1130832806025580"
+            "media_id": "1130832806025580",
+            "publicado_em": "2026-09-27T13:11:00-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "36331966675-1",
-        "reivindicado_em": "2026-09-27T13:06:04-03:00",
-        "expira_em": "2026-09-27T13:31:04-03:00"
-      }
+      "concluido_em": "2026-09-27T13:11:00-03:00"
     },
     {
       "id": "story-20260928-2969d03ec5",
