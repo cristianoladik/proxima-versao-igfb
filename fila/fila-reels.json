@@ -1253,7 +1253,7 @@
       "id": "reel-20260927-0900-096b44f6b3",
       "data": "2026-09-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "15 - NOSSO CEREBRO E PLASTICO.mp4",
         "sha256": "096b44f6b31c5cb4032a6c870d89a84f69a83c8367579c07b4e1feb2378ffa9f"
@@ -1283,18 +1283,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-27T13:07:28-03:00",
         "tentativas": 1,
         "video_id": "1105227755490566",
         "fase_api": "publicado_confirmado",
-        "id": "1105227755490566"
+        "id": "1105227755490566",
+        "publicado_em": "2026-09-27T13:08:19-03:00"
       },
-      "execucao": {
-        "id": "36331966675-1",
-        "reivindicado_em": "2026-09-27T13:06:04-03:00",
-        "expira_em": "2026-09-27T13:31:04-03:00"
-      }
+      "concluido_em": "2026-09-27T13:08:19-03:00"
     },
     {
       "id": "reel-20260927-1300-780149bf2f",
