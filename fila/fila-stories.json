@@ -952,7 +952,7 @@
       "id": "story-20260928-2969d03ec5",
       "data": "2026-09-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1798 - VOCE PRECISA OUVIR O QUE ESSA FAMILIA TEM A DIZER.mp4",
         "sha256": "2969d03ec5f57ed241830e7886937571ac9420a26ff3f7b78f9c003f912d4577"
@@ -983,22 +983,19 @@
             "publicado_em": "2026-09-28T16:03:56-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-28T16:03:58-03:00",
             "tentativas": 1,
             "video_id": "4458061731075841",
             "fase_api": "publicado_confirmado",
             "post_id": "931372606279197",
             "id": "931372606279197",
-            "media_id": "4458061731075841"
+            "media_id": "4458061731075841",
+            "publicado_em": "2026-09-28T16:04:49-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "36469226844-1",
-        "reivindicado_em": "2026-09-28T16:00:53-03:00",
-        "expira_em": "2026-09-28T16:25:53-03:00"
-      }
+      "concluido_em": "2026-09-28T16:04:49-03:00"
     },
     {
       "id": "story-20260929-cdaf3848c5",
