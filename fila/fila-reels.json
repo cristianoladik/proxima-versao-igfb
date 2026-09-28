@@ -1343,7 +1343,7 @@
       "id": "reel-20260928-0500-bdfea73025",
       "data": "2026-09-28",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "16 - A DEPRESSAO VEM DO INTESTINO.mp4",
         "sha256": "bdfea73025564d50e8cc488e03631474fb76b6dc4dcfd1f94793795dec2180db"
@@ -1373,18 +1373,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-28T13:09:24-03:00",
         "tentativas": 1,
         "video_id": "2618379521918951",
         "fase_api": "publicado_confirmado",
-        "id": "2618379521918951"
+        "id": "2618379521918951",
+        "publicado_em": "2026-09-28T13:10:16-03:00"
       },
-      "execucao": {
-        "id": "36448844389-1",
-        "reivindicado_em": "2026-09-28T13:08:31-03:00",
-        "expira_em": "2026-09-28T13:33:31-03:00"
-      }
+      "concluido_em": "2026-09-28T13:10:16-03:00"
     },
     {
       "id": "reel-20260928-0900-b6012ce8d9",
