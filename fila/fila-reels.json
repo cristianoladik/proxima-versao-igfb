@@ -1433,7 +1433,7 @@
       "id": "reel-20260928-1300-9ccb024e41",
       "data": "2026-09-28",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "17 - MENTE COMPETITIVA.mp4",
         "sha256": "9ccb024e4164c73991dedadbd93588c1a6807defe9b35e646c68ed4210cab1b3"
@@ -1463,18 +1463,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-28T18:44:25-03:00",
         "tentativas": 1,
         "video_id": "1704311960671592",
         "fase_api": "publicado_confirmado",
-        "id": "1704311960671592"
+        "id": "1704311960671592",
+        "publicado_em": "2026-09-28T18:45:16-03:00"
       },
-      "execucao": {
-        "id": "36487870617-1",
-        "reivindicado_em": "2026-09-28T18:42:31-03:00",
-        "expira_em": "2026-09-28T19:07:31-03:00"
-      }
+      "concluido_em": "2026-09-28T18:45:16-03:00"
     },
     {
       "id": "reel-20260929-0500-32279d507f",
