@@ -1478,7 +1478,7 @@
       "id": "reel-20260929-0500-32279d507f",
       "data": "2026-09-29",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "17 - O PARABRISA E MUITO MAIOR QUE O RETROVISOR POR UM MOTIV.mp4",
         "sha256": "32279d507feb2cbbc1a681abcda19c69f39355e62f349bc5fddd617bcad64d25"
@@ -1508,18 +1508,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-29T11:25:15-03:00",
         "tentativas": 1,
         "video_id": "1139308045345659",
         "fase_api": "publicado_confirmado",
-        "id": "1139308045345659"
+        "id": "1139308045345659",
+        "publicado_em": "2026-09-29T11:26:05-03:00"
       },
-      "execucao": {
-        "id": "36582387620-1",
-        "reivindicado_em": "2026-09-29T11:24:11-03:00",
-        "expira_em": "2026-09-29T11:49:11-03:00"
-      }
+      "concluido_em": "2026-09-29T11:26:05-03:00"
     },
     {
       "id": "reel-20260929-0900-164fc635c7",
