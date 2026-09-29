@@ -1523,7 +1523,7 @@
       "id": "reel-20260929-0900-164fc635c7",
       "data": "2026-09-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "17 - TODAS DOENCAS VEM DO INTESTINO.mp4",
         "sha256": "164fc635c78c3160ba6a4be2de23662f2375dcf95e6cbcd7fc560ad09ef4c24e"
@@ -1553,18 +1553,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-29T14:22:29-03:00",
         "tentativas": 1,
         "video_id": "1074887425420179",
         "fase_api": "publicado_confirmado",
-        "id": "1074887425420179"
+        "id": "1074887425420179",
+        "publicado_em": "2026-09-29T14:23:25-03:00"
       },
-      "execucao": {
-        "id": "36604338102-1",
-        "reivindicado_em": "2026-09-29T14:21:33-03:00",
-        "expira_em": "2026-09-29T14:46:33-03:00"
-      }
+      "concluido_em": "2026-09-29T14:23:25-03:00"
     },
     {
       "id": "reel-20260929-1300-9b1aefe641",
