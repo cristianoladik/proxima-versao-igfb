@@ -1568,7 +1568,7 @@
       "id": "reel-20260929-1300-9b1aefe641",
       "data": "2026-09-29",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "18 - CONTROLE EMOCIONAL.mp4",
         "sha256": "9b1aefe6412050410b14640b93926c4cf5452340846e18f5e84cfc818705a986"
@@ -1598,18 +1598,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-29T17:34:50-03:00",
         "tentativas": 1,
         "video_id": "1085357591038826",
         "fase_api": "publicado_confirmado",
-        "id": "1085357591038826"
+        "id": "1085357591038826",
+        "publicado_em": "2026-09-29T17:35:38-03:00"
       },
-      "execucao": {
-        "id": "36627195675-1",
-        "reivindicado_em": "2026-09-29T17:33:50-03:00",
-        "expira_em": "2026-09-29T17:58:50-03:00"
-      }
+      "concluido_em": "2026-09-29T17:35:38-03:00"
     },
     {
       "id": "reel-20260930-0500-65e2554c50",
