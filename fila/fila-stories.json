@@ -1002,7 +1002,7 @@
       "id": "story-20260929-cdaf3848c5",
       "data": "2026-09-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1799 - 3 COISAS QUE VAO MUDAR O SEU DESTINO.mp4",
         "sha256": "cdaf3848c53ef321a78dd25c2818772040413a3f27aa0c7a36f0f0f05d897478"
@@ -1033,22 +1033,19 @@
             "publicado_em": "2026-09-29T14:24:17-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-29T14:24:19-03:00",
             "tentativas": 1,
             "video_id": "1017529421344854",
             "fase_api": "publicado_confirmado",
             "post_id": "2164172404170266",
             "id": "2164172404170266",
-            "media_id": "1017529421344854"
+            "media_id": "1017529421344854",
+            "publicado_em": "2026-09-29T14:25:13-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "36604338102-1",
-        "reivindicado_em": "2026-09-29T14:21:33-03:00",
-        "expira_em": "2026-09-29T14:46:33-03:00"
-      }
+      "concluido_em": "2026-09-29T14:25:13-03:00"
     },
     {
       "id": "story-20260930-a6de8a5fb3",
