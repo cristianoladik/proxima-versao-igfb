@@ -1052,7 +1052,7 @@
       "id": "story-20260930-a6de8a5fb3",
       "data": "2026-09-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1800 - VAI DAR A LOGICA IRMAO.mp4",
         "sha256": "a6de8a5fb3a9b25949030017163fc116c5096e7db6c592184633d36560c13db2"
@@ -1083,22 +1083,19 @@
             "publicado_em": "2026-09-30T14:21:43-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-09-30T14:21:45-03:00",
             "tentativas": 1,
             "video_id": "1790777265263007",
             "fase_api": "publicado_confirmado",
             "post_id": "2190506558544866",
             "id": "2190506558544866",
-            "media_id": "1790777265263007"
+            "media_id": "1790777265263007",
+            "publicado_em": "2026-09-30T14:22:18-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "36750504347-1",
-        "reivindicado_em": "2026-09-30T14:19:10-03:00",
-        "expira_em": "2026-09-30T14:44:10-03:00"
-      }
+      "concluido_em": "2026-09-30T14:22:18-03:00"
     },
     {
       "id": "story-20261001-86298f353d",
