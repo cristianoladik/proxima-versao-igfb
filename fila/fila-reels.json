@@ -1703,7 +1703,7 @@
       "id": "reel-20260930-1300-4ef033bf1e",
       "data": "2026-09-30",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "19 - ADOLESCENTES SAO MAIS IMPULSIVOS.mp4",
         "sha256": "4ef033bf1eeb88165e3b19e989ce8697b4d23ed851cf285670ae187594c49d51"
@@ -1733,18 +1733,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-30T17:41:13-03:00",
         "tentativas": 1,
         "video_id": "1653488683032442",
         "fase_api": "publicado_confirmado",
-        "id": "1653488683032442"
+        "id": "1653488683032442",
+        "publicado_em": "2026-09-30T17:42:05-03:00"
       },
-      "execucao": {
-        "id": "36774163912-1",
-        "reivindicado_em": "2026-09-30T17:39:44-03:00",
-        "expira_em": "2026-09-30T18:04:44-03:00"
-      }
+      "concluido_em": "2026-09-30T17:42:05-03:00"
     },
     {
       "id": "reel-20261001-0500-1966655f3c",
