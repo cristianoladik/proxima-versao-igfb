@@ -1658,7 +1658,7 @@
       "id": "reel-20260930-0900-b322c9905b",
       "data": "2026-09-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "18 - VOCE NAO PERDE TUDO QUANDO O SEU TUDO SAO COISAS QUE NI.mp4",
         "sha256": "b322c9905beb3d197d0284a0263be821623b1a394cdb86f2582fe0f0d1c16a5f"
@@ -1688,18 +1688,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-30T14:20:03-03:00",
         "tentativas": 1,
         "video_id": "2159421904966928",
         "fase_api": "publicado_confirmado",
-        "id": "2159421904966928"
+        "id": "2159421904966928",
+        "publicado_em": "2026-09-30T14:20:52-03:00"
       },
-      "execucao": {
-        "id": "36750504347-1",
-        "reivindicado_em": "2026-09-30T14:19:10-03:00",
-        "expira_em": "2026-09-30T14:44:10-03:00"
-      }
+      "concluido_em": "2026-09-30T14:20:52-03:00"
     },
     {
       "id": "reel-20260930-1300-4ef033bf1e",
