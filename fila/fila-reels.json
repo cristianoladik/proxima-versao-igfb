@@ -1613,7 +1613,7 @@
       "id": "reel-20260930-0500-65e2554c50",
       "data": "2026-09-30",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "18 - NAO DESISTA DA SUA VIDA E DOS SEUS SONHOS AINDA HA TEMP.mp4",
         "sha256": "65e2554c50595f19e4e1eb63dce8bb9dd85dac35bedda2eae9dd93f93509d8c2"
@@ -1643,18 +1643,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-09-30T11:20:38-03:00",
         "tentativas": 1,
         "video_id": "1101889592224219",
         "fase_api": "publicado_confirmado",
-        "id": "1101889592224219"
+        "id": "1101889592224219",
+        "publicado_em": "2026-09-30T11:21:31-03:00"
       },
-      "execucao": {
-        "id": "36728180620-1",
-        "reivindicado_em": "2026-09-30T11:19:09-03:00",
-        "expira_em": "2026-09-30T11:44:09-03:00"
-      }
+      "concluido_em": "2026-09-30T11:21:31-03:00"
     },
     {
       "id": "reel-20260930-0900-b322c9905b",
