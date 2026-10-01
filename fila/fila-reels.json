@@ -1793,7 +1793,7 @@
       "id": "reel-20261001-0900-52c6412af6",
       "data": "2026-10-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "20 - NOS NAO ESTAMOS PRONTOS PARA OS TEMPOS ATUAIS.mp4",
         "sha256": "52c6412af6fb6d4ad9e05f472d4411c01fac20052cd6bac5996520d1bafc29fc"
@@ -1823,18 +1823,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-01T14:47:33-03:00",
         "tentativas": 1,
         "video_id": "2017338615576598",
         "fase_api": "publicado_confirmado",
-        "id": "2017338615576598"
+        "id": "2017338615576598",
+        "publicado_em": "2026-10-01T14:48:25-03:00"
       },
-      "execucao": {
-        "id": "36901864033-1",
-        "reivindicado_em": "2026-10-01T14:46:41-03:00",
-        "expira_em": "2026-10-01T15:11:41-03:00"
-      }
+      "concluido_em": "2026-10-01T14:48:25-03:00"
     },
     {
       "id": "reel-20261001-1300-eb6121a223",
