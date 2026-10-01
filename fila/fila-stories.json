@@ -1102,7 +1102,7 @@
       "id": "story-20261001-86298f353d",
       "data": "2026-10-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1801 - VOCE PRECISA OUVIR ISSO AGORA.mp4",
         "sha256": "86298f353da4a73d950601a9a3bc74d068aec1d05cce51b8e1ff38ecc2f9ed93"
@@ -1133,22 +1133,19 @@
             "publicado_em": "2026-10-01T14:49:43-03:00"
           },
           "facebook": {
-            "status": "pendente",
-            "ultima_tentativa_em": "2026-10-01T14:49:46-03:00",
-            "tentativas": 1,
+            "status": "publicado",
+            "ultima_tentativa_em": "2026-10-01T15:31:24-03:00",
+            "tentativas": 2,
             "video_id": "922631530648331",
             "fase_api": "publicado_confirmado",
             "post_id": "2198555274874561",
             "id": "2198555274874561",
-            "media_id": "922631530648331"
+            "media_id": "922631530648331",
+            "publicado_em": "2026-10-01T15:31:24-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "36907426671-1",
-        "reivindicado_em": "2026-10-01T15:31:21-03:00",
-        "expira_em": "2026-10-01T15:56:21-03:00"
-      }
+      "concluido_em": "2026-10-01T15:31:24-03:00"
     },
     {
       "id": "story-20261002-d49820bc18",
