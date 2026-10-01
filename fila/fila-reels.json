@@ -1748,7 +1748,7 @@
       "id": "reel-20261001-0500-1966655f3c",
       "data": "2026-10-01",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "19 - SEU PAI E MAE SAO CULPADOS OU VITIMAS.mp4",
         "sha256": "1966655f3c156a45df9acdd34dc77e9bff1c177c61fbe158c1a2b864bd65f8e1"
@@ -1778,18 +1778,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-01T11:53:15-03:00",
         "tentativas": 1,
         "video_id": "1391469006390727",
         "fase_api": "publicado_confirmado",
-        "id": "1391469006390727"
+        "id": "1391469006390727",
+        "publicado_em": "2026-10-01T11:54:04-03:00"
       },
-      "execucao": {
-        "id": "36879754109-1",
-        "reivindicado_em": "2026-10-01T11:52:19-03:00",
-        "expira_em": "2026-10-01T12:17:19-03:00"
-      }
+      "concluido_em": "2026-10-01T11:54:04-03:00"
     },
     {
       "id": "reel-20261001-0900-52c6412af6",
