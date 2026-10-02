@@ -1152,7 +1152,7 @@
       "id": "story-20261002-d49820bc18",
       "data": "2026-10-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1802 - SE VOCE PUDESSE PEDIR UM CONSELHO TOMANDO CAFE QUEM SER.mp4",
         "sha256": "d49820bc18afabd519738e0b4e2c969c5303f2550801c3a7037851eca218de0f"
@@ -1183,22 +1183,19 @@
             "publicado_em": "2026-10-02T14:10:24-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-02T14:10:25-03:00",
             "tentativas": 1,
             "video_id": "1964133281228632",
             "fase_api": "publicado_confirmado",
             "post_id": "1083611197899115",
             "id": "1083611197899115",
-            "media_id": "1964133281228632"
+            "media_id": "1964133281228632",
+            "publicado_em": "2026-10-02T14:11:14-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37038550350-1",
-        "reivindicado_em": "2026-10-02T14:07:22-03:00",
-        "expira_em": "2026-10-02T14:32:22-03:00"
-      }
+      "concluido_em": "2026-10-02T14:11:14-03:00"
     },
     {
       "id": "story-20261003-9bfdbbde0f",
