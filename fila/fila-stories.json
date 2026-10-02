@@ -1180,7 +1180,12 @@
             "status": "pendente"
           }
         }
-      ]
+      ],
+      "execucao": {
+        "id": "37038550350-1",
+        "reivindicado_em": "2026-10-02T14:07:22-03:00",
+        "expira_em": "2026-10-02T14:32:22-03:00"
+      }
     },
     {
       "id": "story-20261003-9bfdbbde0f",
