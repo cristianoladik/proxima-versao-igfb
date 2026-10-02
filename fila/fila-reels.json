@@ -1998,6 +1998,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "37061087086-1",
+        "reivindicado_em": "2026-10-02T17:31:13-03:00",
+        "expira_em": "2026-10-02T17:56:13-03:00"
       }
     },
     {
