@@ -2018,7 +2018,7 @@
       "id": "reel-20261002-1700-2e22ac7a7b",
       "data": "2026-10-02",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "22 - O SEGREDO DO SUCESSO DO RONALDINHO.mp4",
         "sha256": "2e22ac7a7b4803678e113eef08360c0f08efb88311b90ac1f97d1694641c0a6b"
@@ -2048,18 +2048,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-02T20:36:23-03:00",
         "tentativas": 1,
         "video_id": "4491521894429546",
         "fase_api": "publicado_confirmado",
-        "id": "4491521894429546"
+        "id": "4491521894429546",
+        "publicado_em": "2026-10-02T20:37:11-03:00"
       },
-      "execucao": {
-        "id": "37078257489-1",
-        "reivindicado_em": "2026-10-02T20:35:02-03:00",
-        "expira_em": "2026-10-02T21:00:02-03:00"
-      }
+      "concluido_em": "2026-10-02T20:37:11-03:00"
     },
     {
       "id": "reel-20261003-0500-b97f138e41",
