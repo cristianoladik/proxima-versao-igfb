@@ -1883,7 +1883,7 @@
       "id": "reel-20261002-0500-a569121e44",
       "data": "2026-10-02",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "21 - NICOTINA AUMENTA O FOCO.mp4",
         "sha256": "a569121e44b97eb2ba274dfb2413b18ce44036673965a7771d01b5723ffb07b3"
@@ -1913,18 +1913,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-02T11:14:13-03:00",
         "tentativas": 1,
         "video_id": "1140160562327607",
         "fase_api": "publicado_confirmado",
-        "id": "1140160562327607"
+        "id": "1140160562327607",
+        "publicado_em": "2026-10-02T11:15:02-03:00"
       },
-      "execucao": {
-        "id": "37018327259-1",
-        "reivindicado_em": "2026-10-02T11:13:21-03:00",
-        "expira_em": "2026-10-02T11:38:21-03:00"
-      }
+      "concluido_em": "2026-10-02T11:15:02-03:00"
     },
     {
       "id": "reel-20261002-0900-9375f43fa9",
