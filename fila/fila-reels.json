@@ -1973,7 +1973,7 @@
       "id": "reel-20261002-1300-d29f0efaf0",
       "data": "2026-10-02",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "22 - COMO ACABAR.mp4",
         "sha256": "d29f0efaf0a622658df74ba4f7555eb76a35f4071be2e04a09981ab24046c2c9"
@@ -2003,18 +2003,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-02T17:32:05-03:00",
         "tentativas": 1,
         "video_id": "1649302896793905",
         "fase_api": "publicado_confirmado",
-        "id": "1649302896793905"
+        "id": "1649302896793905",
+        "publicado_em": "2026-10-02T17:32:53-03:00"
       },
-      "execucao": {
-        "id": "37061087086-1",
-        "reivindicado_em": "2026-10-02T17:31:13-03:00",
-        "expira_em": "2026-10-02T17:56:13-03:00"
-      }
+      "concluido_em": "2026-10-02T17:32:53-03:00"
     },
     {
       "id": "reel-20261002-1700-2e22ac7a7b",
