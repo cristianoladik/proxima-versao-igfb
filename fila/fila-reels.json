@@ -1928,7 +1928,7 @@
       "id": "reel-20261002-0900-9375f43fa9",
       "data": "2026-10-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "21 - POR ISSO QUE VOCE NAO SE SENTE SATISFEITO.mp4",
         "sha256": "9375f43fa9ea7c948dee295321e124e419c35be5d6bb44008abcf374129bfecf"
@@ -1958,18 +1958,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-02T14:08:46-03:00",
         "tentativas": 1,
         "video_id": "1081328421361322",
         "fase_api": "publicado_confirmado",
-        "id": "1081328421361322"
+        "id": "1081328421361322",
+        "publicado_em": "2026-10-02T14:09:37-03:00"
       },
-      "execucao": {
-        "id": "37038550350-1",
-        "reivindicado_em": "2026-10-02T14:07:22-03:00",
-        "expira_em": "2026-10-02T14:32:22-03:00"
-      }
+      "concluido_em": "2026-10-02T14:09:37-03:00"
     },
     {
       "id": "reel-20261002-1300-d29f0efaf0",
