@@ -2153,7 +2153,7 @@
       "id": "reel-20261003-1300-bd837c3c82",
       "data": "2026-10-03",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "23 - SEU FILHO PRECISA SE SENTIR IMPORTANTE.mp4",
         "sha256": "bd837c3c82c7f9be8db1ac7b44cd458b37cd3228672badb518b01a8b3c2f35c5"
@@ -2183,18 +2183,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-03T16:07:45-03:00",
         "tentativas": 1,
         "video_id": "1963193601322823",
         "fase_api": "publicado_confirmado",
-        "id": "1963193601322823"
+        "id": "1963193601322823",
+        "publicado_em": "2026-10-03T16:08:37-03:00"
       },
-      "execucao": {
-        "id": "37146680837-1",
-        "reivindicado_em": "2026-10-03T16:06:19-03:00",
-        "expira_em": "2026-10-03T16:31:19-03:00"
-      }
+      "concluido_em": "2026-10-03T16:08:37-03:00"
     },
     {
       "id": "reel-20261003-1700-c691d58099",
