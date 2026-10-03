@@ -1202,7 +1202,7 @@
       "id": "story-20261003-9bfdbbde0f",
       "data": "2026-10-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1803 - SIGA ESSES PASSOS.mp4",
         "sha256": "9bfdbbde0f10536602fbfdd359914fd4568de1a2b789ca763a02a2fe71467a5b"
@@ -1233,22 +1233,19 @@
             "publicado_em": "2026-10-03T12:31:20-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-03T12:31:22-03:00",
             "tentativas": 1,
             "video_id": "1091192963785521",
             "fase_api": "publicado_confirmado",
             "post_id": "4722200414670483",
             "id": "4722200414670483",
-            "media_id": "1091192963785521"
+            "media_id": "1091192963785521",
+            "publicado_em": "2026-10-03T12:32:17-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37133333852-1",
-        "reivindicado_em": "2026-10-03T12:28:08-03:00",
-        "expira_em": "2026-10-03T12:53:08-03:00"
-      }
+      "concluido_em": "2026-10-03T12:32:17-03:00"
     },
     {
       "id": "story-20261004-3ff8d89489",
