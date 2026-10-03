@@ -1228,7 +1228,8 @@
             "ultima_tentativa_em": "2026-10-03T12:30:31-03:00",
             "tentativas": 1,
             "container_id": "18103398416173532",
-            "fase_api": "publicacao_pendente_confirmacao"
+            "fase_api": "publicado_confirmado",
+            "id": "18130288066811974"
           },
           "facebook": {
             "status": "pendente"
