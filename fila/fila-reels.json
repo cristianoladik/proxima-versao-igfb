@@ -2198,7 +2198,7 @@
       "id": "reel-20261003-1700-c691d58099",
       "data": "2026-10-03",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "24 - NAO SEJA MAIS REJEITADA.mp4",
         "sha256": "c691d58099074fcbc238326b6f163fde85f5cb0de6d64e763c235225eaef4096"
@@ -2228,18 +2228,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-03T19:44:28-03:00",
         "tentativas": 1,
         "video_id": "959048313342116",
         "fase_api": "publicado_confirmado",
-        "id": "959048313342116"
+        "id": "959048313342116",
+        "publicado_em": "2026-10-03T19:45:18-03:00"
       },
-      "execucao": {
-        "id": "37159375763-1",
-        "reivindicado_em": "2026-10-03T19:43:08-03:00",
-        "expira_em": "2026-10-03T20:08:08-03:00"
-      }
+      "concluido_em": "2026-10-03T19:45:18-03:00"
     },
     {
       "id": "reel-20261004-0500-e283bc1181",
