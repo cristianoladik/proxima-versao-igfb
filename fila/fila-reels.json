@@ -2063,7 +2063,7 @@
       "id": "reel-20261003-0500-b97f138e41",
       "data": "2026-10-03",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "22 - SEU FILHO PRECISA SE SENTIR PERTENCENTE.mp4",
         "sha256": "b97f138e418ae01d60f2a894cdeafe71a0134bf7346fa724f3d066b590ff512f"
@@ -2093,18 +2093,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-03T09:48:21-03:00",
         "tentativas": 1,
         "video_id": "2554381485038254",
         "fase_api": "publicado_confirmado",
-        "id": "2554381485038254"
+        "id": "2554381485038254",
+        "publicado_em": "2026-10-03T09:49:13-03:00"
       },
-      "execucao": {
-        "id": "37124007368-1",
-        "reivindicado_em": "2026-10-03T09:47:30-03:00",
-        "expira_em": "2026-10-03T10:12:30-03:00"
-      }
+      "concluido_em": "2026-10-03T09:49:13-03:00"
     },
     {
       "id": "reel-20261003-0900-27ac14ab8d",
