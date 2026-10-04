@@ -2333,7 +2333,7 @@
       "id": "reel-20261004-1300-8d36fdfa3d",
       "data": "2026-10-04",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "25 - O SEU SUCESSO ESTA NAS SUAS EMOCOES.mp4",
         "sha256": "8d36fdfa3d8cfae0cd06ec68411ee1b03d97d0f94b87ab20a4b9e6f96ab5f1b8"
@@ -2363,18 +2363,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-04T16:20:51-03:00",
         "tentativas": 1,
         "video_id": "1683885063333534",
         "fase_api": "publicado_confirmado",
-        "id": "1683885063333534"
+        "id": "1683885063333534",
+        "publicado_em": "2026-10-04T16:21:37-03:00"
       },
-      "execucao": {
-        "id": "37227857173-1",
-        "reivindicado_em": "2026-10-04T16:20:02-03:00",
-        "expira_em": "2026-10-04T16:45:02-03:00"
-      }
+      "concluido_em": "2026-10-04T16:21:37-03:00"
     },
     {
       "id": "reel-20261004-1700-3e5d185ec0",
