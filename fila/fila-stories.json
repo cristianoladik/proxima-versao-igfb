@@ -1252,7 +1252,7 @@
       "id": "story-20261004-3ff8d89489",
       "data": "2026-10-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1804 - PARE DE AGIR COMO CRIANCA.mp4",
         "sha256": "3ff8d89489b1c6373ea61217e0dec8bad57b21c9ac34a6192775fd257429faf4"
@@ -1283,22 +1283,19 @@
             "publicado_em": "2026-10-04T13:16:07-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-04T13:16:09-03:00",
             "tentativas": 1,
             "video_id": "28780548358228156",
             "fase_api": "publicado_confirmado",
             "post_id": "1461505505949165",
             "id": "1461505505949165",
-            "media_id": "28780548358228156"
+            "media_id": "28780548358228156",
+            "publicado_em": "2026-10-04T13:17:00-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37215929850-1",
-        "reivindicado_em": "2026-10-04T13:12:57-03:00",
-        "expira_em": "2026-10-04T13:37:57-03:00"
-      }
+      "concluido_em": "2026-10-04T13:17:00-03:00"
     },
     {
       "id": "story-20261005-8052ee8550",
