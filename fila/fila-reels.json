@@ -2378,7 +2378,7 @@
       "id": "reel-20261004-1700-3e5d185ec0",
       "data": "2026-10-04",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "25 - RELACAO ENTRE USO DE DROGAS E DOPAMINA.mp4",
         "sha256": "3e5d185ec0a9ec018862eb49ce83889732d2b9008c84b15cd1a7184cdae92571"
@@ -2408,18 +2408,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-04T19:50:23-03:00",
         "tentativas": 1,
         "video_id": "928533686724103",
         "fase_api": "publicado_confirmado",
-        "id": "928533686724103"
+        "id": "928533686724103",
+        "publicado_em": "2026-10-04T19:51:09-03:00"
       },
-      "execucao": {
-        "id": "37241443490-1",
-        "reivindicado_em": "2026-10-04T19:49:05-03:00",
-        "expira_em": "2026-10-04T20:14:05-03:00"
-      }
+      "concluido_em": "2026-10-04T19:51:09-03:00"
     },
     {
       "id": "reel-20261005-0500-f4b5acddbb",
