@@ -2288,7 +2288,7 @@
       "id": "reel-20261004-0900-37375ac716",
       "data": "2026-10-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "25 - A POSITIVIDADE NAO MUDA A REALIDADE ELA MUDA A FORMA CO.mp4",
         "sha256": "37375ac716059062da02a6dc3320b74a10e069b01c3917eb297d18337b84ba7e"
@@ -2318,18 +2318,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-04T13:13:54-03:00",
         "tentativas": 1,
         "video_id": "4048895145414138",
         "fase_api": "publicado_confirmado",
-        "id": "4048895145414138"
+        "id": "4048895145414138",
+        "publicado_em": "2026-10-04T13:14:47-03:00"
       },
-      "execucao": {
-        "id": "37215929850-1",
-        "reivindicado_em": "2026-10-04T13:12:57-03:00",
-        "expira_em": "2026-10-04T13:37:57-03:00"
-      }
+      "concluido_em": "2026-10-04T13:14:47-03:00"
     },
     {
       "id": "reel-20261004-1300-8d36fdfa3d",
