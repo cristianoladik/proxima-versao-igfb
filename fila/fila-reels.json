@@ -2243,7 +2243,7 @@
       "id": "reel-20261004-0500-e283bc1181",
       "data": "2026-10-04",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "24 - RECEITA MATINAL SAUDAVEL E GOSTOSA.mp4",
         "sha256": "e283bc11812549c4653083ab032016726c231dcb7621449fbddb6aa606f3d8e0"
@@ -2273,18 +2273,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-04T10:31:45-03:00",
         "tentativas": 1,
         "video_id": "1413318010224011",
         "fase_api": "publicado_confirmado",
-        "id": "1413318010224011"
+        "id": "1413318010224011",
+        "publicado_em": "2026-10-04T10:32:36-03:00"
       },
-      "execucao": {
-        "id": "37205880830-1",
-        "reivindicado_em": "2026-10-04T10:30:54-03:00",
-        "expira_em": "2026-10-04T10:55:54-03:00"
-      }
+      "concluido_em": "2026-10-04T10:32:36-03:00"
     },
     {
       "id": "reel-20261004-0900-37375ac716",
