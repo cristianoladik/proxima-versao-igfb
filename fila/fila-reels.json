@@ -2447,7 +2447,7 @@
         "ultima_tentativa_em": "2026-10-05T13:29:50-03:00",
         "tentativas": 1,
         "container_id": "18103888208173532",
-        "fase_api": "container_pronto"
+        "fase_api": "publicacao_pendente_confirmacao"
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
