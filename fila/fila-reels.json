@@ -2468,7 +2468,7 @@
       "id": "reel-20261005-0900-a8e204ed24",
       "data": "2026-10-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "26 - AS PESSOAS SAO BOAS ELAS SO SAO DIFERENTES.mp4",
         "sha256": "a8e204ed2432f6c173255686e48c54931b0bcbb8d7cd6a2a74776ccd92c1dfe4"
@@ -2498,18 +2498,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-05T17:11:25-03:00",
         "tentativas": 1,
         "video_id": "1657771729021535",
         "fase_api": "publicado_confirmado",
-        "id": "1657771729021535"
+        "id": "1657771729021535",
+        "publicado_em": "2026-10-05T17:12:14-03:00"
       },
-      "execucao": {
-        "id": "37366899013-1",
-        "reivindicado_em": "2026-10-05T17:10:00-03:00",
-        "expira_em": "2026-10-05T17:35:00-03:00"
-      }
+      "concluido_em": "2026-10-05T17:12:14-03:00"
     },
     {
       "id": "reel-20261005-1300-3af2683209",
