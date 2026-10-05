@@ -1302,7 +1302,7 @@
       "id": "story-20261005-8052ee8550",
       "data": "2026-10-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1805 - SAI DE PERTO DESSES CARAS.mp4",
         "sha256": "8052ee8550dc599fa1e293418f94176c8776f1de399e0b11da0972e5c7f23170"
@@ -1333,22 +1333,19 @@
             "publicado_em": "2026-10-05T17:13:02-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-05T17:13:04-03:00",
             "tentativas": 1,
             "video_id": "1142264238132727",
             "fase_api": "publicado_confirmado",
             "post_id": "1591297255243559",
             "id": "1591297255243559",
-            "media_id": "1142264238132727"
+            "media_id": "1142264238132727",
+            "publicado_em": "2026-10-05T17:13:37-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37366899013-1",
-        "reivindicado_em": "2026-10-05T17:10:00-03:00",
-        "expira_em": "2026-10-05T17:35:00-03:00"
-      }
+      "concluido_em": "2026-10-05T17:13:37-03:00"
     },
     {
       "id": "story-20261006-fd2a5806ed",
