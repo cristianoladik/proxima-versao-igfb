@@ -2513,7 +2513,7 @@
       "id": "reel-20261005-1300-3af2683209",
       "data": "2026-10-05",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "26 - CONVIVAM.mp4",
         "sha256": "3af2683209eb16d93f0210551287b085ab688cf151fec18c7af36abbaa348317"
@@ -2543,18 +2543,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-05T19:25:47-03:00",
         "tentativas": 1,
         "video_id": "996906383419644",
         "fase_api": "publicado_confirmado",
-        "id": "996906383419644"
+        "id": "996906383419644",
+        "publicado_em": "2026-10-05T19:26:38-03:00"
       },
-      "execucao": {
-        "id": "37382188398-1",
-        "reivindicado_em": "2026-10-05T19:23:56-03:00",
-        "expira_em": "2026-10-05T19:48:56-03:00"
-      }
+      "concluido_em": "2026-10-05T19:26:38-03:00"
     },
     {
       "id": "reel-20261005-1700-c85a1e67fd",
