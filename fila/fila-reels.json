@@ -2738,7 +2738,7 @@
       "id": "reel-20261006-1700-c5689ec3a1",
       "data": "2026-10-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "28 - POR QUE AS PESSOAS VAO NA ACADEMIA.mp4",
         "sha256": "c5689ec3a1b75ddc6587f544ed04881669ccbbd2f82a796135b87bd9a30a34ac"
@@ -2768,18 +2768,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-06T20:39:33-03:00",
         "tentativas": 1,
         "video_id": "1658170545743443",
         "fase_api": "publicado_confirmado",
-        "id": "1658170545743443"
+        "id": "1658170545743443",
+        "publicado_em": "2026-10-06T20:40:22-03:00"
       },
-      "execucao": {
-        "id": "37547571158-1",
-        "reivindicado_em": "2026-10-06T20:37:34-03:00",
-        "expira_em": "2026-10-06T21:02:34-03:00"
-      }
+      "concluido_em": "2026-10-06T20:40:22-03:00"
     },
     {
       "id": "reel-20261007-0500-4450a90375",
