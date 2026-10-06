@@ -2648,7 +2648,7 @@
       "id": "reel-20261006-0900-50f0bc458b",
       "data": "2026-10-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "28 - JA AGRADECEU PELO DIA.mp4",
         "sha256": "50f0bc458b944a96ad8703238d037566b7f695df7e9e9878ff22f0c0e898fa55"
@@ -2678,18 +2678,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-06T14:41:22-03:00",
         "tentativas": 1,
         "video_id": "2367152574022225",
         "fase_api": "publicado_confirmado",
-        "id": "2367152574022225"
+        "id": "2367152574022225",
+        "publicado_em": "2026-10-06T14:42:11-03:00"
       },
-      "execucao": {
-        "id": "37505216790-1",
-        "reivindicado_em": "2026-10-06T14:39:31-03:00",
-        "expira_em": "2026-10-06T15:04:31-03:00"
-      }
+      "concluido_em": "2026-10-06T14:42:11-03:00"
     },
     {
       "id": "reel-20261006-1300-4b592e1708",
