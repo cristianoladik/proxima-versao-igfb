@@ -2558,7 +2558,7 @@
       "id": "reel-20261005-1700-c85a1e67fd",
       "data": "2026-10-05",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "27 - POR QUE TEMOS INSULINA NO CEREBRO.mp4",
         "sha256": "c85a1e67fd68598bfd1fea5c58986194ac101ee38227a36f118d0e05dda54fe4"
@@ -2588,18 +2588,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-05T22:11:48-03:00",
         "tentativas": 1,
         "video_id": "1018821131228647",
         "fase_api": "publicado_confirmado",
-        "id": "1018821131228647"
+        "id": "1018821131228647",
+        "publicado_em": "2026-10-05T22:12:34-03:00"
       },
-      "execucao": {
-        "id": "37397748662-1",
-        "reivindicado_em": "2026-10-05T22:09:54-03:00",
-        "expira_em": "2026-10-05T22:34:54-03:00"
-      }
+      "concluido_em": "2026-10-05T22:12:34-03:00"
     },
     {
       "id": "reel-20261006-0500-dd8a1078a1",
