@@ -2693,7 +2693,7 @@
       "id": "reel-20261006-1300-4b592e1708",
       "data": "2026-10-06",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "28 - O QUE VOCE JULGA NO OUTRO ESTA EM VOCE.mp4",
         "sha256": "4b592e170848f4f833e9b2552ac084cee40af5a7ef395195ad05ca2aeb4e93d1"
@@ -2723,18 +2723,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-06T17:52:34-03:00",
         "tentativas": 1,
         "video_id": "1617282119773696",
         "fase_api": "publicado_confirmado",
-        "id": "1617282119773696"
+        "id": "1617282119773696",
+        "publicado_em": "2026-10-06T17:53:22-03:00"
       },
-      "execucao": {
-        "id": "37529549418-1",
-        "reivindicado_em": "2026-10-06T17:51:09-03:00",
-        "expira_em": "2026-10-06T18:16:09-03:00"
-      }
+      "concluido_em": "2026-10-06T17:53:22-03:00"
     },
     {
       "id": "reel-20261006-1700-c5689ec3a1",
