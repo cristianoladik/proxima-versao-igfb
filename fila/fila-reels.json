@@ -2603,7 +2603,7 @@
       "id": "reel-20261006-0500-dd8a1078a1",
       "data": "2026-10-06",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "27 - SE VOCE SE DEFENDE VOCE CONCORDA.mp4",
         "sha256": "dd8a1078a1abef3ef49f272ab481553afd46fdabecc189f570e888ba619b83c5"
@@ -2633,18 +2633,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-06T11:33:23-03:00",
         "tentativas": 1,
         "video_id": "2593463661114964",
         "fase_api": "publicado_confirmado",
-        "id": "2593463661114964"
+        "id": "2593463661114964",
+        "publicado_em": "2026-10-06T11:34:11-03:00"
       },
-      "execucao": {
-        "id": "37479810280-1",
-        "reivindicado_em": "2026-10-06T11:32:33-03:00",
-        "expira_em": "2026-10-06T11:57:33-03:00"
-      }
+      "concluido_em": "2026-10-06T11:34:11-03:00"
     },
     {
       "id": "reel-20261006-0900-50f0bc458b",
