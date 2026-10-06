@@ -1352,7 +1352,7 @@
       "id": "story-20261006-fd2a5806ed",
       "data": "2026-10-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1806 - VENDEDOR DESPREPARADO VEJA OS ERROS.mp4",
         "sha256": "fd2a5806edc7575d7176b4e94f9f6638fa687e0e9138645f2a48782f62eb3d2e"
@@ -1383,22 +1383,19 @@
             "publicado_em": "2026-10-06T14:42:56-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-06T14:42:59-03:00",
             "tentativas": 1,
             "video_id": "1575023248001861",
             "fase_api": "publicado_confirmado",
             "post_id": "1069321609271530",
             "id": "1069321609271530",
-            "media_id": "1575023248001861"
+            "media_id": "1575023248001861",
+            "publicado_em": "2026-10-06T14:43:34-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37505216790-1",
-        "reivindicado_em": "2026-10-06T14:39:31-03:00",
-        "expira_em": "2026-10-06T15:04:31-03:00"
-      }
+      "concluido_em": "2026-10-06T14:43:34-03:00"
     },
     {
       "id": "story-20261007-b5e2d0d8ba",
