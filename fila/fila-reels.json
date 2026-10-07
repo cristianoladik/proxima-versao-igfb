@@ -2783,7 +2783,7 @@
       "id": "reel-20261007-0500-4450a90375",
       "data": "2026-10-07",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "29 - COMPORTAMENTOS TAMBEM DAO BARATOS.mp4",
         "sha256": "4450a90375d7aa5149052a7878acdf508feef3e8f3ad02bdbb768fcdc15d6762"
@@ -2813,19 +2813,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "erro",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-07T12:40:32-03:00",
         "tentativas": 2,
         "video_id": "2373266886835072",
         "fase_api": "publicado_confirmado",
-        "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1.",
-        "id": "2373266886835072"
+        "id": "2373266886835072",
+        "publicado_em": "2026-10-07T12:46:19-03:00"
       },
-      "execucao": {
-        "id": "37645801518-1",
-        "reivindicado_em": "2026-10-07T12:40:30-03:00",
-        "expira_em": "2026-10-07T13:05:30-03:00"
-      }
+      "concluido_em": "2026-10-07T12:46:19-03:00"
     },
     {
       "id": "reel-20261007-0900-5af2025bbf",
