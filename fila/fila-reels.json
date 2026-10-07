@@ -2828,7 +2828,7 @@
       "id": "reel-20261007-0900-5af2025bbf",
       "data": "2026-10-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "29 - ENCARE DE FRENTE.mp4",
         "sha256": "5af2025bbf67be443eebaa69b6a4d4a3c05bcf3100be79dc6c8cca7cc200af0b"
@@ -2858,18 +2858,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-07T15:12:17-03:00",
         "tentativas": 1,
         "video_id": "1518585330035054",
         "fase_api": "publicado_confirmado",
-        "id": "1518585330035054"
+        "id": "1518585330035054",
+        "publicado_em": "2026-10-07T15:13:04-03:00"
       },
-      "execucao": {
-        "id": "37664887268-1",
-        "reivindicado_em": "2026-10-07T15:11:26-03:00",
-        "expira_em": "2026-10-07T15:36:26-03:00"
-      }
+      "concluido_em": "2026-10-07T15:13:04-03:00"
     },
     {
       "id": "reel-20261007-1300-0f74ada9c1",
