@@ -1424,7 +1424,11 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-10-07T15:13:07-03:00",
+            "tentativas": 1,
+            "container_id": "18104324033173532",
+            "fase_api": "container_criado"
           },
           "facebook": {
             "status": "pendente"
