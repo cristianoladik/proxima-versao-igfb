@@ -2817,7 +2817,7 @@
         "ultima_tentativa_em": "2026-10-07T12:40:32-03:00",
         "tentativas": 2,
         "video_id": "2373266886835072",
-        "fase_api": "upload_concluido",
+        "fase_api": "finalizacao_pendente_confirmacao",
         "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1."
       },
       "execucao": {
