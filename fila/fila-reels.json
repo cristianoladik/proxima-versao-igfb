@@ -2873,7 +2873,7 @@
       "id": "reel-20261007-1300-0f74ada9c1",
       "data": "2026-10-07",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "29 - NAO ADIANTA TER 5 MINUTOS DE PENSAMENTO POSITIVO.mp4",
         "sha256": "0f74ada9c10069094eec920052856cf639854ff15323da786e77c52223888d32"
@@ -2903,18 +2903,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-07T18:07:38-03:00",
         "tentativas": 1,
         "video_id": "29526274480308464",
         "fase_api": "publicado_confirmado",
-        "id": "29526274480308464"
+        "id": "29526274480308464",
+        "publicado_em": "2026-10-07T18:08:31-03:00"
       },
-      "execucao": {
-        "id": "37687025831-1",
-        "reivindicado_em": "2026-10-07T18:06:44-03:00",
-        "expira_em": "2026-10-07T18:31:44-03:00"
-      }
+      "concluido_em": "2026-10-07T18:08:31-03:00"
     },
     {
       "id": "reel-20261007-1700-924fb93a0e",
