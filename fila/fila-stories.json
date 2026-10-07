@@ -1402,7 +1402,7 @@
       "id": "story-20261007-b5e2d0d8ba",
       "data": "2026-10-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1807 - ACREDITA EM MACUMBA MAS NAO ACREDITA EM ORACAO.mp4",
         "sha256": "b5e2d0d8bae954990031975cc7704ebfca8ffaa9eacd97be31a5c7a73e9bc929"
@@ -1433,22 +1433,19 @@
             "publicado_em": "2026-10-07T15:13:50-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-07T15:13:52-03:00",
             "tentativas": 1,
             "video_id": "2139868786907885",
             "fase_api": "publicado_confirmado",
             "post_id": "1447716893970632",
             "id": "1447716893970632",
-            "media_id": "2139868786907885"
+            "media_id": "2139868786907885",
+            "publicado_em": "2026-10-07T15:14:57-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37664887268-1",
-        "reivindicado_em": "2026-10-07T15:11:26-03:00",
-        "expira_em": "2026-10-07T15:36:26-03:00"
-      }
+      "concluido_em": "2026-10-07T15:14:57-03:00"
     },
     {
       "id": "story-20261008-d9a837edb9",
