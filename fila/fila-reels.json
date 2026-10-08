@@ -2934,7 +2934,8 @@
         "fps": 25.0,
         "bitrate_video_bps": 2658196,
         "codec_video": "h264",
-        "formato_pixel": "yuv420p"
+        "formato_pixel": "yuv420p",
+        "removido_da_release_em": "2026-10-07T21:03:51-03:00"
       },
       "instagram": {
         "legenda": "Siga @proximaversao_br.",
