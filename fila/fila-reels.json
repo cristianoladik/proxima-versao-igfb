@@ -3008,7 +3008,7 @@
       "id": "reel-20261008-0900-e09976ce49",
       "data": "2026-10-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "30 - POR QUE AS PESSOAS VAO PARA O FUNDO DO POCO.mp4",
         "sha256": "e09976ce49f3e3a9d4080a20225a54746d6e6484620fa0977d1532cbb72b6cf7"
@@ -3038,18 +3038,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-08T15:14:24-03:00",
         "tentativas": 1,
         "video_id": "2276505509799005",
         "fase_api": "publicado_confirmado",
-        "id": "2276505509799005"
+        "id": "2276505509799005",
+        "publicado_em": "2026-10-08T15:15:14-03:00"
       },
-      "execucao": {
-        "id": "37822607717-1",
-        "reivindicado_em": "2026-10-08T15:13:34-03:00",
-        "expira_em": "2026-10-08T15:38:34-03:00"
-      }
+      "concluido_em": "2026-10-08T15:15:14-03:00"
     },
     {
       "id": "reel-20261008-1300-d1e11165aa",
