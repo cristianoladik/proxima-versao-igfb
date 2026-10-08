@@ -2963,7 +2963,7 @@
       "id": "reel-20261008-0500-0ebeacce41",
       "data": "2026-10-08",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "30 - PERDOE SEUS VILOES.mp4",
         "sha256": "0ebeacce41d99e7884db9b517a151af73a13485fdbed26576a4912aeac5e7dfa"
@@ -2993,18 +2993,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-08T12:01:59-03:00",
         "tentativas": 1,
         "video_id": "2539231439922028",
         "fase_api": "publicado_confirmado",
-        "id": "2539231439922028"
+        "id": "2539231439922028",
+        "publicado_em": "2026-10-08T12:03:08-03:00"
       },
-      "execucao": {
-        "id": "37797070739-1",
-        "reivindicado_em": "2026-10-08T12:00:02-03:00",
-        "expira_em": "2026-10-08T12:25:02-03:00"
-      }
+      "concluido_em": "2026-10-08T12:03:08-03:00"
     },
     {
       "id": "reel-20261008-0900-e09976ce49",
