@@ -1452,7 +1452,7 @@
       "id": "story-20261008-d9a837edb9",
       "data": "2026-10-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1808 - SE ESTA BATENDO A META NA PRIMEIRA SEMANA OLHE PARA O Q.mp4",
         "sha256": "d9a837edb93276739f054dea192c4587129aad499ea84e50d0b8300ff6639fec"
@@ -1483,22 +1483,19 @@
             "publicado_em": "2026-10-08T15:17:02-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-08T15:17:04-03:00",
             "tentativas": 1,
             "video_id": "1093161336633609",
             "fase_api": "publicado_confirmado",
             "post_id": "1731052017966699",
             "id": "1731052017966699",
-            "media_id": "1093161336633609"
+            "media_id": "1093161336633609",
+            "publicado_em": "2026-10-08T15:17:55-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37822607717-1",
-        "reivindicado_em": "2026-10-08T15:13:34-03:00",
-        "expira_em": "2026-10-08T15:38:34-03:00"
-      }
+      "concluido_em": "2026-10-08T15:17:55-03:00"
     },
     {
       "id": "story-20261009-ea4aa0500e",
