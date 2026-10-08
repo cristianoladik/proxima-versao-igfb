@@ -2918,7 +2918,7 @@
       "id": "reel-20261007-1700-924fb93a0e",
       "data": "2026-10-07",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "30 - O QUE TE MOTIVA.mp4",
         "sha256": "924fb93a0e0ae8fd2d365f609bd267aadb223c2c9d0294172ff257dcea22dc45"
@@ -2948,18 +2948,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-07T21:02:56-03:00",
         "tentativas": 1,
         "video_id": "2903339626705856",
         "fase_api": "publicado_confirmado",
-        "id": "2903339626705856"
+        "id": "2903339626705856",
+        "publicado_em": "2026-10-07T21:03:47-03:00"
       },
-      "execucao": {
-        "id": "37705539831-1",
-        "reivindicado_em": "2026-10-07T21:02:04-03:00",
-        "expira_em": "2026-10-07T21:27:04-03:00"
-      }
+      "concluido_em": "2026-10-07T21:03:47-03:00"
     },
     {
       "id": "reel-20261008-0500-0ebeacce41",
