@@ -1502,7 +1502,7 @@
       "id": "story-20261009-ea4aa0500e",
       "data": "2026-10-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1809 - VOCE ESTA NO CONTROLE.mp4",
         "sha256": "ea4aa0500eb6b7a256cd1683fcd666233d7e46dbef62726d07c9f318f13e0d0c"
@@ -1533,22 +1533,19 @@
             "publicado_em": "2026-10-09T14:49:03-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-09T14:49:04-03:00",
             "tentativas": 1,
             "video_id": "1585120809458040",
             "fase_api": "publicado_confirmado",
             "post_id": "1768158144487143",
             "id": "1768158144487143",
-            "media_id": "1585120809458040"
+            "media_id": "1585120809458040",
+            "publicado_em": "2026-10-09T14:49:52-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "37968643309-1",
-        "reivindicado_em": "2026-10-09T14:46:41-03:00",
-        "expira_em": "2026-10-09T15:11:41-03:00"
-      }
+      "concluido_em": "2026-10-09T14:49:52-03:00"
     },
     {
       "id": "story-20261010-d7a7f07320",
