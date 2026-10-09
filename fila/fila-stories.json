@@ -1533,7 +1533,11 @@
             "publicado_em": "2026-10-09T14:49:03-03:00"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-10-09T14:49:04-03:00",
+            "tentativas": 1,
+            "video_id": "1585120809458040",
+            "fase_api": "upload_iniciado"
           }
         }
       ],
