@@ -3233,7 +3233,7 @@
       "id": "reel-20261009-1300-8f85787aa9",
       "data": "2026-10-09",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "33 - A BOCA FALA O QUE SEU CORACAO ESTA CHEIO.mp4",
         "sha256": "8f85787aa93639864f56b0ecc9f2c605a80b5bf8d7146b3e4d8d825d4cad2376"
@@ -3263,18 +3263,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-09T17:42:23-03:00",
         "tentativas": 1,
         "video_id": "39015245378122294",
         "fase_api": "publicado_confirmado",
-        "id": "39015245378122294"
+        "id": "39015245378122294",
+        "publicado_em": "2026-10-09T17:43:12-03:00"
       },
-      "execucao": {
-        "id": "37988600928-1",
-        "reivindicado_em": "2026-10-09T17:41:01-03:00",
-        "expira_em": "2026-10-09T18:06:01-03:00"
-      }
+      "concluido_em": "2026-10-09T17:43:12-03:00"
     },
     {
       "id": "reel-20261009-1700-c2b00ff03e",
