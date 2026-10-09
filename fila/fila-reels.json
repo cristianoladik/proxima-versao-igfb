@@ -3278,7 +3278,7 @@
       "id": "reel-20261009-1700-c2b00ff03e",
       "data": "2026-10-09",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "33 - O PROBLEMA E DINHEIRO.mp4",
         "sha256": "c2b00ff03e213c6ec2511283eb1c87e553de25ec6d0c7dc3f9f0afd0662f69a7"
@@ -3308,18 +3308,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-09T20:51:36-03:00",
         "tentativas": 1,
         "video_id": "1490915512865775",
         "fase_api": "publicado_confirmado",
-        "id": "1490915512865775"
+        "id": "1490915512865775",
+        "publicado_em": "2026-10-09T20:52:10-03:00"
       },
-      "execucao": {
-        "id": "38006369426-1",
-        "reivindicado_em": "2026-10-09T20:50:44-03:00",
-        "expira_em": "2026-10-09T21:15:44-03:00"
-      }
+      "concluido_em": "2026-10-09T20:52:10-03:00"
     },
     {
       "id": "reel-20261009-2100-7b8497c67f",
