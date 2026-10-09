@@ -3098,7 +3098,7 @@
       "id": "reel-20261008-1700-ef27aab3f2",
       "data": "2026-10-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "31 - O QUE E SUCESSO.mp4",
         "sha256": "ef27aab3f2aa15edd0a60a439f31cfccc83be943412533e90e6056088efcf52c"
@@ -3128,18 +3128,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-08T21:10:58-03:00",
         "tentativas": 1,
         "video_id": "2596302814131539",
         "fase_api": "publicado_confirmado",
-        "id": "2596302814131539"
+        "id": "2596302814131539",
+        "publicado_em": "2026-10-08T21:11:30-03:00"
       },
-      "execucao": {
-        "id": "37863341156-1",
-        "reivindicado_em": "2026-10-08T21:10:01-03:00",
-        "expira_em": "2026-10-08T21:35:01-03:00"
-      }
+      "concluido_em": "2026-10-08T21:11:30-03:00"
     },
     {
       "id": "reel-20261009-0500-3caaf8da14",
