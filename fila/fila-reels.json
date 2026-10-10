@@ -3413,7 +3413,7 @@
       "id": "reel-20261010-0900-7a7e589e58",
       "data": "2026-10-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "36 - VOCE DEVE CUIDAR DA SUA VIDA.mp4",
         "sha256": "7a7e589e58b81662828501df19f6298bbf91621f297f283e0ee9f3bddc5a927d"
@@ -3443,18 +3443,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-10T13:41:50-03:00",
         "tentativas": 1,
         "video_id": "4631986067038667",
         "fase_api": "publicado_confirmado",
-        "id": "4631986067038667"
+        "id": "4631986067038667",
+        "publicado_em": "2026-10-10T13:42:39-03:00"
       },
-      "execucao": {
-        "id": "38068605526-1",
-        "reivindicado_em": "2026-10-10T13:40:26-03:00",
-        "expira_em": "2026-10-10T14:05:26-03:00"
-      }
+      "concluido_em": "2026-10-10T13:42:39-03:00"
     },
     {
       "id": "reel-20261010-1300-533118aa52",
