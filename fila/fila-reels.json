@@ -3458,7 +3458,7 @@
       "id": "reel-20261010-1300-533118aa52",
       "data": "2026-10-10",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "37 - O MELHOR DESPERTADOR DO EMPREENDEDOR PARA COMECAR O DIA.mp4",
         "sha256": "533118aa526d0735fb3a6b20c7ec42d4be4869dd102208d8955e1efe86b4e279"
@@ -3488,18 +3488,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-10T16:55:19-03:00",
         "tentativas": 1,
         "video_id": "2015585022492992",
         "fase_api": "publicado_confirmado",
-        "id": "2015585022492992"
+        "id": "2015585022492992",
+        "publicado_em": "2026-10-10T16:56:04-03:00"
       },
-      "execucao": {
-        "id": "38081607077-1",
-        "reivindicado_em": "2026-10-10T16:54:01-03:00",
-        "expira_em": "2026-10-10T17:19:01-03:00"
-      }
+      "concluido_em": "2026-10-10T16:56:04-03:00"
     },
     {
       "id": "reel-20261010-1700-c07c70c58a",
