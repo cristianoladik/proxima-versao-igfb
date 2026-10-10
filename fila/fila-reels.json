@@ -3368,7 +3368,7 @@
       "id": "reel-20261010-0500-7c5c69ee75",
       "data": "2026-10-10",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "35 - SUA FORMACAO NAO IMPORTA SE.mp4",
         "sha256": "7c5c69ee7599cb6eeafcc83992dad21e8c14c1be088ac6f4c0bacd020650a858"
@@ -3398,18 +3398,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-10T11:02:21-03:00",
         "tentativas": 1,
         "video_id": "1130968272589915",
         "fase_api": "publicado_confirmado",
-        "id": "1130968272589915"
+        "id": "1130968272589915",
+        "publicado_em": "2026-10-10T11:03:11-03:00"
       },
-      "execucao": {
-        "id": "38057967470-1",
-        "reivindicado_em": "2026-10-10T11:01:30-03:00",
-        "expira_em": "2026-10-10T11:26:30-03:00"
-      }
+      "concluido_em": "2026-10-10T11:03:11-03:00"
     },
     {
       "id": "reel-20261010-0900-7a7e589e58",
