@@ -3323,7 +3323,7 @@
       "id": "reel-20261009-2100-7b8497c67f",
       "data": "2026-10-09",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "34 - APRENDA A RECEBER FEEDBACK.mp4",
         "sha256": "7b8497c67fa81de49052d02299c61424356ad9593cf0c29a08b34a88583bddfc"
@@ -3353,19 +3353,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "erro",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-10T03:14:33-03:00",
         "tentativas": 2,
         "video_id": "927911813490830",
         "fase_api": "publicado_confirmado",
-        "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1.",
-        "id": "927911813490830"
+        "id": "927911813490830",
+        "publicado_em": "2026-10-10T03:20:04-03:00"
       },
-      "execucao": {
-        "id": "38030235629-1",
-        "reivindicado_em": "2026-10-10T03:14:31-03:00",
-        "expira_em": "2026-10-10T03:39:31-03:00"
-      }
+      "concluido_em": "2026-10-10T03:20:04-03:00"
     },
     {
       "id": "reel-20261010-0500-7c5c69ee75",
