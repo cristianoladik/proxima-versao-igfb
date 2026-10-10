@@ -1552,7 +1552,7 @@
       "id": "story-20261010-d7a7f07320",
       "data": "2026-10-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1810 - 80 DO QUE VOCE PENSA E POR CAUSA DISSO.mp4",
         "sha256": "d7a7f07320e999e0401a93da553f65d07d4a97629ff56ca1798fdd0080a339fa"
@@ -1583,22 +1583,19 @@
             "publicado_em": "2026-10-10T13:44:30-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-10T13:44:32-03:00",
             "tentativas": 1,
             "video_id": "1634039788074384",
             "fase_api": "publicado_confirmado",
             "post_id": "1084495664184851",
             "id": "1084495664184851",
-            "media_id": "1634039788074384"
+            "media_id": "1634039788074384",
+            "publicado_em": "2026-10-10T13:45:23-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "38068605526-1",
-        "reivindicado_em": "2026-10-10T13:40:26-03:00",
-        "expira_em": "2026-10-10T14:05:26-03:00"
-      }
+      "concluido_em": "2026-10-10T13:45:23-03:00"
     },
     {
       "id": "story-20261011-31d8108ac2",
