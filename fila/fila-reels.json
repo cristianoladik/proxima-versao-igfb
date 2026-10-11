@@ -3683,7 +3683,7 @@
       "id": "reel-20261011-1300-b052c414d2",
       "data": "2026-10-11",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "40 - COMO MARCOS PAULO USA O CHATGPT.mp4",
         "sha256": "b052c414d2f2f00a4570125daae397ce41029334550c97cf09a754af5a03a575"
@@ -3713,18 +3713,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-11T17:04:10-03:00",
         "tentativas": 1,
         "video_id": "1405853874864717",
         "fase_api": "publicado_confirmado",
-        "id": "1405853874864717"
+        "id": "1405853874864717",
+        "publicado_em": "2026-10-11T17:04:59-03:00"
       },
-      "execucao": {
-        "id": "38170572395-1",
-        "reivindicado_em": "2026-10-11T17:03:18-03:00",
-        "expira_em": "2026-10-11T17:28:18-03:00"
-      }
+      "concluido_em": "2026-10-11T17:04:59-03:00"
     },
     {
       "id": "reel-20261011-1700-7ffbf9b89a",
