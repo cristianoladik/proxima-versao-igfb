@@ -3548,7 +3548,7 @@
       "id": "reel-20261010-2100-8fd4bef4a5",
       "data": "2026-10-10",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "38 - COLOQUE OS OVOS NA MESMA CESTA.mp4",
         "sha256": "8fd4bef4a552a3b0e57336787c8f6f77a84eabcb7b06a65e604885878db69bd3"
@@ -3578,18 +3578,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-11T01:01:04-03:00",
         "tentativas": 1,
         "video_id": "1847633092927524",
         "fase_api": "publicado_confirmado",
-        "id": "1847633092927524"
+        "id": "1847633092927524",
+        "publicado_em": "2026-10-11T01:01:50-03:00"
       },
-      "execucao": {
-        "id": "38110123088-1",
-        "reivindicado_em": "2026-10-11T00:59:16-03:00",
-        "expira_em": "2026-10-11T01:24:16-03:00"
-      }
+      "concluido_em": "2026-10-11T01:01:50-03:00"
     },
     {
       "id": "reel-20261011-0500-1a19030bc4",
