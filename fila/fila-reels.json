@@ -3663,6 +3663,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "38158240216-1",
+        "reivindicado_em": "2026-10-11T14:06:24-03:00",
+        "expira_em": "2026-10-11T14:31:24-03:00"
       }
     },
     {
