@@ -1602,7 +1602,7 @@
       "id": "story-20261011-31d8108ac2",
       "data": "2026-10-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1811 - A ERA LULA PRECISA ACABAR.mp4",
         "sha256": "31d8108ac24fa5bbe159c9d8d190180bca5994906caeb1ab638f6b337c9da8e5"
@@ -1669,22 +1669,19 @@
             "publicado_em": "2026-10-11T14:10:54-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-11T14:11:43-03:00",
             "tentativas": 1,
             "video_id": "1154712026885942",
             "fase_api": "publicado_confirmado",
             "post_id": "1108390968234352",
             "id": "1108390968234352",
-            "media_id": "1154712026885942"
+            "media_id": "1154712026885942",
+            "publicado_em": "2026-10-11T14:12:29-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "38158240216-1",
-        "reivindicado_em": "2026-10-11T14:06:24-03:00",
-        "expira_em": "2026-10-11T14:31:24-03:00"
-      }
+      "concluido_em": "2026-10-11T14:12:29-03:00"
     },
     {
       "id": "story-20261012-93de5f7065",
