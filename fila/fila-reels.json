@@ -3818,7 +3818,7 @@
       "id": "reel-20261012-0500-98d03abac7",
       "data": "2026-10-12",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "41 - QUAL CAMINHO VAI TE DEIXAR MAIS FELIZ.mp4",
         "sha256": "98d03abac74f5e5efee0d3760c21d1cad7936d4bf762ca9eb403df6513eeeec3"
@@ -3848,18 +3848,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-12T14:05:00-03:00",
         "tentativas": 1,
         "video_id": "965117056643613",
         "fase_api": "publicado_confirmado",
-        "id": "965117056643613"
+        "id": "965117056643613",
+        "publicado_em": "2026-10-12T14:05:49-03:00"
       },
-      "execucao": {
-        "id": "38281731735-1",
-        "reivindicado_em": "2026-10-12T14:04:09-03:00",
-        "expira_em": "2026-10-12T14:29:09-03:00"
-      }
+      "concluido_em": "2026-10-12T14:05:49-03:00"
     },
     {
       "id": "reel-20261012-0900-5727b662e2",
