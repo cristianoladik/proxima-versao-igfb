@@ -3773,7 +3773,7 @@
       "id": "reel-20261011-2100-2e7c5ecc5c",
       "data": "2026-10-11",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "41 - A UNICA PESSOA QUE PODE TE TRAVAR.mp4",
         "sha256": "2e7c5ecc5cc69a460e4ca9ed3eaed12a19d225662d8133ba1e336eebaa3608e4"
@@ -3803,18 +3803,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-12T01:20:52-03:00",
         "tentativas": 1,
         "video_id": "2466710087157769",
         "fase_api": "publicado_confirmado",
-        "id": "2466710087157769"
+        "id": "2466710087157769",
+        "publicado_em": "2026-10-12T01:21:43-03:00"
       },
-      "execucao": {
-        "id": "38203314933-1",
-        "reivindicado_em": "2026-10-12T01:19:45-03:00",
-        "expira_em": "2026-10-12T01:44:45-03:00"
-      }
+      "concluido_em": "2026-10-12T01:21:43-03:00"
     },
     {
       "id": "reel-20261012-0500-98d03abac7",
