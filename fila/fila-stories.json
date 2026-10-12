@@ -1711,12 +1711,13 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-12T17:40:24-03:00",
             "tentativas": 1,
             "container_id": "18105478856173532",
             "fase_api": "publicado_confirmado",
-            "id": "18135673315570748"
+            "id": "18135673315570748",
+            "publicado_em": "2026-10-12T17:41:09-03:00"
           },
           "facebook": {
             "status": "pendente"
