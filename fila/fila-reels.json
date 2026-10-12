@@ -3908,7 +3908,7 @@
       "id": "reel-20261012-1300-b93cfcd9fd",
       "data": "2026-10-12",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "42 - PARE DE TOMAR DECISOES ASSIM.mp4",
         "sha256": "b93cfcd9fdcd7815d637e2323c05b664f81540a8beaf6fb05860d84524b594b9"
@@ -3938,18 +3938,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-12T19:49:26-03:00",
         "tentativas": 1,
         "video_id": "1089576007273305",
         "fase_api": "publicado_confirmado",
-        "id": "1089576007273305"
+        "id": "1089576007273305",
+        "publicado_em": "2026-10-12T19:50:13-03:00"
       },
-      "execucao": {
-        "id": "38318742444-1",
-        "reivindicado_em": "2026-10-12T19:48:37-03:00",
-        "expira_em": "2026-10-12T20:13:37-03:00"
-      }
+      "concluido_em": "2026-10-12T19:50:13-03:00"
     },
     {
       "id": "reel-20261012-1700-20b9dfce9e",
