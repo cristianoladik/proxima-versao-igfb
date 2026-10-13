@@ -3998,7 +3998,7 @@
       "id": "reel-20261012-2100-60dd5ad869",
       "data": "2026-10-12",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "43 - COMO TOMAR DECISOES MAIS INTELIGENTES.mp4",
         "sha256": "60dd5ad86904d9ac38c7720a67e7da173897c1d5cac74901af0b03bb3f6cca8e"
@@ -4028,18 +4028,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-13T02:29:27-03:00",
         "tentativas": 1,
         "video_id": "1415200353542998",
         "fase_api": "publicado_confirmado",
-        "id": "1415200353542998"
+        "id": "1415200353542998",
+        "publicado_em": "2026-10-13T02:30:16-03:00"
       },
-      "execucao": {
-        "id": "38351556013-1",
-        "reivindicado_em": "2026-10-13T02:28:34-03:00",
-        "expira_em": "2026-10-13T02:53:34-03:00"
-      }
+      "concluido_em": "2026-10-13T02:30:16-03:00"
     },
     {
       "id": "reel-20261013-0500-1e4c09fc43",
