@@ -4079,6 +4079,11 @@
         "video_id": "1041242538932430",
         "fase_api": "finalizacao_pendente_confirmacao",
         "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1."
+      },
+      "execucao": {
+        "id": "38428561286-1",
+        "reivindicado_em": "2026-10-13T13:12:25-03:00",
+        "expira_em": "2026-10-13T13:37:25-03:00"
       }
     },
     {
