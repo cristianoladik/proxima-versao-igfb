@@ -1739,7 +1739,7 @@
       "id": "story-20261013-4184cc3706",
       "data": "2026-10-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1813 - NUNCA VI ALGUEM DE ESQUERDA FICAR INELEGIVEL.mp4",
         "sha256": "4184cc3706f10984c80153830c1474e0f21a5cad1d2543fb57f15ba827799456"
@@ -1806,22 +1806,19 @@
             "publicado_em": "2026-10-13T15:47:17-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-13T15:48:09-03:00",
             "tentativas": 1,
             "video_id": "2101477803806731",
             "fase_api": "publicado_confirmado",
             "post_id": "2311761609364620",
             "id": "2311761609364620",
-            "media_id": "2101477803806731"
+            "media_id": "2101477803806731",
+            "publicado_em": "2026-10-13T15:48:57-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "38448835685-1",
-        "reivindicado_em": "2026-10-13T15:41:55-03:00",
-        "expira_em": "2026-10-13T16:06:55-03:00"
-      }
+      "concluido_em": "2026-10-13T15:48:57-03:00"
     },
     {
       "id": "story-20261014-660546add1",
