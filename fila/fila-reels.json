@@ -4122,7 +4122,7 @@
         "ultima_tentativa_em": "2026-10-13T15:43:22-03:00",
         "tentativas": 1,
         "video_id": "2182395386028229",
-        "fase_api": "finalizacao_pendente_confirmacao"
+        "fase_api": "finish_aceito"
       },
       "execucao": {
         "id": "38448835685-1",
