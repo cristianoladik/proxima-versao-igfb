@@ -4043,7 +4043,7 @@
       "id": "reel-20261013-0500-1e4c09fc43",
       "data": "2026-10-13",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "43 - EU SOU BLINDADO.mp4",
         "sha256": "1e4c09fc4337b0829963e19d5f96e0bfd1970193fe9daa2982a9a0f9c85b2125"
@@ -4073,19 +4073,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "erro",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-13T13:12:27-03:00",
         "tentativas": 2,
         "video_id": "1041242538932430",
         "fase_api": "publicado_confirmado",
-        "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1.",
-        "id": "1041242538932430"
+        "id": "1041242538932430",
+        "publicado_em": "2026-10-13T13:18:16-03:00"
       },
-      "execucao": {
-        "id": "38428561286-1",
-        "reivindicado_em": "2026-10-13T13:12:25-03:00",
-        "expira_em": "2026-10-13T13:37:25-03:00"
-      }
+      "concluido_em": "2026-10-13T13:18:16-03:00"
     },
     {
       "id": "reel-20261013-0900-c091629fc5",
