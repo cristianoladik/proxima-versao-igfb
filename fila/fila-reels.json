@@ -4133,7 +4133,7 @@
       "id": "reel-20261013-1300-dc299ca4e3",
       "data": "2026-10-13",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "44 - COMO ENTENDER QUE O SEU CICLO ACABOU.mp4",
         "sha256": "dc299ca4e3d3bc5588cef05a0c364773abe6720f251fe9a7a2856859e9a9ed7c"
@@ -4163,18 +4163,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-13T18:05:45-03:00",
         "tentativas": 1,
         "video_id": "1653344276190814",
         "fase_api": "publicado_confirmado",
-        "id": "1653344276190814"
+        "id": "1653344276190814",
+        "publicado_em": "2026-10-13T18:06:36-03:00"
       },
-      "execucao": {
-        "id": "38467846284-1",
-        "reivindicado_em": "2026-10-13T18:04:55-03:00",
-        "expira_em": "2026-10-13T18:29:55-03:00"
-      }
+      "concluido_em": "2026-10-13T18:06:36-03:00"
     },
     {
       "id": "reel-20261013-1700-c409dde159",
