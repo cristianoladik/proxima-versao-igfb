@@ -4178,7 +4178,7 @@
       "id": "reel-20261013-1700-c409dde159",
       "data": "2026-10-13",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "45 - NAO GASTE ENERGIA.mp4",
         "sha256": "c409dde159c1f9d99016f0d10ea3a6f5a02bf1a0f83818d1ea070beb814e2ba9"
@@ -4208,18 +4208,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-13T20:38:57-03:00",
         "tentativas": 1,
         "video_id": "1432387459024384",
         "fase_api": "publicado_confirmado",
-        "id": "1432387459024384"
+        "id": "1432387459024384",
+        "publicado_em": "2026-10-13T20:39:27-03:00"
       },
-      "execucao": {
-        "id": "38485369254-1",
-        "reivindicado_em": "2026-10-13T20:37:36-03:00",
-        "expira_em": "2026-10-13T21:02:36-03:00"
-      }
+      "concluido_em": "2026-10-13T20:39:27-03:00"
     },
     {
       "id": "reel-20261013-2100-ca4a01aa0d",
