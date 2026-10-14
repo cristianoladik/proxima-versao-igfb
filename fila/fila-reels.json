@@ -4403,7 +4403,7 @@
       "id": "reel-20261014-1700-b56f098948",
       "data": "2026-10-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "48 - FAMILIA E A BASE DE TUDO.mp4",
         "sha256": "b56f09894863c91a6e14c8a8eb10936e944799fd24402c3e4c874bbc7d376fa6"
@@ -4433,18 +4433,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-14T20:01:22-03:00",
         "tentativas": 1,
         "video_id": "854064154434512",
         "fase_api": "publicado_confirmado",
-        "id": "854064154434512"
+        "id": "854064154434512",
+        "publicado_em": "2026-10-14T20:02:10-03:00"
       },
-      "execucao": {
-        "id": "38651303551-1",
-        "reivindicado_em": "2026-10-14T19:59:59-03:00",
-        "expira_em": "2026-10-14T20:24:59-03:00"
-      }
+      "concluido_em": "2026-10-14T20:02:10-03:00"
     },
     {
       "id": "reel-20261014-2100-c199289b2c",
