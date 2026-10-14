@@ -1826,7 +1826,7 @@
       "id": "story-20261014-660546add1",
       "data": "2026-10-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1814 - QUEM VOCE CHAMARIA PARA PEDIR UM CONSELHO TOMANDO UM CA.mp4",
         "sha256": "660546add1bce5c48894d09438a9d8b58b5d3146b4ad051867bc0d779399cd05"
@@ -1857,22 +1857,19 @@
             "publicado_em": "2026-10-14T13:19:09-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-14T13:19:10-03:00",
             "tentativas": 1,
             "video_id": "1083154377859194",
             "fase_api": "publicado_confirmado",
             "post_id": "950794934764696",
             "id": "950794934764696",
-            "media_id": "1083154377859194"
+            "media_id": "1083154377859194",
+            "publicado_em": "2026-10-14T13:20:05-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "38596302823-1",
-        "reivindicado_em": "2026-10-14T13:14:10-03:00",
-        "expira_em": "2026-10-14T13:39:10-03:00"
-      }
+      "concluido_em": "2026-10-14T13:20:05-03:00"
     },
     {
       "id": "story-20261015-19bd2903d1",
