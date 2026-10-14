@@ -4313,7 +4313,7 @@
       "id": "reel-20261014-0900-019942c10f",
       "data": "2026-10-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "47 - SAIA DO OPERACIONAL SERA.mp4",
         "sha256": "019942c10fa00c8e85a96e0042b177ba36261cc3c1e8a8fbfd6ea72526f19f35"
@@ -4343,18 +4343,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-14T13:16:06-03:00",
         "tentativas": 1,
         "video_id": "3674748356007124",
         "fase_api": "publicado_confirmado",
-        "id": "3674748356007124"
+        "id": "3674748356007124",
+        "publicado_em": "2026-10-14T13:17:16-03:00"
       },
-      "execucao": {
-        "id": "38596302823-1",
-        "reivindicado_em": "2026-10-14T13:14:10-03:00",
-        "expira_em": "2026-10-14T13:39:10-03:00"
-      }
+      "concluido_em": "2026-10-14T13:17:16-03:00"
     },
     {
       "id": "reel-20261014-1300-f6e266280a",
