@@ -4358,7 +4358,7 @@
       "id": "reel-20261014-1300-f6e266280a",
       "data": "2026-10-14",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "48 - A DECISAO NUNCA E DIFICIL BASTA ENCARRAR OS FATOS.mp4",
         "sha256": "f6e266280ad572eec6469d6825e17d00a7bd2c9abc8c0d90f1551a748028392a"
@@ -4388,18 +4388,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-14T17:04:39-03:00",
         "tentativas": 1,
         "video_id": "4469043443359808",
         "fase_api": "publicado_confirmado",
-        "id": "4469043443359808"
+        "id": "4469043443359808",
+        "publicado_em": "2026-10-14T17:05:11-03:00"
       },
-      "execucao": {
-        "id": "38628847545-1",
-        "reivindicado_em": "2026-10-14T17:03:44-03:00",
-        "expira_em": "2026-10-14T17:28:44-03:00"
-      }
+      "concluido_em": "2026-10-14T17:05:11-03:00"
     },
     {
       "id": "reel-20261014-1700-b56f098948",
