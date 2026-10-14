@@ -4268,7 +4268,7 @@
       "id": "reel-20261014-0500-bd7438e376",
       "data": "2026-10-14",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "46 - PARA ESPANTAR O FRIO.mp4",
         "sha256": "bd7438e3764d7495b04f1f7ef0b26f9237e0ff9d3a007b195ee144c34c4a4984"
@@ -4298,18 +4298,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-14T10:10:40-03:00",
         "tentativas": 1,
         "video_id": "4570803829905299",
         "fase_api": "publicado_confirmado",
-        "id": "4570803829905299"
+        "id": "4570803829905299",
+        "publicado_em": "2026-10-14T10:11:28-03:00"
       },
-      "execucao": {
-        "id": "38569339939-1",
-        "reivindicado_em": "2026-10-14T10:08:44-03:00",
-        "expira_em": "2026-10-14T10:33:44-03:00"
-      }
+      "concluido_em": "2026-10-14T10:11:28-03:00"
     },
     {
       "id": "reel-20261014-0900-019942c10f",
