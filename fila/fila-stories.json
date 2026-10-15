@@ -1876,7 +1876,7 @@
       "id": "story-20261015-19bd2903d1",
       "data": "2026-10-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1815 - TEM QUE FAZER ISSO TODOS OS DIAS.mp4",
         "sha256": "19bd2903d11f4edf86b9b11240519020692a82ffd17f16879b0eb86e39f5502c"
@@ -1907,22 +1907,19 @@
             "publicado_em": "2026-10-15T13:06:12-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-15T13:06:14-03:00",
             "tentativas": 1,
             "video_id": "1518210036887447",
             "fase_api": "publicado_confirmado",
             "post_id": "1427449309511574",
             "id": "1427449309511574",
-            "media_id": "1518210036887447"
+            "media_id": "1518210036887447",
+            "publicado_em": "2026-10-15T13:07:04-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "38765439757-1",
-        "reivindicado_em": "2026-10-15T13:01:43-03:00",
-        "expira_em": "2026-10-15T13:26:43-03:00"
-      }
+      "concluido_em": "2026-10-15T13:07:04-03:00"
     },
     {
       "id": "story-20261016-fd96ee4990",
