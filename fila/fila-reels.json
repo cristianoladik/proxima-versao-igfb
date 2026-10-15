@@ -4538,7 +4538,7 @@
       "id": "reel-20261015-0900-7db9aee15f",
       "data": "2026-10-15",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "50 - VOCE JA DEU CERTO.mp4",
         "sha256": "7db9aee15f95a342f1ea5d666353cf5b9e379a4985c6497f67216893ede04fd0"
@@ -4568,18 +4568,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-15T13:03:35-03:00",
         "tentativas": 1,
         "video_id": "1480732454118926",
         "fase_api": "publicado_confirmado",
-        "id": "1480732454118926"
+        "id": "1480732454118926",
+        "publicado_em": "2026-10-15T13:04:24-03:00"
       },
-      "execucao": {
-        "id": "38765439757-1",
-        "reivindicado_em": "2026-10-15T13:01:43-03:00",
-        "expira_em": "2026-10-15T13:26:43-03:00"
-      }
+      "concluido_em": "2026-10-15T13:04:24-03:00"
     },
     {
       "id": "reel-20261015-1300-ee73a8c05a",
