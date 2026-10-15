@@ -4493,7 +4493,7 @@
       "id": "reel-20261015-0500-3cea584a44",
       "data": "2026-10-15",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "50 - ISSO E INTELIGENCIA EMOCIONAL DE VERDADE.mp4",
         "sha256": "3cea584a44a3ccfe36728f49175c1ecd9c7436d8195d3f815540915c0cff54ac"
@@ -4523,18 +4523,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-15T09:55:42-03:00",
         "tentativas": 1,
         "video_id": "988851066875911",
         "fase_api": "publicado_confirmado",
-        "id": "988851066875911"
+        "id": "988851066875911",
+        "publicado_em": "2026-10-15T09:56:34-03:00"
       },
-      "execucao": {
-        "id": "38738289366-1",
-        "reivindicado_em": "2026-10-15T09:54:44-03:00",
-        "expira_em": "2026-10-15T10:19:44-03:00"
-      }
+      "concluido_em": "2026-10-15T09:56:34-03:00"
     },
     {
       "id": "reel-20261015-0900-7db9aee15f",
