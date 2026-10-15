@@ -4583,7 +4583,7 @@
       "id": "reel-20261015-1300-ee73a8c05a",
       "data": "2026-10-15",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "51 - AS PEDRAS QUE APARECEM NO SEU CAMINHO NAO SAO PARA TE P.mp4",
         "sha256": "ee73a8c05a1cb807b5e678856f74851f7530d2642abe1b2b88dafc1d54ad335f"
@@ -4613,18 +4613,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-15T16:47:50-03:00",
         "tentativas": 1,
         "video_id": "1710002417206700",
         "fase_api": "publicado_confirmado",
-        "id": "1710002417206700"
+        "id": "1710002417206700",
+        "publicado_em": "2026-10-15T16:48:23-03:00"
       },
-      "execucao": {
-        "id": "38796577425-1",
-        "reivindicado_em": "2026-10-15T16:46:26-03:00",
-        "expira_em": "2026-10-15T17:11:26-03:00"
-      }
+      "concluido_em": "2026-10-15T16:48:23-03:00"
     },
     {
       "id": "reel-20261015-1700-f310e6ec37",
