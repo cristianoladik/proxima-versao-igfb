@@ -4628,7 +4628,7 @@
       "id": "reel-20261015-1700-f310e6ec37",
       "data": "2026-10-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "51 - DEUS ESFREGOU TANTA BENCAO NA MINHA VIDA.mp4",
         "sha256": "f310e6ec377f15ab09b7e1f0887a22515a051cd57f7d1fee9bf561fc8ce4ed3c"
@@ -4658,18 +4658,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-15T19:56:14-03:00",
         "tentativas": 1,
         "video_id": "2181689419370431",
         "fase_api": "publicado_confirmado",
-        "id": "2181689419370431"
+        "id": "2181689419370431",
+        "publicado_em": "2026-10-15T19:57:00-03:00"
       },
-      "execucao": {
-        "id": "38820315378-1",
-        "reivindicado_em": "2026-10-15T19:55:24-03:00",
-        "expira_em": "2026-10-15T20:20:24-03:00"
-      }
+      "concluido_em": "2026-10-15T19:57:00-03:00"
     },
     {
       "id": "reel-20261015-2100-457b6f82e3",
