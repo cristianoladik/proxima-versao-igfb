@@ -4448,7 +4448,7 @@
       "id": "reel-20261014-2100-c199289b2c",
       "data": "2026-10-14",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "49 - SER MAE ME TORNOU UMA PESSOA MELHOR.mp4",
         "sha256": "c199289b2c13c9f7316129db300497a801147f0baf2223c6a2a9cdd6c82c0838"
@@ -4478,18 +4478,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-15T00:12:45-03:00",
         "tentativas": 1,
         "video_id": "1835441594537051",
         "fase_api": "publicado_confirmado",
-        "id": "1835441594537051"
+        "id": "1835441594537051",
+        "publicado_em": "2026-10-15T00:13:45-03:00"
       },
-      "execucao": {
-        "id": "38674977992-1",
-        "reivindicado_em": "2026-10-15T00:11:52-03:00",
-        "expira_em": "2026-10-15T00:36:52-03:00"
-      }
+      "concluido_em": "2026-10-15T00:13:45-03:00"
     },
     {
       "id": "reel-20261015-0500-3cea584a44",
