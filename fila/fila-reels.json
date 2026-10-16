@@ -4673,7 +4673,7 @@
       "id": "reel-20261015-2100-457b6f82e3",
       "data": "2026-10-15",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "52 - ECONOMIA COMPARTILHADA VALE A PENA.mp4",
         "sha256": "457b6f82e396aa40c460fc67768b3c26e36e3e5400dc1f13b235ff2c11385865"
@@ -4703,18 +4703,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-16T00:08:21-03:00",
         "tentativas": 1,
         "video_id": "1107932935300583",
         "fase_api": "publicado_confirmado",
-        "id": "1107932935300583"
+        "id": "1107932935300583",
+        "publicado_em": "2026-10-16T00:09:09-03:00"
       },
-      "execucao": {
-        "id": "38843931356-1",
-        "reivindicado_em": "2026-10-16T00:07:33-03:00",
-        "expira_em": "2026-10-16T00:32:33-03:00"
-      }
+      "concluido_em": "2026-10-16T00:09:09-03:00"
     },
     {
       "id": "reel-20261016-0500-a67644363b",
