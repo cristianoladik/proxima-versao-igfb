@@ -4718,7 +4718,7 @@
       "id": "reel-20261016-0500-a67644363b",
       "data": "2026-10-16",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "52 - QUER FAZER NETWORKING.mp4",
         "sha256": "a67644363bd70b946cd9d499a67e75554ee81e50f1410f2f00f8585dc81a07f8"
@@ -4748,18 +4748,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-16T09:47:47-03:00",
         "tentativas": 1,
         "video_id": "1869667601114403",
         "fase_api": "publicado_confirmado",
-        "id": "1869667601114403"
+        "id": "1869667601114403",
+        "publicado_em": "2026-10-16T09:48:36-03:00"
       },
-      "execucao": {
-        "id": "38902878322-1",
-        "reivindicado_em": "2026-10-16T09:46:25-03:00",
-        "expira_em": "2026-10-16T10:11:25-03:00"
-      }
+      "concluido_em": "2026-10-16T09:48:36-03:00"
     },
     {
       "id": "reel-20261016-0900-9b64f8c498",
