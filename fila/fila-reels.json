@@ -4763,7 +4763,7 @@
       "id": "reel-20261016-0900-9b64f8c498",
       "data": "2026-10-16",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "53 - ECONOMIA COMPARTILHADA.mp4",
         "sha256": "9b64f8c498d2e142f151b1cfd49e7c362c6a5302fef1d491c10d798502b57a0c"
@@ -4793,18 +4793,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-16T12:52:12-03:00",
         "tentativas": 1,
         "video_id": "1438788401749688",
         "fase_api": "publicado_confirmado",
-        "id": "1438788401749688"
+        "id": "1438788401749688",
+        "publicado_em": "2026-10-16T12:53:04-03:00"
       },
-      "execucao": {
-        "id": "38927111564-1",
-        "reivindicado_em": "2026-10-16T12:50:15-03:00",
-        "expira_em": "2026-10-16T13:15:15-03:00"
-      }
+      "concluido_em": "2026-10-16T12:53:04-03:00"
     },
     {
       "id": "reel-20261016-1300-7f6da50661",
