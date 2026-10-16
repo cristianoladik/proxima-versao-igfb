@@ -1961,8 +1961,10 @@
             "ultima_tentativa_em": "2026-10-16T12:54:57-03:00",
             "tentativas": 1,
             "video_id": "1583024486321833",
-            "fase_api": "finish_aceito",
-            "post_id": "1123703397078760"
+            "fase_api": "publicado_confirmado",
+            "post_id": "1123703397078760",
+            "id": "1123703397078760",
+            "media_id": "1583024486321833"
           }
         }
       ],
