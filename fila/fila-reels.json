@@ -4853,7 +4853,7 @@
       "id": "reel-20261016-1700-825b30638f",
       "data": "2026-10-16",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "54 - VOCE TEM MAIS CORAGEM DO QUE IMAGINA.mp4",
         "sha256": "825b30638f73ef6af98277df8089ddf352b0b0362fd0f0bcaffb466b1ff3c326"
@@ -4883,18 +4883,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-16T19:37:11-03:00",
         "tentativas": 1,
         "video_id": "2275286929980736",
         "fase_api": "publicado_confirmado",
-        "id": "2275286929980736"
+        "id": "2275286929980736",
+        "publicado_em": "2026-10-16T19:37:58-03:00"
       },
-      "execucao": {
-        "id": "38976728500-1",
-        "reivindicado_em": "2026-10-16T19:36:22-03:00",
-        "expira_em": "2026-10-16T20:01:22-03:00"
-      }
+      "concluido_em": "2026-10-16T19:37:58-03:00"
     },
     {
       "id": "reel-20261016-2100-33d745bbeb",
