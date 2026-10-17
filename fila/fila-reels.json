@@ -5075,7 +5075,7 @@
       "id": "reel-20261017-1700-4bdf9f5f77",
       "data": "2026-10-17",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "57 - RENATO CARIANI SEMPRE E GRATO POR TODOS OS ANOS INDEPEN.mp4",
         "sha256": "4bdf9f5f77f6dc0cfd029275ca9ba1560bd27adbae98cf5d039e335de308d8c1"
@@ -5105,18 +5105,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-17T19:00:04-03:00",
         "tentativas": 1,
         "video_id": "2338014113676321",
         "fase_api": "publicado_confirmado",
-        "id": "2338014113676321"
+        "id": "2338014113676321",
+        "publicado_em": "2026-10-17T19:00:53-03:00"
       },
-      "execucao": {
-        "id": "39073175434-1",
-        "reivindicado_em": "2026-10-17T18:59:11-03:00",
-        "expira_em": "2026-10-17T19:24:11-03:00"
-      }
+      "concluido_em": "2026-10-17T19:00:53-03:00"
     },
     {
       "id": "reel-20261017-2100-f7135d80bf",
