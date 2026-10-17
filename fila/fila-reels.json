@@ -4943,7 +4943,7 @@
       "id": "reel-20261017-0500-df6205de17",
       "data": "2026-10-17",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "55 - PENSAR POSITIVO NAO E ILUSAO.mp4",
         "sha256": "df6205de179d435c1590b237eb26359077928ffc94b6a215434e43387a86ba00"
@@ -4973,18 +4973,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-17T08:48:32-03:00",
         "tentativas": 1,
         "video_id": "2133334893974241",
         "fase_api": "publicado_confirmado",
-        "id": "2133334893974241"
+        "id": "2133334893974241",
+        "publicado_em": "2026-10-17T08:49:18-03:00"
       },
-      "execucao": {
-        "id": "39030038885-1",
-        "reivindicado_em": "2026-10-17T08:47:40-03:00",
-        "expira_em": "2026-10-17T09:12:40-03:00"
-      }
+      "concluido_em": "2026-10-17T08:49:18-03:00"
     },
     {
       "id": "reel-20261017-0900-d66788974b",
