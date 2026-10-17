@@ -5062,17 +5062,13 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-17T15:19:13-03:00",
         "tentativas": 1,
         "video_id": "2256324761767422",
         "fase_api": "publicado_confirmado",
-        "id": "2256324761767422"
-      },
-      "execucao": {
-        "id": "39057477195-1",
-        "reivindicado_em": "2026-10-17T15:18:04-03:00",
-        "expira_em": "2026-10-17T15:43:04-03:00"
+        "id": "2256324761767422",
+        "publicado_em": "2026-10-17T15:19:42-03:00"
       }
     },
     {
