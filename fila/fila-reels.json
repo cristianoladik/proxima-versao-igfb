@@ -5053,11 +5053,12 @@
       },
       "instagram": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "erro",
         "ultima_tentativa_em": "2026-10-17T15:18:06-03:00",
         "tentativas": 1,
         "container_id": "18106621358173532",
-        "fase_api": "container_criado"
+        "fase_api": "container_criado",
+        "erro": "O Instagram não processou o container: {'id': '18106621358173532', 'status': 'Error: Media upload has failed with error code 2207082', 'status_code': 'ERROR'}"
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
