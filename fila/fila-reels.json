@@ -4988,7 +4988,7 @@
       "id": "reel-20261017-0900-d66788974b",
       "data": "2026-10-17",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "56 - CAPITAL DE GIRO NAO E SEU.mp4",
         "sha256": "d66788974bd609417f8cc8501713f02d6360c290abcf9cd547f94596d49b9a59"
@@ -5018,18 +5018,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-17T11:44:00-03:00",
         "tentativas": 1,
         "video_id": "2606655439806061",
         "fase_api": "publicado_confirmado",
-        "id": "2606655439806061"
+        "id": "2606655439806061",
+        "publicado_em": "2026-10-17T11:45:04-03:00"
       },
-      "execucao": {
-        "id": "39041926435-1",
-        "reivindicado_em": "2026-10-17T11:43:08-03:00",
-        "expira_em": "2026-10-17T12:08:08-03:00"
-      }
+      "concluido_em": "2026-10-17T11:45:04-03:00"
     },
     {
       "id": "reel-20261017-1300-2b75d41195",
