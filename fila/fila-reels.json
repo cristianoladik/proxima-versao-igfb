@@ -5165,7 +5165,7 @@
       "id": "reel-20261018-0500-c4bc4fbac0",
       "data": "2026-10-18",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "59 - NAO BASTA SER VENDEDOR TEM QUE TER A MENTALIDADE CERTA.mp4",
         "sha256": "c4bc4fbac0798e63d597d4a8fbc30ff2c7ea2f5060983c2e05d91d37463c7090"
@@ -5195,18 +5195,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-18T09:15:15-03:00",
         "tentativas": 1,
         "video_id": "1043935755337623",
         "fase_api": "publicado_confirmado",
-        "id": "1043935755337623"
+        "id": "1043935755337623",
+        "publicado_em": "2026-10-18T09:16:01-03:00"
       },
-      "execucao": {
-        "id": "39126373119-1",
-        "reivindicado_em": "2026-10-18T09:13:17-03:00",
-        "expira_em": "2026-10-18T09:38:17-03:00"
-      }
+      "concluido_em": "2026-10-18T09:16:01-03:00"
     },
     {
       "id": "reel-20261018-0900-6d9e44eac0",
