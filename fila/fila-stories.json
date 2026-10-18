@@ -2026,7 +2026,7 @@
       "id": "story-20261018-8202df11b3",
       "data": "2026-10-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1818 - TA VIVO ENTAO DA PRA MELHORAR.mp4",
         "sha256": "8202df11b3351da09cd8f37f431b2c0f844c91798cc3427e59bd6032eb1bf938"
@@ -2057,22 +2057,19 @@
             "publicado_em": "2026-10-18T12:12:02-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-18T12:12:04-03:00",
             "tentativas": 1,
             "video_id": "1676904780681733",
             "fase_api": "publicado_confirmado",
             "post_id": "2268895540423391",
             "id": "2268895540423391",
-            "media_id": "1676904780681733"
+            "media_id": "1676904780681733",
+            "publicado_em": "2026-10-18T12:12:57-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "39139150194-1",
-        "reivindicado_em": "2026-10-18T12:08:57-03:00",
-        "expira_em": "2026-10-18T12:33:57-03:00"
-      }
+      "concluido_em": "2026-10-18T12:12:57-03:00"
     },
     {
       "id": "story-20261019-ec8ee4d3b3",
