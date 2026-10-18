@@ -5120,7 +5120,7 @@
       "id": "reel-20261017-2100-f7135d80bf",
       "data": "2026-10-17",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "58 - VERDADE AIMA DO LUCRO.mp4",
         "sha256": "f7135d80bf1a8b2332ba764f621b896179dd7f407fa1a0b4d6cc0b95b5aaad9b"
@@ -5150,18 +5150,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-18T00:01:56-03:00",
         "tentativas": 1,
         "video_id": "28547236998291473",
         "fase_api": "publicado_confirmado",
-        "id": "28547236998291473"
+        "id": "28547236998291473",
+        "publicado_em": "2026-10-18T00:02:49-03:00"
       },
-      "execucao": {
-        "id": "39092111886-1",
-        "reivindicado_em": "2026-10-18T00:01:02-03:00",
-        "expira_em": "2026-10-18T00:26:02-03:00"
-      }
+      "concluido_em": "2026-10-18T00:02:49-03:00"
     },
     {
       "id": "reel-20261018-0500-c4bc4fbac0",
