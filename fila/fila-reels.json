@@ -5255,7 +5255,7 @@
       "id": "reel-20261018-1300-36b8a39ae6",
       "data": "2026-10-18",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "60 - COMO DESENVOLVER A MENTALIDADE DE VENDAS.mp4",
         "sha256": "36b8a39ae63f8f90ac626c68ca8eda41970f16f905d4561532b84686022de24f"
@@ -5285,18 +5285,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-18T15:31:51-03:00",
         "tentativas": 1,
         "video_id": "2284353102351123",
         "fase_api": "publicado_confirmado",
-        "id": "2284353102351123"
+        "id": "2284353102351123",
+        "publicado_em": "2026-10-18T15:32:24-03:00"
       },
-      "execucao": {
-        "id": "39154488535-1",
-        "reivindicado_em": "2026-10-18T15:30:56-03:00",
-        "expira_em": "2026-10-18T15:55:56-03:00"
-      }
+      "concluido_em": "2026-10-18T15:32:24-03:00"
     },
     {
       "id": "reel-20261018-1700-e4dca27587",
