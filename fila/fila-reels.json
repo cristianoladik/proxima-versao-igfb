@@ -5300,7 +5300,7 @@
       "id": "reel-20261018-1700-e4dca27587",
       "data": "2026-10-18",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "61 - SERA QUE VALE A PENA SER TAO SINCERO.mp4",
         "sha256": "e4dca27587e2b3ca3aee5eb4f08ff5f9e0a949a7097b93ec562b52fbf3b6576f"
@@ -5330,18 +5330,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-18T19:17:29-03:00",
         "tentativas": 1,
         "video_id": "3265088517215526",
         "fase_api": "publicado_confirmado",
-        "id": "3265088517215526"
+        "id": "3265088517215526",
+        "publicado_em": "2026-10-18T19:18:12-03:00"
       },
-      "execucao": {
-        "id": "39171432468-1",
-        "reivindicado_em": "2026-10-18T19:15:36-03:00",
-        "expira_em": "2026-10-18T19:40:36-03:00"
-      }
+      "concluido_em": "2026-10-18T19:18:12-03:00"
     },
     {
       "id": "reel-20261018-2100-723b34a7fe",
