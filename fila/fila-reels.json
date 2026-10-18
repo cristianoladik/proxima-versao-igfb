@@ -5210,7 +5210,7 @@
       "id": "reel-20261018-0900-6d9e44eac0",
       "data": "2026-10-18",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "59 - QUEM AGRADECE AMADURECE.mp4",
         "sha256": "6d9e44eac0f99073deec39910add54afaaeac2e4520952f9ed64323141634af4"
@@ -5240,18 +5240,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-18T12:09:52-03:00",
         "tentativas": 1,
         "video_id": "2201585670572979",
         "fase_api": "publicado_confirmado",
-        "id": "2201585670572979"
+        "id": "2201585670572979",
+        "publicado_em": "2026-10-18T12:10:41-03:00"
       },
-      "execucao": {
-        "id": "39139150194-1",
-        "reivindicado_em": "2026-10-18T12:08:57-03:00",
-        "expira_em": "2026-10-18T12:33:57-03:00"
-      }
+      "concluido_em": "2026-10-18T12:10:41-03:00"
     },
     {
       "id": "reel-20261018-1300-36b8a39ae6",
