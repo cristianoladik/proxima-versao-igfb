@@ -5435,7 +5435,7 @@
       "id": "reel-20261019-0900-340eb91264",
       "data": "2026-10-19",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "63 - ACREDITE EM SI.mp4",
         "sha256": "340eb91264df295769abee642302628a399f0cd9d749f5416be34c91df647d27"
@@ -5465,18 +5465,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-19T15:03:16-03:00",
         "tentativas": 1,
         "video_id": "2355060715331429",
         "fase_api": "publicado_confirmado",
-        "id": "2355060715331429"
+        "id": "2355060715331429",
+        "publicado_em": "2026-10-19T15:04:04-03:00"
       },
-      "execucao": {
-        "id": "39299112628-1",
-        "reivindicado_em": "2026-10-19T15:01:51-03:00",
-        "expira_em": "2026-10-19T15:26:51-03:00"
-      }
+      "concluido_em": "2026-10-19T15:04:04-03:00"
     },
     {
       "id": "reel-20261019-1300-ffedd156de",
