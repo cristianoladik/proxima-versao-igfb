@@ -5480,7 +5480,7 @@
       "id": "reel-20261019-1300-ffedd156de",
       "data": "2026-10-19",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "63 - OS RISCOS DE SER SINCERO NA INTERNET.mp4",
         "sha256": "ffedd156de1bdaad668dee70e097518c2b4bb0cb3fdd184e12a76b4697ebb18b"
@@ -5510,18 +5510,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-19T17:57:17-03:00",
         "tentativas": 1,
         "video_id": "29723352603932668",
         "fase_api": "publicado_confirmado",
-        "id": "29723352603932668"
+        "id": "29723352603932668",
+        "publicado_em": "2026-10-19T17:58:04-03:00"
       },
-      "execucao": {
-        "id": "39323316382-1",
-        "reivindicado_em": "2026-10-19T17:55:24-03:00",
-        "expira_em": "2026-10-19T18:20:24-03:00"
-      }
+      "concluido_em": "2026-10-19T17:58:05-03:00"
     },
     {
       "id": "reel-20261019-1700-a551470ade",
