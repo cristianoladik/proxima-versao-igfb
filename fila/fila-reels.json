@@ -5345,7 +5345,7 @@
       "id": "reel-20261018-2100-723b34a7fe",
       "data": "2026-10-18",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "61 - TODO MUNDO ERRA.mp4",
         "sha256": "723b34a7fed43c657da2065a5fb8e5079b5a622b3ae05e973428acb9477fd0e9"
@@ -5375,18 +5375,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-19T00:15:51-03:00",
         "tentativas": 1,
         "video_id": "1123789073381619",
         "fase_api": "publicado_confirmado",
-        "id": "1123789073381619"
+        "id": "1123789073381619",
+        "publicado_em": "2026-10-19T00:16:39-03:00"
       },
-      "execucao": {
-        "id": "39193773582-1",
-        "reivindicado_em": "2026-10-19T00:15:03-03:00",
-        "expira_em": "2026-10-19T00:40:03-03:00"
-      }
+      "concluido_em": "2026-10-19T00:16:39-03:00"
     },
     {
       "id": "reel-20261019-0500-5f89251129",
