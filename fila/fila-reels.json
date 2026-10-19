@@ -5525,7 +5525,7 @@
       "id": "reel-20261019-1700-a551470ade",
       "data": "2026-10-19",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "64 - BORA PUXAR.mp4",
         "sha256": "a551470adeb76bc1096ce9e4b5943723cdba3cf463ec5bde81e5ae33ebaae23e"
@@ -5555,18 +5555,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-19T20:24:38-03:00",
         "tentativas": 1,
         "video_id": "2003140743683443",
         "fase_api": "publicado_confirmado",
-        "id": "2003140743683443"
+        "id": "2003140743683443",
+        "publicado_em": "2026-10-19T20:25:10-03:00"
       },
-      "execucao": {
-        "id": "39341158088-1",
-        "reivindicado_em": "2026-10-19T20:22:42-03:00",
-        "expira_em": "2026-10-19T20:47:42-03:00"
-      }
+      "concluido_em": "2026-10-19T20:25:10-03:00"
     },
     {
       "id": "reel-20261019-2100-6ee42bb5d1",
