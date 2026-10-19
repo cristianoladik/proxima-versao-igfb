@@ -5390,7 +5390,7 @@
       "id": "reel-20261019-0500-5f89251129",
       "data": "2026-10-19",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "62 - CRIS JUNQUEIRA DORMIA NA AULA.mp4",
         "sha256": "5f892511293c57627bac1f721c62ccee84671895d3cc540e696bc1d5f706f79a"
@@ -5420,18 +5420,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-19T12:05:34-03:00",
         "tentativas": 1,
         "video_id": "1622444176338152",
         "fase_api": "publicado_confirmado",
-        "id": "1622444176338152"
+        "id": "1622444176338152",
+        "publicado_em": "2026-10-19T12:06:24-03:00"
       },
-      "execucao": {
-        "id": "39274620105-1",
-        "reivindicado_em": "2026-10-19T12:04:04-03:00",
-        "expira_em": "2026-10-19T12:29:04-03:00"
-      }
+      "concluido_em": "2026-10-19T12:06:24-03:00"
     },
     {
       "id": "reel-20261019-0900-340eb91264",
