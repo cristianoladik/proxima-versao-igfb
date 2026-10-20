@@ -5705,7 +5705,7 @@
       "id": "reel-20261020-1300-8c149ea4c3",
       "data": "2026-10-20",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "66 - TODO MUNDO ESTA VENDENDO.mp4",
         "sha256": "8c149ea4c39180d24566923616bb4c3cf8d5c6d48b3915a2c08ef58fb4e4cd04"
@@ -5735,18 +5735,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-20T16:56:03-03:00",
         "tentativas": 1,
         "video_id": "1774603570442068",
         "fase_api": "publicado_confirmado",
-        "id": "1774603570442068"
+        "id": "1774603570442068",
+        "publicado_em": "2026-10-20T16:56:39-03:00"
       },
-      "execucao": {
-        "id": "39487501660-1",
-        "reivindicado_em": "2026-10-20T16:55:07-03:00",
-        "expira_em": "2026-10-20T17:20:07-03:00"
-      }
+      "concluido_em": "2026-10-20T16:56:39-03:00"
     },
     {
       "id": "reel-20261020-1700-8c730b0112",
