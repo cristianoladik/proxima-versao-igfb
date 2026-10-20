@@ -5615,7 +5615,7 @@
       "id": "reel-20261020-0500-a202fb1549",
       "data": "2026-10-20",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "65 - DESPERTADOR INUSITADO.mp4",
         "sha256": "a202fb154933ac47d2de00913951721fa4f87aef3aee1cb8fc6e403c8730afa5"
@@ -5645,18 +5645,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-20T10:06:27-03:00",
         "tentativas": 1,
         "video_id": "1459839399686732",
         "fase_api": "publicado_confirmado",
-        "id": "1459839399686732"
+        "id": "1459839399686732",
+        "publicado_em": "2026-10-20T10:07:20-03:00"
       },
-      "execucao": {
-        "id": "39427446615-1",
-        "reivindicado_em": "2026-10-20T10:05:31-03:00",
-        "expira_em": "2026-10-20T10:30:31-03:00"
-      }
+      "concluido_em": "2026-10-20T10:07:20-03:00"
     },
     {
       "id": "reel-20261020-0900-25344a950d",
