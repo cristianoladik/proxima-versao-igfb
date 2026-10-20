@@ -5570,7 +5570,7 @@
       "id": "reel-20261019-2100-6ee42bb5d1",
       "data": "2026-10-19",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "64 - FLAVIO AUGUSTO FALA SOBRE O MODELO CLT.mp4",
         "sha256": "6ee42bb5d1bc47495d0efe2410ea5e80d30a56ab25361c35b246f4b25cbd0d04"
@@ -5600,18 +5600,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-20T00:24:39-03:00",
         "tentativas": 1,
         "video_id": "2924000387962243",
         "fase_api": "publicado_confirmado",
-        "id": "2924000387962243"
+        "id": "2924000387962243",
+        "publicado_em": "2026-10-20T00:25:28-03:00"
       },
-      "execucao": {
-        "id": "39364053839-1",
-        "reivindicado_em": "2026-10-20T00:23:47-03:00",
-        "expira_em": "2026-10-20T00:48:47-03:00"
-      }
+      "concluido_em": "2026-10-20T00:25:28-03:00"
     },
     {
       "id": "reel-20261020-0500-a202fb1549",
