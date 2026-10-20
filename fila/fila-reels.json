@@ -5750,7 +5750,7 @@
       "id": "reel-20261020-1700-8c730b0112",
       "data": "2026-10-20",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "67 - O RITUAL ESPIRITUAL DO PEDRO SCOOBY QUE CONECTA ELE.mp4",
         "sha256": "8c730b011270f86e1c3cbc59afedb201cf14f2318fa18d1dbbf35978533b9e4f"
@@ -5780,18 +5780,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-20T19:59:26-03:00",
         "tentativas": 1,
         "video_id": "2383852045759088",
         "fase_api": "publicado_confirmado",
-        "id": "2383852045759088"
+        "id": "2383852045759088",
+        "publicado_em": "2026-10-20T20:00:13-03:00"
       },
-      "execucao": {
-        "id": "39511742055-1",
-        "reivindicado_em": "2026-10-20T19:57:34-03:00",
-        "expira_em": "2026-10-20T20:22:34-03:00"
-      }
+      "concluido_em": "2026-10-20T20:00:13-03:00"
     },
     {
       "id": "reel-20261020-2100-16052de648",
