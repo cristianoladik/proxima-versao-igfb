@@ -5730,6 +5730,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "39487501660-1",
+        "reivindicado_em": "2026-10-20T16:55:07-03:00",
+        "expira_em": "2026-10-20T17:20:07-03:00"
       }
     },
     {
