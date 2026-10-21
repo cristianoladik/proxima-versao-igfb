@@ -5975,7 +5975,7 @@
       "id": "reel-20261021-1700-1a869b500c",
       "data": "2026-10-21",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "71 - O FUNDO DO POCO.mp4",
         "sha256": "1a869b500c14ab902989964927db6f1e88ef6bbe212a30f7c60af09d7ed02125"
@@ -6005,18 +6005,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-21T20:03:34-03:00",
         "tentativas": 1,
         "video_id": "2355223021939683",
         "fase_api": "publicado_confirmado",
-        "id": "2355223021939683"
+        "id": "2355223021939683",
+        "publicado_em": "2026-10-21T20:04:27-03:00"
       },
-      "execucao": {
-        "id": "39690733166-1",
-        "reivindicado_em": "2026-10-21T20:02:38-03:00",
-        "expira_em": "2026-10-21T20:27:38-03:00"
-      }
+      "concluido_em": "2026-10-21T20:04:27-03:00"
     },
     {
       "id": "reel-20261021-2100-746416ba96",
