@@ -5795,7 +5795,7 @@
       "id": "reel-20261020-2100-16052de648",
       "data": "2026-10-20",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "68 - ARRISCAR SUA VIDA TE DEIXA MAIS VIVO DO QUE NUNCA.mp4",
         "sha256": "16052de64845ec42c7bc251a16461012bd75b85249ad4391ba2e20a2a58dcefc"
@@ -5825,18 +5825,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-21T00:19:44-03:00",
         "tentativas": 1,
         "video_id": "3111064589234320",
         "fase_api": "publicado_confirmado",
-        "id": "3111064589234320"
+        "id": "3111064589234320",
+        "publicado_em": "2026-10-21T00:20:33-03:00"
       },
-      "execucao": {
-        "id": "39537826681-1",
-        "reivindicado_em": "2026-10-21T00:18:22-03:00",
-        "expira_em": "2026-10-21T00:43:22-03:00"
-      }
+      "concluido_em": "2026-10-21T00:20:33-03:00"
     },
     {
       "id": "reel-20261021-0500-48a5ee8946",
