@@ -5885,7 +5885,7 @@
       "id": "reel-20261021-0900-f98eb55949",
       "data": "2026-10-21",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "69 - PENSAR POSITIVO NAO E ILUSAO E FE EM ACAO.mp4",
         "sha256": "f98eb55949c8d1b2b7e2288435864af4531db08df90f73304b7b550973361d34"
@@ -5915,18 +5915,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-21T13:23:17-03:00",
         "tentativas": 1,
         "video_id": "1858381215599756",
         "fase_api": "publicado_confirmado",
-        "id": "1858381215599756"
+        "id": "1858381215599756",
+        "publicado_em": "2026-10-21T13:24:05-03:00"
       },
-      "execucao": {
-        "id": "39634056261-1",
-        "reivindicado_em": "2026-10-21T13:21:53-03:00",
-        "expira_em": "2026-10-21T13:46:53-03:00"
-      }
+      "concluido_em": "2026-10-21T13:24:05-03:00"
     },
     {
       "id": "reel-20261021-1300-944890bf9f",
