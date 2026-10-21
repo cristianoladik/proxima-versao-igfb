@@ -5930,7 +5930,7 @@
       "id": "reel-20261021-1300-944890bf9f",
       "data": "2026-10-21",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "71 - COM QUE VOCE TOMARIA UM CAFE.mp4",
         "sha256": "944890bf9f9ae788c13262e5c67582ea15194390f3e4306ba73149b5dafb3b6e"
@@ -5960,18 +5960,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-21T16:59:56-03:00",
         "tentativas": 1,
         "video_id": "2371788943360343",
         "fase_api": "publicado_confirmado",
-        "id": "2371788943360343"
+        "id": "2371788943360343",
+        "publicado_em": "2026-10-21T17:00:46-03:00"
       },
-      "execucao": {
-        "id": "39666234323-1",
-        "reivindicado_em": "2026-10-21T16:58:29-03:00",
-        "expira_em": "2026-10-21T17:23:29-03:00"
-      }
+      "concluido_em": "2026-10-21T17:00:46-03:00"
     },
     {
       "id": "reel-20261021-1700-1a869b500c",
