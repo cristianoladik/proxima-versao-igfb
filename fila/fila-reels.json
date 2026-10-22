@@ -6020,7 +6020,7 @@
       "id": "reel-20261021-2100-746416ba96",
       "data": "2026-10-21",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "72 - SE VOCE PUDESSE VOLTAR NO PASSADO O QUE VOCE MUDARIA.mp4",
         "sha256": "746416ba96f6581e0c3306bf968e27d2311ba2e833a9f2bc7b634381298ce2dc"
@@ -6050,18 +6050,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-22T00:18:07-03:00",
         "tentativas": 1,
         "video_id": "951973017985502",
         "fase_api": "publicado_confirmado",
-        "id": "951973017985502"
+        "id": "951973017985502",
+        "publicado_em": "2026-10-22T00:18:54-03:00"
       },
-      "execucao": {
-        "id": "39715989320-1",
-        "reivindicado_em": "2026-10-22T00:17:15-03:00",
-        "expira_em": "2026-10-22T00:42:15-03:00"
-      }
+      "concluido_em": "2026-10-22T00:18:54-03:00"
     },
     {
       "id": "reel-20261022-0500-fbe2b6cd78",
