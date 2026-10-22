@@ -2226,7 +2226,7 @@
       "id": "story-20261022-0960221453",
       "data": "2026-10-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1822 - INVEJA 3 CONSELHOS PARA NAO SER ALVO.mp4",
         "sha256": "0960221453503f9e74e14acc308f9f32858ff19136b84ab2598e2ba6e39b7349"
@@ -2257,22 +2257,19 @@
             "publicado_em": "2026-10-22T13:24:14-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-22T13:24:16-03:00",
             "tentativas": 1,
             "video_id": "1104009512274445",
             "fase_api": "publicado_confirmado",
             "post_id": "1425478922897736",
             "id": "1425478922897736",
-            "media_id": "1104009512274445"
+            "media_id": "1104009512274445",
+            "publicado_em": "2026-10-22T13:25:08-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "39813335028-1",
-        "reivindicado_em": "2026-10-22T13:21:36-03:00",
-        "expira_em": "2026-10-22T13:46:36-03:00"
-      }
+      "concluido_em": "2026-10-22T13:25:08-03:00"
     },
     {
       "id": "story-20261023-1af603b841",
