@@ -6200,7 +6200,7 @@
       "id": "reel-20261022-1700-6fd3f2aebb",
       "data": "2026-10-22",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "75 - A FAMILIA PRECISA ANDAR AO LADO DO NEGOCIO.mp4",
         "sha256": "6fd3f2aebb3d3e351916f6629bd4eb751d7107775f22a488c313ffb7b3756c72"
@@ -6230,18 +6230,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-22T20:01:14-03:00",
         "tentativas": 1,
         "video_id": "921752524349649",
         "fase_api": "publicado_confirmado",
-        "id": "921752524349649"
+        "id": "921752524349649",
+        "publicado_em": "2026-10-22T20:02:03-03:00"
       },
-      "execucao": {
-        "id": "39868806590-1",
-        "reivindicado_em": "2026-10-22T19:59:49-03:00",
-        "expira_em": "2026-10-22T20:24:49-03:00"
-      }
+      "concluido_em": "2026-10-22T20:02:03-03:00"
     },
     {
       "id": "reel-20261022-2100-ad81c38b1c",
