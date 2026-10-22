@@ -6110,7 +6110,7 @@
       "id": "reel-20261022-0900-34172f6b82",
       "data": "2026-10-22",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "73 - PODE CONTINUAR PEDRO SCOOBY.mp4",
         "sha256": "34172f6b82c0df9c5f35affe963f0a3f40f67b6aa075334733504407b75f4a6f"
@@ -6140,18 +6140,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-22T13:22:31-03:00",
         "tentativas": 1,
         "video_id": "1092485813584749",
         "fase_api": "publicado_confirmado",
-        "id": "1092485813584749"
+        "id": "1092485813584749",
+        "publicado_em": "2026-10-22T13:23:19-03:00"
       },
-      "execucao": {
-        "id": "39813335028-1",
-        "reivindicado_em": "2026-10-22T13:21:36-03:00",
-        "expira_em": "2026-10-22T13:46:36-03:00"
-      }
+      "concluido_em": "2026-10-22T13:23:19-03:00"
     },
     {
       "id": "reel-20261022-1300-d8d47a3e87",
