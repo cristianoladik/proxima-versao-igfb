@@ -6155,7 +6155,7 @@
       "id": "reel-20261022-1300-d8d47a3e87",
       "data": "2026-10-22",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "74 - EMPREENDER E SERVIR E ATENDER E PROTEGER E DAR DIRECAO .mp4",
         "sha256": "d8d47a3e8748c86ef5538febf2defd015d543bb14a285ff1de80dae15c292c2e"
@@ -6185,18 +6185,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-22T16:52:00-03:00",
         "tentativas": 1,
         "video_id": "1135265466108336",
         "fase_api": "publicado_confirmado",
-        "id": "1135265466108336"
+        "id": "1135265466108336",
+        "publicado_em": "2026-10-22T16:52:50-03:00"
       },
-      "execucao": {
-        "id": "39843660746-1",
-        "reivindicado_em": "2026-10-22T16:51:07-03:00",
-        "expira_em": "2026-10-22T17:16:07-03:00"
-      }
+      "concluido_em": "2026-10-22T16:52:50-03:00"
     },
     {
       "id": "reel-20261022-1700-6fd3f2aebb",
