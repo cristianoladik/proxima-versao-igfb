@@ -6425,7 +6425,7 @@
       "id": "reel-20261023-1700-4465b44180",
       "data": "2026-10-23",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "79 - O SENTIDO DA VIDA E VOCE VIVER.mp4",
         "sha256": "4465b44180d671a132fb3211c23015db2fc0ef562bc98fb5e2e8438c526e5a46"
@@ -6455,18 +6455,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-23T19:56:50-03:00",
         "tentativas": 1,
         "video_id": "2332730427481985",
         "fase_api": "publicado_confirmado",
-        "id": "2332730427481985"
+        "id": "2332730427481985",
+        "publicado_em": "2026-10-23T19:57:39-03:00"
       },
-      "execucao": {
-        "id": "40036667271-1",
-        "reivindicado_em": "2026-10-23T19:55:55-03:00",
-        "expira_em": "2026-10-23T20:20:55-03:00"
-      }
+      "concluido_em": "2026-10-23T19:57:39-03:00"
     },
     {
       "id": "reel-20261023-2100-c01d34b826",
