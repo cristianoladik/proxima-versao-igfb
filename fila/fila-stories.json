@@ -2276,7 +2276,7 @@
       "id": "story-20261023-1af603b841",
       "data": "2026-10-23",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1823 - JA PASSOU POR ISSO.mp4",
         "sha256": "1af603b8418261ce398d7b872f08e17e6e8a486a0d1ccf863990e2146db29855"
@@ -2343,22 +2343,19 @@
             "publicado_em": "2026-10-23T13:15:55-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-23T13:16:47-03:00",
             "tentativas": 1,
             "video_id": "2213594669558683",
             "fase_api": "publicado_confirmado",
             "post_id": "4093875870745602",
             "id": "4093875870745602",
-            "media_id": "2213594669558683"
+            "media_id": "2213594669558683",
+            "publicado_em": "2026-10-23T13:17:38-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "39984599997-1",
-        "reivindicado_em": "2026-10-23T13:10:57-03:00",
-        "expira_em": "2026-10-23T13:35:57-03:00"
-      }
+      "concluido_em": "2026-10-23T13:17:38-03:00"
     },
     {
       "id": "story-20261024-f2d666e385",
