@@ -6380,7 +6380,7 @@
       "id": "reel-20261023-1300-6f2e47c939",
       "data": "2026-10-23",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "79 - O MAIOR PEDIDO DO JOAO ADIBE CIMED.mp4",
         "sha256": "6f2e47c9392a22962e61ffa6df7e3f6eb2559861d5b22488c6a7c230918c6052"
@@ -6410,18 +6410,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-23T16:52:54-03:00",
         "tentativas": 1,
         "video_id": "1458120896249145",
         "fase_api": "publicado_confirmado",
-        "id": "1458120896249145"
+        "id": "1458120896249145",
+        "publicado_em": "2026-10-23T16:53:43-03:00"
       },
-      "execucao": {
-        "id": "40014745069-1",
-        "reivindicado_em": "2026-10-23T16:52:02-03:00",
-        "expira_em": "2026-10-23T17:17:02-03:00"
-      }
+      "concluido_em": "2026-10-23T16:53:43-03:00"
     },
     {
       "id": "reel-20261023-1700-4465b44180",
