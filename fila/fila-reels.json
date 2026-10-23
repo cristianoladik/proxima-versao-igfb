@@ -6245,7 +6245,7 @@
       "id": "reel-20261022-2100-ad81c38b1c",
       "data": "2026-10-22",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "75 - DO MEU PATRIMONIO REUNIDO.mp4",
         "sha256": "ad81c38b1c8926ef757ef8fbfbbdff28c05a5e0b6ea48799bd0117a0da237587"
@@ -6275,18 +6275,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-23T00:23:43-03:00",
         "tentativas": 1,
         "video_id": "2205154847041243",
         "fase_api": "publicado_confirmado",
-        "id": "2205154847041243"
+        "id": "2205154847041243",
+        "publicado_em": "2026-10-23T00:24:14-03:00"
       },
-      "execucao": {
-        "id": "39894680297-1",
-        "reivindicado_em": "2026-10-23T00:22:49-03:00",
-        "expira_em": "2026-10-23T00:47:49-03:00"
-      }
+      "concluido_em": "2026-10-23T00:24:14-03:00"
     },
     {
       "id": "reel-20261023-0500-1fe571e588",
