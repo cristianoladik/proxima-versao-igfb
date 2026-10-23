@@ -6290,7 +6290,7 @@
       "id": "reel-20261023-0500-1fe571e588",
       "data": "2026-10-23",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "76 - LIDERAR E FAZER TIME FIQUE MELHOR DO QUE VOCE.mp4",
         "sha256": "1fe571e588b410783a43c94f8f502d8386bb4666ea8ec9a0e6180f373fcf9be3"
@@ -6320,18 +6320,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-23T09:55:52-03:00",
         "tentativas": 1,
         "video_id": "985393607939673",
         "fase_api": "publicado_confirmado",
-        "id": "985393607939673"
+        "id": "985393607939673",
+        "publicado_em": "2026-10-23T09:56:57-03:00"
       },
-      "execucao": {
-        "id": "39956873252-1",
-        "reivindicado_em": "2026-10-23T09:54:28-03:00",
-        "expira_em": "2026-10-23T10:19:28-03:00"
-      }
+      "concluido_em": "2026-10-23T09:56:57-03:00"
     },
     {
       "id": "reel-20261023-0900-61116ad9a7",
