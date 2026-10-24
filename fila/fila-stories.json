@@ -2394,19 +2394,15 @@
             "publicado_em": "2026-10-24T12:09:41-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "erro",
             "ultima_tentativa_em": "2026-10-24T12:09:43-03:00",
             "tentativas": 1,
             "video_id": "1833839621373158",
-            "fase_api": "finalizacao_pendente_confirmacao"
+            "fase_api": "finalizacao_pendente_confirmacao",
+            "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1."
           }
         }
-      ],
-      "execucao": {
-        "id": "40105494680-1",
-        "reivindicado_em": "2026-10-24T12:07:08-03:00",
-        "expira_em": "2026-10-24T12:32:08-03:00"
-      }
+      ]
     },
     {
       "id": "story-20261025-1d0a511622",
