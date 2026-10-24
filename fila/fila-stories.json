@@ -2363,7 +2363,7 @@
       "id": "story-20261024-f2d666e385",
       "data": "2026-10-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1824 - O LIVRO QUE O NINJA INDICA.mp4",
         "sha256": "f2d666e3850584185c0874bbcb06783b69ccecda32bb8ec25c55cfc3fdabe6ef"
@@ -2394,23 +2394,19 @@
             "publicado_em": "2026-10-24T12:09:41-03:00"
           },
           "facebook": {
-            "status": "erro",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-24T13:09:31-03:00",
             "tentativas": 2,
             "video_id": "1833839621373158",
             "fase_api": "publicado_confirmado",
-            "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1.",
             "post_id": "2518576121997941",
             "id": "2518576121997941",
-            "media_id": "1833839621373158"
+            "media_id": "1833839621373158",
+            "publicado_em": "2026-10-24T13:15:20-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "40110234561-1",
-        "reivindicado_em": "2026-10-24T13:09:29-03:00",
-        "expira_em": "2026-10-24T13:34:29-03:00"
-      }
+      "concluido_em": "2026-10-24T13:15:20-03:00"
     },
     {
       "id": "story-20261025-1d0a511622",
