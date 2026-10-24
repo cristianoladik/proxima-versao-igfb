@@ -6515,7 +6515,7 @@
       "id": "reel-20261024-0500-ae2acd13f5",
       "data": "2026-10-24",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "81 - NAO ESPERE RECONHECIMENTO NEM RECIPROCIDADE FACA POR VO.mp4",
         "sha256": "ae2acd13f5f84193fdfd1d6ead60659c7e754158ac4c4bacaca1dbbfbc0b624f"
@@ -6545,18 +6545,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-24T09:19:37-03:00",
         "tentativas": 1,
         "video_id": "1772140107381166",
         "fase_api": "publicado_confirmado",
-        "id": "1772140107381166"
+        "id": "1772140107381166",
+        "publicado_em": "2026-10-24T09:20:31-03:00"
       },
-      "execucao": {
-        "id": "40093317076-1",
-        "reivindicado_em": "2026-10-24T09:17:33-03:00",
-        "expira_em": "2026-10-24T09:42:33-03:00"
-      }
+      "concluido_em": "2026-10-24T09:20:31-03:00"
     },
     {
       "id": "reel-20261024-0900-a2c00c578f",
