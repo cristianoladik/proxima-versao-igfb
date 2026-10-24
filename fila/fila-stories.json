@@ -2402,7 +2402,12 @@
             "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1."
           }
         }
-      ]
+      ],
+      "execucao": {
+        "id": "40110234561-1",
+        "reivindicado_em": "2026-10-24T13:09:29-03:00",
+        "expira_em": "2026-10-24T13:34:29-03:00"
+      }
     },
     {
       "id": "story-20261025-1d0a511622",
