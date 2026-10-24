@@ -6580,7 +6580,11 @@
       },
       "instagram": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente"
+        "status": "pendente",
+        "ultima_tentativa_em": "2026-10-24T12:07:10-03:00",
+        "tentativas": 1,
+        "container_id": "18108284195173532",
+        "fase_api": "container_criado"
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
