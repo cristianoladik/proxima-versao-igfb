@@ -6540,6 +6540,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "40093317076-1",
+        "reivindicado_em": "2026-10-24T09:17:33-03:00",
+        "expira_em": "2026-10-24T09:42:33-03:00"
       }
     },
     {
