@@ -2398,8 +2398,9 @@
             "ultima_tentativa_em": "2026-10-24T13:09:31-03:00",
             "tentativas": 2,
             "video_id": "1833839621373158",
-            "fase_api": "finalizacao_pendente_confirmacao",
-            "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1."
+            "fase_api": "finish_aceito",
+            "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1.",
+            "post_id": "2518576121997941"
           }
         }
       ],
