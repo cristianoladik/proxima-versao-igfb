@@ -6560,7 +6560,7 @@
       "id": "reel-20261024-0900-a2c00c578f",
       "data": "2026-10-24",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "82 - A VIDA SO FAZ SENTIDO.mp4",
         "sha256": "a2c00c578f5d327371ca3b0d7ff3b57e99be48276d0035960cefe45844e1796f"
@@ -6590,18 +6590,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-24T12:08:04-03:00",
         "tentativas": 1,
         "video_id": "1615200693637602",
         "fase_api": "publicado_confirmado",
-        "id": "1615200693637602"
+        "id": "1615200693637602",
+        "publicado_em": "2026-10-24T12:08:53-03:00"
       },
-      "execucao": {
-        "id": "40105494680-1",
-        "reivindicado_em": "2026-10-24T12:07:08-03:00",
-        "expira_em": "2026-10-24T12:32:08-03:00"
-      }
+      "concluido_em": "2026-10-24T12:08:53-03:00"
     },
     {
       "id": "reel-20261024-1300-0df985ceb2",
