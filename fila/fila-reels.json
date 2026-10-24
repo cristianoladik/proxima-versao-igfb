@@ -6605,7 +6605,7 @@
       "id": "reel-20261024-1300-0df985ceb2",
       "data": "2026-10-24",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "82 - NOSSOS PAIS NAO SE DEDICARAM EM NADA.mp4",
         "sha256": "0df985ceb256e4713b14faacbfab68c5e49585139c9a7a8e741898ef1acc1363"
@@ -6635,18 +6635,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-24T15:40:25-03:00",
         "tentativas": 1,
         "video_id": "1440636631360217",
         "fase_api": "publicado_confirmado",
-        "id": "1440636631360217"
+        "id": "1440636631360217",
+        "publicado_em": "2026-10-24T15:41:28-03:00"
       },
-      "execucao": {
-        "id": "40121699960-1",
-        "reivindicado_em": "2026-10-24T15:39:35-03:00",
-        "expira_em": "2026-10-24T16:04:35-03:00"
-      }
+      "concluido_em": "2026-10-24T15:41:28-03:00"
     },
     {
       "id": "reel-20261024-1700-66d3fc2017",
