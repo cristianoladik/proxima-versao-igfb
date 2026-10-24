@@ -6650,7 +6650,7 @@
       "id": "reel-20261024-1700-66d3fc2017",
       "data": "2026-10-24",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "83 - O MELHOR PRODUTO QUE TEM PRA VENDER E VOCE.mp4",
         "sha256": "66d3fc2017ae8af393bea1573b899984c8ad4ffc8ad7d8fcd814404628475b3d"
@@ -6680,18 +6680,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-24T19:17:11-03:00",
         "tentativas": 1,
         "video_id": "1094172570167830",
         "fase_api": "publicado_confirmado",
-        "id": "1094172570167830"
+        "id": "1094172570167830",
+        "publicado_em": "2026-10-24T19:17:44-03:00"
       },
-      "execucao": {
-        "id": "40137825380-1",
-        "reivindicado_em": "2026-10-24T19:16:20-03:00",
-        "expira_em": "2026-10-24T19:41:20-03:00"
-      }
+      "concluido_em": "2026-10-24T19:17:44-03:00"
     },
     {
       "id": "reel-20261024-2100-8449f7c5e6",
