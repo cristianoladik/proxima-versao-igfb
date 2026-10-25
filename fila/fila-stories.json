@@ -2413,7 +2413,7 @@
       "id": "story-20261025-1d0a511622",
       "data": "2026-10-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1825 - DEUS SABE DE COISAS QUE VOCE NUNCA VAI SABER.mp4",
         "sha256": "1d0a511622487fdd55c8310b2b3062f8b9dca02cfba6a3715a3d7756005c5ce2"
@@ -2444,22 +2444,19 @@
             "publicado_em": "2026-10-25T12:22:33-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-25T12:22:34-03:00",
             "tentativas": 1,
             "video_id": "1808082403676416",
             "fase_api": "publicado_confirmado",
             "post_id": "1109614775135227",
             "id": "1109614775135227",
-            "media_id": "1808082403676416"
+            "media_id": "1808082403676416",
+            "publicado_em": "2026-10-25T12:23:25-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "40206372206-1",
-        "reivindicado_em": "2026-10-25T12:19:27-03:00",
-        "expira_em": "2026-10-25T12:44:27-03:00"
-      }
+      "concluido_em": "2026-10-25T12:23:25-03:00"
     },
     {
       "id": "story-20261026-984b073a5b",
