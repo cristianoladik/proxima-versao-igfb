@@ -6740,7 +6740,7 @@
       "id": "reel-20261025-0500-daab9fc7a2",
       "data": "2026-10-25",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "84 - NAO DEIXE PARA AMANHA RESOLVA HOJE.mp4",
         "sha256": "daab9fc7a23690b438f3d36f324a9633ab10034a97817b85ffdf9303cb0f21be"
@@ -6770,18 +6770,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-25T09:49:43-03:00",
         "tentativas": 1,
         "video_id": "1772471583813062",
         "fase_api": "publicado_confirmado",
-        "id": "1772471583813062"
+        "id": "1772471583813062",
+        "publicado_em": "2026-10-25T09:50:14-03:00"
       },
-      "execucao": {
-        "id": "40194760117-1",
-        "reivindicado_em": "2026-10-25T09:48:40-03:00",
-        "expira_em": "2026-10-25T10:13:40-03:00"
-      }
+      "concluido_em": "2026-10-25T09:50:14-03:00"
     },
     {
       "id": "reel-20261025-0900-abba18729b",
