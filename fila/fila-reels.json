@@ -6830,7 +6830,7 @@
       "id": "reel-20261025-1300-af7112d73b",
       "data": "2026-10-25",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "85 - PENSE EM VENDAS PARA TER PERFORMANCE.mp4",
         "sha256": "af7112d73becb87b016141b608d7f2d5a50a53a607a1b6e062f971ad0a86c5f2"
@@ -6860,18 +6860,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-25T15:49:20-03:00",
         "tentativas": 1,
         "video_id": "2290549345072318",
         "fase_api": "publicado_confirmado",
-        "id": "2290549345072318"
+        "id": "2290549345072318",
+        "publicado_em": "2026-10-25T15:49:53-03:00"
       },
-      "execucao": {
-        "id": "40222983065-1",
-        "reivindicado_em": "2026-10-25T15:48:29-03:00",
-        "expira_em": "2026-10-25T16:13:29-03:00"
-      }
+      "concluido_em": "2026-10-25T15:49:53-03:00"
     },
     {
       "id": "reel-20261025-1700-d7a06863a3",
