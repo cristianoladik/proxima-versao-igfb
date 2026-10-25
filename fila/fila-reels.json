@@ -6785,7 +6785,7 @@
       "id": "reel-20261025-0900-abba18729b",
       "data": "2026-10-25",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "84 - OS JOVENS ESTAO VIRANDO ANIMAIS.mp4",
         "sha256": "abba18729bb417506933d7a75232fc1a7d3e69dd28131757232bbfa3dd4d24e0"
@@ -6815,18 +6815,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-25T12:20:50-03:00",
         "tentativas": 1,
         "video_id": "985064127983703",
         "fase_api": "publicado_confirmado",
-        "id": "985064127983703"
+        "id": "985064127983703",
+        "publicado_em": "2026-10-25T12:21:41-03:00"
       },
-      "execucao": {
-        "id": "40206372206-1",
-        "reivindicado_em": "2026-10-25T12:19:27-03:00",
-        "expira_em": "2026-10-25T12:44:27-03:00"
-      }
+      "concluido_em": "2026-10-25T12:21:41-03:00"
     },
     {
       "id": "reel-20261025-1300-af7112d73b",
