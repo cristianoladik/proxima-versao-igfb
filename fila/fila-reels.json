@@ -6695,7 +6695,7 @@
       "id": "reel-20261024-2100-8449f7c5e6",
       "data": "2026-10-24",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "83 - VENDA E TODO DIA MINUTO E SEGUNDO.mp4",
         "sha256": "8449f7c5e6b97837479d77010c3f84e95576bdf139500f37cd5090bf39bdabbb"
@@ -6725,18 +6725,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-25T00:12:34-03:00",
         "tentativas": 1,
         "video_id": "1100381826198098",
         "fase_api": "publicado_confirmado",
-        "id": "1100381826198098"
+        "id": "1100381826198098",
+        "publicado_em": "2026-10-25T00:13:07-03:00"
       },
-      "execucao": {
-        "id": "40157295455-1",
-        "reivindicado_em": "2026-10-25T00:11:41-03:00",
-        "expira_em": "2026-10-25T00:36:41-03:00"
-      }
+      "concluido_em": "2026-10-25T00:13:07-03:00"
     },
     {
       "id": "reel-20261025-0500-daab9fc7a2",
