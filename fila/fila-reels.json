@@ -6895,12 +6895,13 @@
       },
       "instagram": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-25T19:20:27-03:00",
         "tentativas": 1,
         "container_id": "18108641879173532",
         "fase_api": "publicado_confirmado",
-        "id": "17938201767400050"
+        "id": "17938201767400050",
+        "publicado_em": "2026-10-25T19:21:46-03:00"
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
