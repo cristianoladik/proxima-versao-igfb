@@ -6875,7 +6875,7 @@
       "id": "reel-20261025-1700-d7a06863a3",
       "data": "2026-10-25",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "86 - SEU FILHO PRECISA SER O CENTRO DAS ATENCOES.mp4",
         "sha256": "d7a06863a3e490d74c1f2f7bfcd45ed979361eefe3d3ec137f1b88776001e3b5"
@@ -6905,18 +6905,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-25T19:21:47-03:00",
         "tentativas": 1,
         "video_id": "977732051465798",
         "fase_api": "publicado_confirmado",
-        "id": "977732051465798"
+        "id": "977732051465798",
+        "publicado_em": "2026-10-25T19:22:35-03:00"
       },
-      "execucao": {
-        "id": "40239712654-1",
-        "reivindicado_em": "2026-10-25T19:20:26-03:00",
-        "expira_em": "2026-10-25T19:45:26-03:00"
-      }
+      "concluido_em": "2026-10-25T19:22:35-03:00"
     },
     {
       "id": "reel-20261025-2100-8cdaec1fe1",
