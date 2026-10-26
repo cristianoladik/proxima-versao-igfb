@@ -6965,7 +6965,7 @@
       "id": "reel-20261026-0500-78ba088856",
       "data": "2026-10-26",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "87 - SERVIR FAZER A DIFERENCA E PUXAR GENTE PARA CIMA.mp4",
         "sha256": "78ba0888566bd7edb4331f32b0f41d1c2163068ee8bad7c654a824bc912c043c"
@@ -6995,18 +6995,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-26T11:38:41-03:00",
         "tentativas": 1,
         "video_id": "2307909699946124",
         "fase_api": "publicado_confirmado",
-        "id": "2307909699946124"
+        "id": "2307909699946124",
+        "publicado_em": "2026-10-26T11:39:33-03:00"
       },
-      "execucao": {
-        "id": "40341270104-1",
-        "reivindicado_em": "2026-10-26T11:37:16-03:00",
-        "expira_em": "2026-10-26T12:02:16-03:00"
-      }
+      "concluido_em": "2026-10-26T11:39:33-03:00"
     },
     {
       "id": "reel-20261026-0900-5a883edcef",
