@@ -7100,7 +7100,7 @@
       "id": "reel-20261026-1700-4785ecc60d",
       "data": "2026-10-26",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "89 - QUAL O MELHOR CAMINHAO.mp4",
         "sha256": "4785ecc60d6fe53bb683cfd1fae397b2716989c4060804248a6d38ddb90715f6"
@@ -7130,18 +7130,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-26T20:37:41-03:00",
         "tentativas": 1,
         "video_id": "2232886437654886",
         "fase_api": "publicado_confirmado",
-        "id": "2232886437654886"
+        "id": "2232886437654886",
+        "publicado_em": "2026-10-26T20:38:29-03:00"
       },
-      "execucao": {
-        "id": "40420852934-1",
-        "reivindicado_em": "2026-10-26T20:36:13-03:00",
-        "expira_em": "2026-10-26T21:01:13-03:00"
-      }
+      "concluido_em": "2026-10-26T20:38:29-03:00"
     },
     {
       "id": "reel-20261026-2100-00d4b9609d",
