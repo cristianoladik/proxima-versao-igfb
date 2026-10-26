@@ -6920,7 +6920,7 @@
       "id": "reel-20261025-2100-8cdaec1fe1",
       "data": "2026-10-25",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "87 - O SEGREDO QUE VAI MUDAR A ROTA DA SUA EMPRESA.mp4",
         "sha256": "8cdaec1fe16108d0d57434b48a56417d2588e5abb356144d304ce80ef08ed40d"
@@ -6950,18 +6950,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-26T00:13:41-03:00",
         "tentativas": 1,
         "video_id": "1122657646905838",
         "fase_api": "publicado_confirmado",
-        "id": "1122657646905838"
+        "id": "1122657646905838",
+        "publicado_em": "2026-10-26T00:14:34-03:00"
       },
-      "execucao": {
-        "id": "40262923779-1",
-        "reivindicado_em": "2026-10-26T00:12:44-03:00",
-        "expira_em": "2026-10-26T00:37:44-03:00"
-      }
+      "concluido_em": "2026-10-26T00:14:34-03:00"
     },
     {
       "id": "reel-20261026-0500-78ba088856",
