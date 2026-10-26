@@ -2463,7 +2463,7 @@
       "id": "story-20261026-984b073a5b",
       "data": "2026-10-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1826 - QUAL E O OBJETIVO DO SEU TRABALHO.mp4",
         "sha256": "984b073a5b0d56cbbd5171f7875cbeecd60c2314f8e5be79d4243ff108ae6aff"
@@ -2494,22 +2494,19 @@
             "publicado_em": "2026-10-26T15:02:26-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-26T15:02:28-03:00",
             "tentativas": 1,
             "video_id": "1643953387110293",
             "fase_api": "publicado_confirmado",
             "post_id": "1671648830958465",
             "id": "1671648830958465",
-            "media_id": "1643953387110293"
+            "media_id": "1643953387110293",
+            "publicado_em": "2026-10-26T15:03:18-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "40373755563-1",
-        "reivindicado_em": "2026-10-26T14:59:50-03:00",
-        "expira_em": "2026-10-26T15:24:50-03:00"
-      }
+      "concluido_em": "2026-10-26T15:03:18-03:00"
     },
     {
       "id": "story-20261027-df4943013f",
