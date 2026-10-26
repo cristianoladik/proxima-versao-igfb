@@ -7055,7 +7055,7 @@
       "id": "reel-20261026-1300-dfc38fbc7d",
       "data": "2026-10-26",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "88 - NOSSOS FILHOS PRECISAM SE SENTIR PERTENCENTES.mp4",
         "sha256": "dfc38fbc7d821d0fe9b3143de4e6814ea583a3fae890d5cf3d72efc9e0db4794"
@@ -7085,18 +7085,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-26T17:57:36-03:00",
         "tentativas": 1,
         "video_id": "1645187633884234",
         "fase_api": "publicado_confirmado",
-        "id": "1645187633884234"
+        "id": "1645187633884234",
+        "publicado_em": "2026-10-26T17:58:26-03:00"
       },
-      "execucao": {
-        "id": "40400018256-1",
-        "reivindicado_em": "2026-10-26T17:56:14-03:00",
-        "expira_em": "2026-10-26T18:21:14-03:00"
-      }
+      "concluido_em": "2026-10-26T17:58:26-03:00"
     },
     {
       "id": "reel-20261026-1700-4785ecc60d",
