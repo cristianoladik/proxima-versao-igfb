@@ -7010,7 +7010,7 @@
       "id": "reel-20261026-0900-5a883edcef",
       "data": "2026-10-26",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "88 - NAO SUBESTIME A NOVA GERACAO.mp4",
         "sha256": "5a883edcefe15cea434df18d7d9b68116bfd42f7036f2f4664c0d611e88c3ba4"
@@ -7040,18 +7040,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-26T15:00:43-03:00",
         "tentativas": 1,
         "video_id": "1709137253909360",
         "fase_api": "publicado_confirmado",
-        "id": "1709137253909360"
+        "id": "1709137253909360",
+        "publicado_em": "2026-10-26T15:01:42-03:00"
       },
-      "execucao": {
-        "id": "40373755563-1",
-        "reivindicado_em": "2026-10-26T14:59:50-03:00",
-        "expira_em": "2026-10-26T15:24:50-03:00"
-      }
+      "concluido_em": "2026-10-26T15:01:42-03:00"
     },
     {
       "id": "reel-20261026-1300-dfc38fbc7d",
