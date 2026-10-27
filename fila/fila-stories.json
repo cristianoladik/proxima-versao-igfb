@@ -2513,7 +2513,7 @@
       "id": "story-20261027-df4943013f",
       "data": "2026-10-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1827 - TIRA OS PESOS DO BARCO.mp4",
         "sha256": "df4943013f0fad9d538d2222862a60897cbc5803d8ccb4b2395d38fb086de662"
@@ -2580,22 +2580,19 @@
             "publicado_em": "2026-10-27T14:09:45-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-27T14:10:44-03:00",
             "tentativas": 1,
             "video_id": "1569573181877404",
             "fase_api": "publicado_confirmado",
             "post_id": "2466192650854521",
             "id": "2466192650854521",
-            "media_id": "1569573181877404"
+            "media_id": "1569573181877404",
+            "publicado_em": "2026-10-27T14:11:40-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "40547332327-1",
-        "reivindicado_em": "2026-10-27T14:06:09-03:00",
-        "expira_em": "2026-10-27T14:31:09-03:00"
-      }
+      "concluido_em": "2026-10-27T14:11:40-03:00"
     },
     {
       "id": "story-20261028-632b2e122c",
