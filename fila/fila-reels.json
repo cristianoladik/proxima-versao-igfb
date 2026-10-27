@@ -7235,7 +7235,7 @@
       "id": "reel-20261027-0900-16dc6efa31",
       "data": "2026-10-27",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "91 - FACA O PAPEL DO CHATO PARA TER SUCESSO.mp4",
         "sha256": "16dc6efa31a41d7cdbaa187967bfb0af026217939a790a510fa6d0ad6fba807e"
@@ -7265,18 +7265,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-27T14:07:05-03:00",
         "tentativas": 1,
         "video_id": "1128923226412915",
         "fase_api": "publicado_confirmado",
-        "id": "1128923226412915"
+        "id": "1128923226412915",
+        "publicado_em": "2026-10-27T14:08:01-03:00"
       },
-      "execucao": {
-        "id": "40547332327-1",
-        "reivindicado_em": "2026-10-27T14:06:09-03:00",
-        "expira_em": "2026-10-27T14:31:09-03:00"
-      }
+      "concluido_em": "2026-10-27T14:08:01-03:00"
     },
     {
       "id": "reel-20261027-1300-e8ab6dfd8b",
