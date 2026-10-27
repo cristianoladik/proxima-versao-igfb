@@ -7190,7 +7190,7 @@
       "id": "reel-20261027-0500-9f5a376ca8",
       "data": "2026-10-27",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "90 - A FORTALEZA QUE PROTEGE A CRIANCA REJEITADA.mp4",
         "sha256": "9f5a376ca8a55f779ba9f4f5a7d7633b8fd44174327659499b06261bdd8199d6"
@@ -7220,18 +7220,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-27T10:43:05-03:00",
         "tentativas": 1,
         "video_id": "2604520920014151",
         "fase_api": "publicado_confirmado",
-        "id": "2604520920014151"
+        "id": "2604520920014151",
+        "publicado_em": "2026-10-27T10:44:12-03:00"
       },
-      "execucao": {
-        "id": "40514207783-1",
-        "reivindicado_em": "2026-10-27T10:41:11-03:00",
-        "expira_em": "2026-10-27T11:06:11-03:00"
-      }
+      "concluido_em": "2026-10-27T10:44:12-03:00"
     },
     {
       "id": "reel-20261027-0900-16dc6efa31",
