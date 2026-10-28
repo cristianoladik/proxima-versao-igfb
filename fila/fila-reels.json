@@ -7505,7 +7505,7 @@
       "id": "reel-20261028-1300-c6b05e0d48",
       "data": "2026-10-28",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "96 - CARGA GENETICA E UMA PISTOLA DISSE DR BARAKAT.mp4",
         "sha256": "c6b05e0d48d8665857e965342d1be08ec765b3ac6b4dec464faa31ed7b6639e8"
@@ -7535,18 +7535,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-28T17:52:46-03:00",
         "tentativas": 1,
         "video_id": "1536494625165463",
         "fase_api": "publicado_confirmado",
-        "id": "1536494625165463"
+        "id": "1536494625165463",
+        "publicado_em": "2026-10-28T17:53:42-03:00"
       },
-      "execucao": {
-        "id": "40767016661-1",
-        "reivindicado_em": "2026-10-28T17:51:53-03:00",
-        "expira_em": "2026-10-28T18:16:53-03:00"
-      }
+      "concluido_em": "2026-10-28T17:53:42-03:00"
     },
     {
       "id": "reel-20261028-1700-ecd1aad5eb",
