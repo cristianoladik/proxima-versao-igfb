@@ -7370,7 +7370,7 @@
       "id": "reel-20261027-2100-83d541c1df",
       "data": "2026-10-27",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "94 - SEUS PAIS SAO VITIMAS ASSIM COMO VOCE.mp4",
         "sha256": "83d541c1dfb7030394b175f5553b9e1a9134c3dd038286215f94e182b4691de3"
@@ -7400,18 +7400,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-28T00:59:48-03:00",
         "tentativas": 1,
         "video_id": "1001125226374044",
         "fase_api": "publicado_confirmado",
-        "id": "1001125226374044"
+        "id": "1001125226374044",
+        "publicado_em": "2026-10-28T01:00:35-03:00"
       },
-      "execucao": {
-        "id": "40629698625-1",
-        "reivindicado_em": "2026-10-28T00:58:58-03:00",
-        "expira_em": "2026-10-28T01:23:58-03:00"
-      }
+      "concluido_em": "2026-10-28T01:00:35-03:00"
     },
     {
       "id": "reel-20261028-0500-c0d3e6ff79",
