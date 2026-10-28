@@ -2600,7 +2600,7 @@
       "id": "story-20261028-632b2e122c",
       "data": "2026-10-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1828 - JUNIOR ROSTIROLA TEM UMA MENSAGEM LINDA PRA VOCE.mp4",
         "sha256": "632b2e122caa0d87942fe8aa3be1b7f97821af2342a811702b0881809eef8f85"
@@ -2631,22 +2631,19 @@
             "publicado_em": "2026-10-28T14:44:48-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-28T14:44:50-03:00",
             "tentativas": 1,
             "video_id": "1424568736499278",
             "fase_api": "publicado_confirmado",
             "post_id": "2682962298803887",
             "id": "2682962298803887",
-            "media_id": "1424568736499278"
+            "media_id": "1424568736499278",
+            "publicado_em": "2026-10-28T14:45:42-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "40738163101-1",
-        "reivindicado_em": "2026-10-28T14:42:01-03:00",
-        "expira_em": "2026-10-28T15:07:01-03:00"
-      }
+      "concluido_em": "2026-10-28T14:45:42-03:00"
     },
     {
       "id": "story-20261029-a0c11d1c80",
