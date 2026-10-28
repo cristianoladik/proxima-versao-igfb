@@ -7460,7 +7460,7 @@
       "id": "reel-20261028-0900-62b2a66c3b",
       "data": "2026-10-28",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "95 - NAO ADIANTA FAZER EXERCICIO PARA EMAGRECER DISSE DR BAR.mp4",
         "sha256": "62b2a66c3bb90fd94fb051e578c4c1f8e6b0aa613607c28461b213cebeec06b9"
@@ -7490,18 +7490,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-28T14:42:58-03:00",
         "tentativas": 1,
         "video_id": "1066287029776053",
         "fase_api": "publicado_confirmado",
-        "id": "1066287029776053"
+        "id": "1066287029776053",
+        "publicado_em": "2026-10-28T14:43:50-03:00"
       },
-      "execucao": {
-        "id": "40738163101-1",
-        "reivindicado_em": "2026-10-28T14:42:01-03:00",
-        "expira_em": "2026-10-28T15:07:01-03:00"
-      }
+      "concluido_em": "2026-10-28T14:43:50-03:00"
     },
     {
       "id": "reel-20261028-1300-c6b05e0d48",
