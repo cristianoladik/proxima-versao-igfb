@@ -7550,7 +7550,7 @@
       "id": "reel-20261028-1700-ecd1aad5eb",
       "data": "2026-10-28",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "97 - NOS NUNCA SABEMOS QUANTO TEMPO AINDA TEMOS.mp4",
         "sha256": "ecd1aad5eb2cdc99b249e5855af594a050bb6e10ce48171ced35bb8b59d5e3df"
@@ -7580,18 +7580,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-28T20:56:07-03:00",
         "tentativas": 1,
         "video_id": "40236513209280468",
         "fase_api": "publicado_confirmado",
-        "id": "40236513209280468"
+        "id": "40236513209280468",
+        "publicado_em": "2026-10-28T20:56:59-03:00"
       },
-      "execucao": {
-        "id": "40790465660-1",
-        "reivindicado_em": "2026-10-28T20:54:07-03:00",
-        "expira_em": "2026-10-28T21:19:07-03:00"
-      }
+      "concluido_em": "2026-10-28T20:56:59-03:00"
     },
     {
       "id": "reel-20261028-2100-93cb334d7a",
