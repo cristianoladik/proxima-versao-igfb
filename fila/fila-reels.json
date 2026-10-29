@@ -7595,7 +7595,7 @@
       "id": "reel-20261028-2100-93cb334d7a",
       "data": "2026-10-28",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "98 - E FOI ASSIM QUE A JR DIESEL NASCEU.mp4",
         "sha256": "93cb334d7a7684d962ffed4f6e8b38201cae7ea3b65e68906db43e2516eaa045"
@@ -7625,18 +7625,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-29T01:23:23-03:00",
         "tentativas": 1,
         "video_id": "1129341130032608",
         "fase_api": "publicado_confirmado",
-        "id": "1129341130032608"
+        "id": "1129341130032608",
+        "publicado_em": "2026-10-29T01:24:15-03:00"
       },
-      "execucao": {
-        "id": "40817380204-1",
-        "reivindicado_em": "2026-10-29T01:22:33-03:00",
-        "expira_em": "2026-10-29T01:47:33-03:00"
-      }
+      "concluido_em": "2026-10-29T01:24:15-03:00"
     },
     {
       "id": "reel-20261029-0500-80e4e016de",
