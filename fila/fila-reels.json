@@ -7775,7 +7775,7 @@
       "id": "reel-20261029-1700-e398b761f2",
       "data": "2026-10-29",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "101 - DR BARAKAT ERA O GORDO LOCO NA ESCOLA.mp4",
         "sha256": "e398b761f2e42086eb2348a941bdcd8eebc5eb75c6809c223262c4fedada5e9c"
@@ -7805,18 +7805,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-29T20:50:17-03:00",
         "tentativas": 1,
         "video_id": "1651028523474634",
         "fase_api": "publicado_confirmado",
-        "id": "1651028523474634"
+        "id": "1651028523474634",
+        "publicado_em": "2026-10-29T20:51:07-03:00"
       },
-      "execucao": {
-        "id": "40975674678-1",
-        "reivindicado_em": "2026-10-29T20:49:18-03:00",
-        "expira_em": "2026-10-29T21:14:18-03:00"
-      }
+      "concluido_em": "2026-10-29T20:51:07-03:00"
     },
     {
       "id": "reel-20261029-2100-37835b9573",
