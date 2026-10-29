@@ -2650,7 +2650,7 @@
       "id": "story-20261029-a0c11d1c80",
       "data": "2026-10-29",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1829 - PEITE OS BOLETOS.mp4",
         "sha256": "a0c11d1c80af66960e1a37da6ae55fb73aabff10bc4bb0a418137d93b7fcbb0e"
@@ -2717,22 +2717,19 @@
             "publicado_em": "2026-10-29T14:53:28-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-29T14:54:21-03:00",
             "tentativas": 1,
             "video_id": "1970923373574765",
             "fase_api": "publicado_confirmado",
             "post_id": "992324097248622",
             "id": "992324097248622",
-            "media_id": "1970923373574765"
+            "media_id": "1970923373574765",
+            "publicado_em": "2026-10-29T14:55:14-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "40925032291-1",
-        "reivindicado_em": "2026-10-29T14:49:59-03:00",
-        "expira_em": "2026-10-29T15:14:59-03:00"
-      }
+      "concluido_em": "2026-10-29T14:55:14-03:00"
     },
     {
       "id": "story-20261030-5b09a682c4",
