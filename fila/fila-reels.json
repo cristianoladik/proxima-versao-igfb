@@ -7640,7 +7640,7 @@
       "id": "reel-20261029-0500-80e4e016de",
       "data": "2026-10-29",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "99 - APRENDA A GERENCIAR O ESTRESSE.mp4",
         "sha256": "80e4e016de43a9e5f62420b568ad6c73c638c669680b1477a0be08b19bb61981"
@@ -7670,18 +7670,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-29T11:43:58-03:00",
         "tentativas": 1,
         "video_id": "2559399591227838",
         "fase_api": "publicado_confirmado",
-        "id": "2559399591227838"
+        "id": "2559399591227838",
+        "publicado_em": "2026-10-29T11:44:49-03:00"
       },
-      "execucao": {
-        "id": "40894152049-1",
-        "reivindicado_em": "2026-10-29T11:42:33-03:00",
-        "expira_em": "2026-10-29T12:07:33-03:00"
-      }
+      "concluido_em": "2026-10-29T11:44:49-03:00"
     },
     {
       "id": "reel-20261029-0900-e93488d4d6",
