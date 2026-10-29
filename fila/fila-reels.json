@@ -7730,7 +7730,7 @@
       "id": "reel-20261029-1300-d6c2155f2c",
       "data": "2026-10-29",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "100 - QUE SENAI FECHA O SENAI DISSE RENATO ALBANI.mp4",
         "sha256": "d6c2155f2c1db522878755735a4ed524d490efcd64764415eba2f966ceabfe88"
@@ -7760,18 +7760,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-29T17:57:58-03:00",
         "tentativas": 1,
         "video_id": "1017377531385985",
         "fase_api": "publicado_confirmado",
-        "id": "1017377531385985"
+        "id": "1017377531385985",
+        "publicado_em": "2026-10-29T17:58:49-03:00"
       },
-      "execucao": {
-        "id": "40953480576-1",
-        "reivindicado_em": "2026-10-29T17:57:05-03:00",
-        "expira_em": "2026-10-29T18:22:05-03:00"
-      }
+      "concluido_em": "2026-10-29T17:58:49-03:00"
     },
     {
       "id": "reel-20261029-1700-e398b761f2",
