@@ -8000,7 +8000,7 @@
       "id": "reel-20261030-1700-2c80c5dc1a",
       "data": "2026-10-30",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "104 - NAO CONQUISTE CLIENTES CONQUISTE PESSOAS.mp4",
         "sha256": "2c80c5dc1a615e457ba0cb53cbcc594160913283d3b475417296f171eced06d8"
@@ -8030,18 +8030,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-30T20:30:38-03:00",
         "tentativas": 1,
         "video_id": "1172284855487191",
         "fase_api": "publicado_confirmado",
-        "id": "1172284855487191"
+        "id": "1172284855487191",
+        "publicado_em": "2026-10-30T20:31:30-03:00"
       },
-      "execucao": {
-        "id": "41144736261-1",
-        "reivindicado_em": "2026-10-30T20:29:15-03:00",
-        "expira_em": "2026-10-30T20:54:15-03:00"
-      }
+      "concluido_em": "2026-10-30T20:31:30-03:00"
     },
     {
       "id": "reel-20261030-2100-86012e9d42",
