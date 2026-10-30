@@ -7820,7 +7820,7 @@
       "id": "reel-20261029-2100-37835b9573",
       "data": "2026-10-29",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "102 - GUILHERME VEIGA NO GERAL DO TALK.mp4",
         "sha256": "37835b9573bf36beca32d9d3e26ee0cf637229fee58f47a5ea35fab0ada4ec38"
@@ -7850,18 +7850,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-30T01:23:21-03:00",
         "tentativas": 1,
         "video_id": "1102631369346050",
         "fase_api": "publicado_confirmado",
-        "id": "1102631369346050"
+        "id": "1102631369346050",
+        "publicado_em": "2026-10-30T01:24:11-03:00"
       },
-      "execucao": {
-        "id": "41002517172-1",
-        "reivindicado_em": "2026-10-30T01:22:26-03:00",
-        "expira_em": "2026-10-30T01:47:26-03:00"
-      }
+      "concluido_em": "2026-10-30T01:24:11-03:00"
     },
     {
       "id": "reel-20261030-0500-412be7d2c8",
