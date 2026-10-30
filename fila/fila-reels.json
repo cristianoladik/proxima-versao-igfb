@@ -7865,7 +7865,7 @@
       "id": "reel-20261030-0500-412be7d2c8",
       "data": "2026-10-30",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "102 - PODCAST FOI INVADIDO NO MEIO DA GRAVACAO.mp4",
         "sha256": "412be7d2c89c3cc15b22121ae0c0190c8ca59e7821078f2c8d7ee8c43dadc150"
@@ -7895,18 +7895,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-30T11:40:09-03:00",
         "tentativas": 1,
         "video_id": "1635004338202326",
         "fase_api": "publicado_confirmado",
-        "id": "1635004338202326"
+        "id": "1635004338202326",
+        "publicado_em": "2026-10-30T11:41:02-03:00"
       },
-      "execucao": {
-        "id": "41073393748-1",
-        "reivindicado_em": "2026-10-30T11:38:40-03:00",
-        "expira_em": "2026-10-30T12:03:40-03:00"
-      }
+      "concluido_em": "2026-10-30T11:41:02-03:00"
     },
     {
       "id": "reel-20261030-0900-f834fad814",
