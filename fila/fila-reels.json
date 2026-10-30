@@ -7955,7 +7955,7 @@
       "id": "reel-20261030-1300-2b18d78d6a",
       "data": "2026-10-30",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "103 - NO DIA DA PROVA FUI PARA O BAR E TOMEI ZERO DISSE RENAT.mp4",
         "sha256": "2b18d78d6a1700d67cc2674cc002400cc3d2d0fbac3d22522696174f24c5e6ff"
@@ -7985,18 +7985,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-30T17:36:09-03:00",
         "tentativas": 1,
         "video_id": "2250724425490425",
         "fase_api": "publicado_confirmado",
-        "id": "2250724425490425"
+        "id": "2250724425490425",
+        "publicado_em": "2026-10-30T17:36:59-03:00"
       },
-      "execucao": {
-        "id": "41124384603-1",
-        "reivindicado_em": "2026-10-30T17:35:15-03:00",
-        "expira_em": "2026-10-30T18:00:15-03:00"
-      }
+      "concluido_em": "2026-10-30T17:36:59-03:00"
     },
     {
       "id": "reel-20261030-1700-2c80c5dc1a",
