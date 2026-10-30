@@ -2737,7 +2737,7 @@
       "id": "story-20261030-5b09a682c4",
       "data": "2026-10-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1830 - VOCE DECIDE COMO LEVA SUA VIDA.mp4",
         "sha256": "5b09a682c4051ad617c1890f65bc94ee13e012d116f6192bf21b8627a6562c25"
@@ -2768,22 +2768,19 @@
             "publicado_em": "2026-10-30T14:33:47-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-30T14:33:50-03:00",
             "tentativas": 1,
             "video_id": "1720615762814661",
             "fase_api": "publicado_confirmado",
             "post_id": "1459210089482721",
             "id": "1459210089482721",
-            "media_id": "1720615762814661"
+            "media_id": "1720615762814661",
+            "publicado_em": "2026-10-30T14:34:25-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "41099441269-1",
-        "reivindicado_em": "2026-10-30T14:30:47-03:00",
-        "expira_em": "2026-10-30T14:55:47-03:00"
-      }
+      "concluido_em": "2026-10-30T14:34:25-03:00"
     },
     {
       "id": "story-20261031-755143b485",
