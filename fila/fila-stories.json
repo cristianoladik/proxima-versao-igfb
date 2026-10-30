@@ -2763,7 +2763,7 @@
             "ultima_tentativa_em": "2026-10-30T14:32:32-03:00",
             "tentativas": 1,
             "container_id": "18109912874173532",
-            "fase_api": "container_criado"
+            "fase_api": "publicacao_pendente_confirmacao"
           },
           "facebook": {
             "status": "pendente"
