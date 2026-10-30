@@ -7910,7 +7910,7 @@
       "id": "reel-20261030-0900-f834fad814",
       "data": "2026-10-30",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "103 - NAO E QUANTO VOCE TEM E SIM QUEM VOCE TEM ALEM DE SI ME.mp4",
         "sha256": "f834fad814e457a7bd594bea216fee548fa19a86431cf2371b6a4acf146d01bb"
@@ -7940,18 +7940,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-30T14:31:39-03:00",
         "tentativas": 1,
         "video_id": "1104596859002454",
         "fase_api": "publicado_confirmado",
-        "id": "1104596859002454"
+        "id": "1104596859002454",
+        "publicado_em": "2026-10-30T14:32:29-03:00"
       },
-      "execucao": {
-        "id": "41099441269-1",
-        "reivindicado_em": "2026-10-30T14:30:47-03:00",
-        "expira_em": "2026-10-30T14:55:47-03:00"
-      }
+      "concluido_em": "2026-10-30T14:32:29-03:00"
     },
     {
       "id": "reel-20261030-1300-2b18d78d6a",
