@@ -8249,7 +8249,7 @@
         "ultima_tentativa_em": "2026-10-31T20:08:00-03:00",
         "tentativas": 1,
         "container_id": "18110216654173532",
-        "fase_api": "container_pronto"
+        "fase_api": "publicacao_pendente_confirmacao"
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
