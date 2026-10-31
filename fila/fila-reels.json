@@ -8045,7 +8045,7 @@
       "id": "reel-20261030-2100-86012e9d42",
       "data": "2026-10-30",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "105 - LICOES DA VIDA.mp4",
         "sha256": "86012e9d425bb037aab704301df2b409636bc93e62e8c39b5ee5dde8a63fd2a8"
@@ -8075,18 +8075,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-31T01:02:56-03:00",
         "tentativas": 1,
         "video_id": "979976305173667",
         "fase_api": "publicado_confirmado",
-        "id": "979976305173667"
+        "id": "979976305173667",
+        "publicado_em": "2026-10-31T01:03:43-03:00"
       },
-      "execucao": {
-        "id": "41166847034-1",
-        "reivindicado_em": "2026-10-31T01:02:04-03:00",
-        "expira_em": "2026-10-31T01:27:04-03:00"
-      }
+      "concluido_em": "2026-10-31T01:03:43-03:00"
     },
     {
       "id": "reel-20261031-0500-41ef873702",
