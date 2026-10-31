@@ -8225,7 +8225,7 @@
       "id": "reel-20261031-1700-a20bf67d2a",
       "data": "2026-10-31",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "108 - EMPREENDEDORISMO E GENTE CUIDANDO DE GENTE.mp4",
         "sha256": "a20bf67d2a640296306045f1736d1a9b495b75a671fd465519b9a4a33d9b6f4f"
@@ -8255,18 +8255,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-31T20:08:47-03:00",
         "tentativas": 1,
         "video_id": "2599007290524625",
         "fase_api": "publicado_confirmado",
-        "id": "2599007290524625"
+        "id": "2599007290524625",
+        "publicado_em": "2026-10-31T20:09:34-03:00"
       },
-      "execucao": {
-        "id": "41251206987-1",
-        "reivindicado_em": "2026-10-31T20:07:59-03:00",
-        "expira_em": "2026-10-31T20:32:59-03:00"
-      }
+      "concluido_em": "2026-10-31T20:09:34-03:00"
     },
     {
       "id": "reel-20261031-2100-591a01ea59",
