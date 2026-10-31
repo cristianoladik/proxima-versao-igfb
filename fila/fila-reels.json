@@ -8180,7 +8180,7 @@
       "id": "reel-20261031-1300-3d87f3279f",
       "data": "2026-10-31",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "107 - ABRA A MENTE E OLHE PARA DENTRO.mp4",
         "sha256": "3d87f3279f8cd8d476db69124e4c37d9ec3d284d28dc380203c9555019224807"
@@ -8210,18 +8210,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-31T16:48:18-03:00",
         "tentativas": 1,
         "video_id": "1595876428410057",
         "fase_api": "publicado_confirmado",
-        "id": "1595876428410057"
+        "id": "1595876428410057",
+        "publicado_em": "2026-10-31T16:49:04-03:00"
       },
-      "execucao": {
-        "id": "41235840625-1",
-        "reivindicado_em": "2026-10-31T16:47:28-03:00",
-        "expira_em": "2026-10-31T17:12:28-03:00"
-      }
+      "concluido_em": "2026-10-31T16:49:04-03:00"
     },
     {
       "id": "reel-20261031-1700-a20bf67d2a",
