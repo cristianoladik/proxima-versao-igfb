@@ -8090,7 +8090,7 @@
       "id": "reel-20261031-0500-41ef873702",
       "data": "2026-10-31",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "105 - O DINHEIRO E TAO PODEROSO QUANTO DEUS DISSE THIAGO NIGR.mp4",
         "sha256": "41ef8737024ced99fd33b797291fad5e2443a312055050764876a51c209489ee"
@@ -8120,18 +8120,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-10-31T10:58:17-03:00",
         "tentativas": 1,
         "video_id": "1666639878160171",
         "fase_api": "publicado_confirmado",
-        "id": "1666639878160171"
+        "id": "1666639878160171",
+        "publicado_em": "2026-10-31T10:59:06-03:00"
       },
-      "execucao": {
-        "id": "41207833952-1",
-        "reivindicado_em": "2026-10-31T10:56:52-03:00",
-        "expira_em": "2026-10-31T11:21:52-03:00"
-      }
+      "concluido_em": "2026-10-31T10:59:06-03:00"
     },
     {
       "id": "reel-20261031-0900-e5fc9f7599",
