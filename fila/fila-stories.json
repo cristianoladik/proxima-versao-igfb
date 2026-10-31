@@ -2787,7 +2787,7 @@
       "id": "story-20261031-755143b485",
       "data": "2026-10-31",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1831 - JOEL JOTA FICA SEM PALAVRAS O QUE JUNIOR ROSTIROLA DISS.mp4",
         "sha256": "755143b48594870ce86b02938425803b519fc0c6b00661ae7fef17e7036fb2a4"
@@ -2818,22 +2818,19 @@
             "publicado_em": "2026-10-31T13:39:03-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-10-31T13:39:05-03:00",
             "tentativas": 1,
             "video_id": "3031084163896096",
             "fase_api": "publicado_confirmado",
             "post_id": "1122688210662285",
             "id": "1122688210662285",
-            "media_id": "3031084163896096"
+            "media_id": "3031084163896096",
+            "publicado_em": "2026-10-31T13:40:12-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "41220424461-1",
-        "reivindicado_em": "2026-10-31T13:35:39-03:00",
-        "expira_em": "2026-10-31T14:00:39-03:00"
-      }
+      "concluido_em": "2026-10-31T13:40:12-03:00"
     },
     {
       "id": "story-20261101-1474c55855",
