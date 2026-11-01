@@ -8450,7 +8450,7 @@
       "id": "reel-20261101-1700-387632a058",
       "data": "2026-11-01",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "111 - EMPREENDEDORES NAO ESTUDEM LARGUEM SUAS EMPRESAS DISSE .mp4",
         "sha256": "387632a0588c32e25643c5dd5ba40e06f2ee2d959febe953e684927063a88fe5"
@@ -8480,18 +8480,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-01T20:24:47-03:00",
         "tentativas": 1,
         "video_id": "2031384744223618",
         "fase_api": "publicado_confirmado",
-        "id": "2031384744223618"
+        "id": "2031384744223618",
+        "publicado_em": "2026-11-01T20:25:18-03:00"
       },
-      "execucao": {
-        "id": "41361900929-1",
-        "reivindicado_em": "2026-11-01T20:23:56-03:00",
-        "expira_em": "2026-11-01T20:48:56-03:00"
-      }
+      "concluido_em": "2026-11-01T20:25:18-03:00"
     },
     {
       "id": "reel-20261101-2100-a3c4cacc61",
