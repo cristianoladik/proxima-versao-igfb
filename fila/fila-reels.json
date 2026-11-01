@@ -8270,7 +8270,7 @@
       "id": "reel-20261031-2100-591a01ea59",
       "data": "2026-10-31",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "108 - O VALOR REAL DO DINHEIRO E O TEMPO DISSE THIAGO NIGRO.mp4",
         "sha256": "591a01ea596cd45dc39b71daf89d311fec008dd7a90f533a79257cbb64197b2e"
@@ -8300,18 +8300,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-01T01:25:10-03:00",
         "tentativas": 1,
         "video_id": "1600122065194950",
         "fase_api": "publicado_confirmado",
-        "id": "1600122065194950"
+        "id": "1600122065194950",
+        "publicado_em": "2026-11-01T01:26:10-03:00"
       },
-      "execucao": {
-        "id": "41272955611-1",
-        "reivindicado_em": "2026-11-01T01:24:20-03:00",
-        "expira_em": "2026-11-01T01:49:20-03:00"
-      }
+      "concluido_em": "2026-11-01T01:26:10-03:00"
     },
     {
       "id": "reel-20261101-0500-263a94c5a0",
