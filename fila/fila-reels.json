@@ -8315,7 +8315,7 @@
       "id": "reel-20261101-0500-263a94c5a0",
       "data": "2026-11-01",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "109 - AS PESSOA OLHAM PARA THIAGO NIGRO POR ISSO.mp4",
         "sha256": "263a94c5a0c8bc5292e241993fca81d7c4c37360930732e4852a13c5973bf7ac"
@@ -8345,18 +8345,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-01T11:36:08-03:00",
         "tentativas": 1,
         "video_id": "1640862887762158",
         "fase_api": "publicado_confirmado",
-        "id": "1640862887762158"
+        "id": "1640862887762158",
+        "publicado_em": "2026-11-01T11:37:11-03:00"
       },
-      "execucao": {
-        "id": "41316878138-1",
-        "reivindicado_em": "2026-11-01T11:34:45-03:00",
-        "expira_em": "2026-11-01T11:59:45-03:00"
-      }
+      "concluido_em": "2026-11-01T11:37:11-03:00"
     },
     {
       "id": "reel-20261101-0900-19621d3df1",
