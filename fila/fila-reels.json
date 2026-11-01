@@ -8405,7 +8405,7 @@
       "id": "reel-20261101-1300-7076f0de63",
       "data": "2026-11-01",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "110 - O ENCONTRO TESTEMUNHOU O PASTOR JUNIOR ROSTIROLA.mp4",
         "sha256": "7076f0de634c4e89fc72e4d2b83a84f3fe97d5b76ca9985d9a5b314d5b42bb11"
@@ -8435,18 +8435,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-01T17:22:21-03:00",
         "tentativas": 1,
         "video_id": "1602185047750010",
         "fase_api": "publicado_confirmado",
-        "id": "1602185047750010"
+        "id": "1602185047750010",
+        "publicado_em": "2026-11-01T17:23:12-03:00"
       },
-      "execucao": {
-        "id": "41346421484-1",
-        "reivindicado_em": "2026-11-01T17:21:25-03:00",
-        "expira_em": "2026-11-01T17:46:25-03:00"
-      }
+      "concluido_em": "2026-11-01T17:23:12-03:00"
     },
     {
       "id": "reel-20261101-1700-387632a058",
