@@ -2856,7 +2856,8 @@
             "fps": 25.0,
             "bitrate_video_bps": 1339053,
             "codec_video": "h264",
-            "formato_pixel": "yuv420p"
+            "formato_pixel": "yuv420p",
+            "removido_da_release_em": "2026-11-01T14:33:14-03:00"
           },
           "instagram": {
             "status": "publicado",
@@ -2892,7 +2893,8 @@
             "fps": 25.0,
             "bitrate_video_bps": 2117862,
             "codec_video": "h264",
-            "formato_pixel": "yuv420p"
+            "formato_pixel": "yuv420p",
+            "removido_da_release_em": "2026-11-01T14:33:14-03:00"
           },
           "instagram": {
             "status": "publicado",
