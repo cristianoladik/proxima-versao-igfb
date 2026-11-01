@@ -2837,7 +2837,7 @@
       "id": "story-20261101-1474c55855",
       "data": "2026-11-01",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1832 - LARGUE ESSAS COMPANHIAS.mp4",
         "sha256": "1474c558550c2efead32552dcb07d9c3ddb6e9cfaad1fd6d31a643f0565caaed"
@@ -2904,22 +2904,19 @@
             "publicado_em": "2026-11-01T14:31:26-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-01T14:32:20-03:00",
             "tentativas": 1,
             "video_id": "1155683236984242",
             "fase_api": "publicado_confirmado",
             "post_id": "1824503532208616",
             "id": "1824503532208616",
-            "media_id": "1155683236984242"
+            "media_id": "1155683236984242",
+            "publicado_em": "2026-11-01T14:33:11-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "41331477070-1",
-        "reivindicado_em": "2026-11-01T14:26:43-03:00",
-        "expira_em": "2026-11-01T14:51:43-03:00"
-      }
+      "concluido_em": "2026-11-01T14:33:11-03:00"
     },
     {
       "id": "story-20261102-d0f590f565",
