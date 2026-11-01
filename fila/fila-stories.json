@@ -2859,12 +2859,13 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-01T14:28:25-03:00",
             "tentativas": 1,
             "container_id": "18110417006173532",
             "fase_api": "publicado_confirmado",
-            "id": "18126853823512722"
+            "id": "18126853823512722",
+            "publicado_em": "2026-11-01T14:29:40-03:00"
           },
           "facebook": {
             "status": "pendente"
@@ -2886,7 +2887,11 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-11-01T14:29:41-03:00",
+            "tentativas": 1,
+            "container_id": "18110417348173532",
+            "fase_api": "container_criado"
           },
           "facebook": {
             "status": "pendente"
