@@ -8385,6 +8385,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "41331477070-1",
+        "reivindicado_em": "2026-11-01T14:26:43-03:00",
+        "expira_em": "2026-11-01T14:51:43-03:00"
       }
     },
     {
