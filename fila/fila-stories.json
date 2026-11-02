@@ -2924,7 +2924,7 @@
       "id": "story-20261102-d0f590f565",
       "data": "2026-11-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1833 - VOCE NAO PODE DESISTIR.mp4",
         "sha256": "d0f590f565c62d8463bbc3e6c4c60f36b5a7d301a3cfe8e8d5fb9238e0763d9a"
@@ -2955,22 +2955,19 @@
             "publicado_em": "2026-11-02T18:13:15-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-02T18:13:17-03:00",
             "tentativas": 1,
             "video_id": "2208688863323941",
             "fase_api": "publicado_confirmado",
             "post_id": "1537871555038807",
             "id": "1537871555038807",
-            "media_id": "2208688863323941"
+            "media_id": "2208688863323941",
+            "publicado_em": "2026-11-02T18:14:12-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "41525893608-1",
-        "reivindicado_em": "2026-11-02T18:10:35-03:00",
-        "expira_em": "2026-11-02T18:35:35-03:00"
-      }
+      "concluido_em": "2026-11-02T18:14:12-03:00"
     },
     {
       "id": "story-20261103-5e07e1daed",
