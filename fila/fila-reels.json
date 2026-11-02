@@ -8529,7 +8529,7 @@
         "ultima_tentativa_em": "2026-11-02T01:27:27-03:00",
         "tentativas": 1,
         "video_id": "912791398468519",
-        "fase_api": "upload_iniciado"
+        "fase_api": "upload_concluido"
       },
       "execucao": {
         "id": "41388379981-1",
