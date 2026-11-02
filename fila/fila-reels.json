@@ -8540,7 +8540,7 @@
       "id": "reel-20261102-0500-fb1c44d0c8",
       "data": "2026-11-02",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "112 - ACHAM QUE EU SOU IDIOTA O TEMPO TODO DISSE RENATO ALBAN.mp4",
         "sha256": "fb1c44d0c8230f59767d7411896159a5ab0d094a7de629393db94b772de10416"
@@ -8570,18 +8570,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-02T14:30:27-03:00",
         "tentativas": 1,
         "video_id": "1445606624378836",
         "fase_api": "publicado_confirmado",
-        "id": "1445606624378836"
+        "id": "1445606624378836",
+        "publicado_em": "2026-11-02T14:31:15-03:00"
       },
-      "execucao": {
-        "id": "41491641813-1",
-        "reivindicado_em": "2026-11-02T14:29:35-03:00",
-        "expira_em": "2026-11-02T14:54:35-03:00"
-      }
+      "concluido_em": "2026-11-02T14:31:15-03:00"
     },
     {
       "id": "reel-20261102-0900-3cd59ce427",
