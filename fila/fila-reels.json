@@ -8495,7 +8495,7 @@
       "id": "reel-20261101-2100-a3c4cacc61",
       "data": "2026-11-01",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "111 - EU ME RECUSO A CARREGAR UM SENTIMENTO NEGATIVO.mp4",
         "sha256": "a3c4cacc61347643ab21c1a5c22eda9befcc4cff4a18345e6e363c46106048bd"
@@ -8525,18 +8525,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-02T01:27:27-03:00",
         "tentativas": 1,
         "video_id": "912791398468519",
         "fase_api": "publicado_confirmado",
-        "id": "912791398468519"
+        "id": "912791398468519",
+        "publicado_em": "2026-11-02T01:27:58-03:00"
       },
-      "execucao": {
-        "id": "41388379981-1",
-        "reivindicado_em": "2026-11-02T01:25:35-03:00",
-        "expira_em": "2026-11-02T01:50:35-03:00"
-      }
+      "concluido_em": "2026-11-02T01:27:58-03:00"
     },
     {
       "id": "reel-20261102-0500-fb1c44d0c8",
