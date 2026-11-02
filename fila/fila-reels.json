@@ -8585,7 +8585,7 @@
       "id": "reel-20261102-0900-3cd59ce427",
       "data": "2026-11-02",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "112 - VOCE QUER SABER QUAL E O SEGREDO PARA LIDAR.mp4",
         "sha256": "3cd59ce427f5b5a5f0498d1bbd65cb87bab1de61e9efb1dfb3df83709903a073"
@@ -8615,18 +8615,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-02T18:11:29-03:00",
         "tentativas": 1,
         "video_id": "1415613290259756",
         "fase_api": "publicado_confirmado",
-        "id": "1415613290259756"
+        "id": "1415613290259756",
+        "publicado_em": "2026-11-02T18:12:23-03:00"
       },
-      "execucao": {
-        "id": "41525893608-1",
-        "reivindicado_em": "2026-11-02T18:10:35-03:00",
-        "expira_em": "2026-11-02T18:35:35-03:00"
-      }
+      "concluido_em": "2026-11-02T18:12:23-03:00"
     },
     {
       "id": "reel-20261102-1300-88ca8fa859",
