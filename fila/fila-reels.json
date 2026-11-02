@@ -8630,7 +8630,7 @@
       "id": "reel-20261102-1300-88ca8fa859",
       "data": "2026-11-02",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "113 - O PODER DA POSITIVIDADE.mp4",
         "sha256": "88ca8fa8598a77015f866a0a528110011c164f6bae1b1c2d95478b7c286f0f56"
@@ -8660,18 +8660,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-02T20:22:46-03:00",
         "tentativas": 1,
         "video_id": "1124598693800725",
         "fase_api": "publicado_confirmado",
-        "id": "1124598693800725"
+        "id": "1124598693800725",
+        "publicado_em": "2026-11-02T20:23:37-03:00"
       },
-      "execucao": {
-        "id": "41544820841-1",
-        "reivindicado_em": "2026-11-02T20:21:50-03:00",
-        "expira_em": "2026-11-02T20:46:50-03:00"
-      }
+      "concluido_em": "2026-11-02T20:23:37-03:00"
     },
     {
       "id": "reel-20261102-1700-eb69c99d89",
