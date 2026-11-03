@@ -8720,7 +8720,7 @@
       "id": "reel-20261102-2100-b61efc1830",
       "data": "2026-11-02",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "114 - NUNCA TERCEIRIZE A CULPA.mp4",
         "sha256": "b61efc1830c17b90c1833b24c2d7874a3a13f84b618dee1b0c2d070515e466d2"
@@ -8750,18 +8750,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-03T02:21:56-03:00",
         "tentativas": 1,
         "video_id": "1677945480372186",
         "fase_api": "publicado_confirmado",
-        "id": "1677945480372186"
+        "id": "1677945480372186",
+        "publicado_em": "2026-11-03T02:22:43-03:00"
       },
-      "execucao": {
-        "id": "41583392432-1",
-        "reivindicado_em": "2026-11-03T02:21:08-03:00",
-        "expira_em": "2026-11-03T02:46:08-03:00"
-      }
+      "concluido_em": "2026-11-03T02:22:43-03:00"
     },
     {
       "id": "reel-20261103-0500-206c2e7c07",
