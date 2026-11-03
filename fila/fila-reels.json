@@ -8855,7 +8855,7 @@
       "id": "reel-20261103-1300-72c03ab6d0",
       "data": "2026-11-03",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "115 - JEJUM METABOLICO E USADO NO VALE DO SILICIO DISSE DR BA.mp4",
         "sha256": "72c03ab6d055e81bd438a32a397ad4dc8290a0fbe104bee1ae85d784a2089faa"
@@ -8885,18 +8885,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-03T18:39:24-03:00",
         "tentativas": 1,
         "video_id": "1514190753872480",
         "fase_api": "publicado_confirmado",
-        "id": "1514190753872480"
+        "id": "1514190753872480",
+        "publicado_em": "2026-11-03T18:40:32-03:00"
       },
-      "execucao": {
-        "id": "41723467250-1",
-        "reivindicado_em": "2026-11-03T18:37:55-03:00",
-        "expira_em": "2026-11-03T19:02:55-03:00"
-      }
+      "concluido_em": "2026-11-03T18:40:32-03:00"
     },
     {
       "id": "reel-20261103-1700-08bd00bd36",
