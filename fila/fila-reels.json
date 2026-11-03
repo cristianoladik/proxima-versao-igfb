@@ -8810,7 +8810,7 @@
       "id": "reel-20261103-0900-b3475eccc8",
       "data": "2026-11-03",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "115 - DE QUEM E A CULPA.mp4",
         "sha256": "b3475eccc885204b9ff1e5dd4e648ada1f7eeae88fb14d4674aa747916478798"
@@ -8840,18 +8840,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-03T15:53:52-03:00",
         "tentativas": 1,
         "video_id": "1658138729293207",
         "fase_api": "publicado_confirmado",
-        "id": "1658138729293207"
+        "id": "1658138729293207",
+        "publicado_em": "2026-11-03T15:54:41-03:00"
       },
-      "execucao": {
-        "id": "41697907189-1",
-        "reivindicado_em": "2026-11-03T15:52:32-03:00",
-        "expira_em": "2026-11-03T16:17:32-03:00"
-      }
+      "concluido_em": "2026-11-03T15:54:41-03:00"
     },
     {
       "id": "reel-20261103-1300-72c03ab6d0",
