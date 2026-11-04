@@ -3046,12 +3046,13 @@
             "formato_pixel": "yuv420p"
           },
           "instagram": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-04T16:11:05-03:00",
             "tentativas": 1,
             "container_id": "18111082532173532",
             "fase_api": "publicado_confirmado",
-            "id": "18033273278684314"
+            "id": "18033273278684314",
+            "publicado_em": "2026-11-04T16:11:51-03:00"
           },
           "facebook": {
             "status": "pendente"
