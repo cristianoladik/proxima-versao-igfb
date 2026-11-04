@@ -8945,7 +8945,7 @@
       "id": "reel-20261103-2100-33e5303b4d",
       "data": "2026-11-03",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "116 - UMA PESSOA CURADA ELA CURA.mp4",
         "sha256": "33e5303b4d60f60fc687e5cb689faf5e6006a4a601766cc41083fad3cb9c1984"
@@ -8975,18 +8975,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-04T01:52:13-03:00",
         "tentativas": 1,
         "video_id": "1801102227816607",
         "fase_api": "publicado_confirmado",
-        "id": "1801102227816607"
+        "id": "1801102227816607",
+        "publicado_em": "2026-11-04T01:53:05-03:00"
       },
-      "execucao": {
-        "id": "41775577667-1",
-        "reivindicado_em": "2026-11-04T01:50:22-03:00",
-        "expira_em": "2026-11-04T02:15:22-03:00"
-      }
+      "concluido_em": "2026-11-04T01:53:05-03:00"
     },
     {
       "id": "reel-20261104-0500-91e03846f1",
