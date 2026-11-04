@@ -9110,7 +9110,11 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente"
+        "status": "pendente",
+        "ultima_tentativa_em": "2026-11-04T18:46:37-03:00",
+        "tentativas": 1,
+        "video_id": "2606612729779662",
+        "fase_api": "upload_iniciado"
       },
       "execucao": {
         "id": "41919075924-1",
