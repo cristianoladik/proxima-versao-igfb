@@ -3024,7 +3024,7 @@
       "id": "story-20261104-469d0c3cdf",
       "data": "2026-11-04",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1835 - VOCE CONCORDA COM ISSO.mp4",
         "sha256": "469d0c3cdf7a05fc142b6ecf6b1bca29be56935b02ef70f1cf44856c3e6702fe"
@@ -3055,22 +3055,19 @@
             "publicado_em": "2026-11-04T16:11:51-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-04T16:11:52-03:00",
             "tentativas": 1,
             "video_id": "989869187506509",
             "fase_api": "publicado_confirmado",
             "post_id": "1784238949464789",
             "id": "1784238949464789",
-            "media_id": "989869187506509"
+            "media_id": "989869187506509",
+            "publicado_em": "2026-11-04T16:12:42-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "41894155109-1",
-        "reivindicado_em": "2026-11-04T16:09:20-03:00",
-        "expira_em": "2026-11-04T16:34:20-03:00"
-      }
+      "concluido_em": "2026-11-04T16:12:42-03:00"
     },
     {
       "id": "story-20261105-119832d3a0",
