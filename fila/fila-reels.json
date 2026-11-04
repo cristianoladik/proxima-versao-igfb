@@ -8970,6 +8970,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "41775577667-1",
+        "reivindicado_em": "2026-11-04T01:50:22-03:00",
+        "expira_em": "2026-11-04T02:15:22-03:00"
       }
     },
     {
