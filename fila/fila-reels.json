@@ -8990,7 +8990,7 @@
       "id": "reel-20261104-0500-91e03846f1",
       "data": "2026-11-04",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "117 - PERDOAR E UMA DECISAO.mp4",
         "sha256": "91e03846f17cab363d0f8db46ca19ea64af90cd52ae1c84ef5756492de8c40bf"
@@ -9020,18 +9020,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-04T12:51:03-03:00",
         "tentativas": 1,
         "video_id": "2188472142075277",
         "fase_api": "publicado_confirmado",
-        "id": "2188472142075277"
+        "id": "2188472142075277",
+        "publicado_em": "2026-11-04T12:51:51-03:00"
       },
-      "execucao": {
-        "id": "41861727492-1",
-        "reivindicado_em": "2026-11-04T12:49:37-03:00",
-        "expira_em": "2026-11-04T13:14:37-03:00"
-      }
+      "concluido_em": "2026-11-04T12:51:51-03:00"
     },
     {
       "id": "reel-20261104-0900-4b62ab5568",
