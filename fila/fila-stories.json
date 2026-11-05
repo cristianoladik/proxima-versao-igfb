@@ -3074,7 +3074,7 @@
       "id": "story-20261105-119832d3a0",
       "data": "2026-11-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1836 - VOCE E TIMIDO.mp4",
         "sha256": "119832d3a0f88315b98fc01b329fdf4c50b421d6a1cdf273560759b552de788c"
@@ -3105,22 +3105,19 @@
             "publicado_em": "2026-11-05T16:18:36-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-05T16:18:37-03:00",
             "tentativas": 1,
             "video_id": "2106013513385782",
             "fase_api": "publicado_confirmado",
             "post_id": "991346210720512",
             "id": "991346210720512",
-            "media_id": "2106013513385782"
+            "media_id": "2106013513385782",
+            "publicado_em": "2026-11-05T16:19:32-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "42092201232-1",
-        "reivindicado_em": "2026-11-05T16:15:59-03:00",
-        "expira_em": "2026-11-05T16:40:59-03:00"
-      }
+      "concluido_em": "2026-11-05T16:19:32-03:00"
     },
     {
       "id": "story-20261106-166320f8b2",
