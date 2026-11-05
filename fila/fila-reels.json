@@ -9215,7 +9215,7 @@
       "id": "reel-20261105-0500-cc3e8fa348",
       "data": "2026-11-05",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "120 - AHHH AGORA ENTENDI COMO FUNCIONA O JEJUM.mp4",
         "sha256": "cc3e8fa3487109b5a8416307bed580cbee31b1b286902cec742ff76d30a992ae"
@@ -9245,18 +9245,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-05T12:53:59-03:00",
         "tentativas": 1,
         "video_id": "4532924190328976",
         "fase_api": "publicado_confirmado",
-        "id": "4532924190328976"
+        "id": "4532924190328976",
+        "publicado_em": "2026-11-05T12:54:53-03:00"
       },
-      "execucao": {
-        "id": "42059277730-1",
-        "reivindicado_em": "2026-11-05T12:52:04-03:00",
-        "expira_em": "2026-11-05T13:17:04-03:00"
-      }
+      "concluido_em": "2026-11-05T12:54:53-03:00"
     },
     {
       "id": "reel-20261105-0900-0746d198fb",
