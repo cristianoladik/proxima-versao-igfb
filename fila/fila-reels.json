@@ -9260,7 +9260,7 @@
       "id": "reel-20261105-0900-0746d198fb",
       "data": "2026-11-05",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "121 - QUAL O CLIENTE QUE VOCE QUER.mp4",
         "sha256": "0746d198fb021415e694eb6153425e907a3f088f8cc5144776f6a0eae7ae1028"
@@ -9290,18 +9290,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-05T16:16:55-03:00",
         "tentativas": 1,
         "video_id": "2000346223994696",
         "fase_api": "publicado_confirmado",
-        "id": "2000346223994696"
+        "id": "2000346223994696",
+        "publicado_em": "2026-11-05T16:17:49-03:00"
       },
-      "execucao": {
-        "id": "42092201232-1",
-        "reivindicado_em": "2026-11-05T16:15:59-03:00",
-        "expira_em": "2026-11-05T16:40:59-03:00"
-      }
+      "concluido_em": "2026-11-05T16:17:49-03:00"
     },
     {
       "id": "reel-20261105-1300-e36ff8a727",
