@@ -9170,7 +9170,7 @@
       "id": "reel-20261104-2100-ff64b0439e",
       "data": "2026-11-04",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "119 - PERDOAR E UMA DECISAO DISSE PASTOR JUNIOR ROSTIROLA.mp4",
         "sha256": "ff64b0439e9617971872daf96c514db63e9ae0a269db913681e5827c4a984ace"
@@ -9200,18 +9200,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-05T02:07:41-03:00",
         "tentativas": 1,
         "video_id": "2043362153310840",
         "fase_api": "publicado_confirmado",
-        "id": "2043362153310840"
+        "id": "2043362153310840",
+        "publicado_em": "2026-11-05T02:08:30-03:00"
       },
-      "execucao": {
-        "id": "41971849098-1",
-        "reivindicado_em": "2026-11-05T02:06:17-03:00",
-        "expira_em": "2026-11-05T02:31:17-03:00"
-      }
+      "concluido_em": "2026-11-05T02:08:30-03:00"
     },
     {
       "id": "reel-20261105-0500-cc3e8fa348",
