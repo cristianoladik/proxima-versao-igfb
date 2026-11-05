@@ -9204,7 +9204,7 @@
         "ultima_tentativa_em": "2026-11-05T02:07:41-03:00",
         "tentativas": 1,
         "video_id": "2043362153310840",
-        "fase_api": "upload_iniciado"
+        "fase_api": "upload_concluido"
       },
       "execucao": {
         "id": "41971849098-1",
