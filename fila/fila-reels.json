@@ -9195,6 +9195,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "41971849098-1",
+        "reivindicado_em": "2026-11-05T02:06:17-03:00",
+        "expira_em": "2026-11-05T02:31:17-03:00"
       }
     },
     {
