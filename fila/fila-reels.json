@@ -9190,12 +9190,13 @@
       },
       "instagram": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-05T02:06:19-03:00",
         "tentativas": 1,
         "container_id": "18111161225173532",
         "fase_api": "publicado_confirmado",
-        "id": "18147005389584987"
+        "id": "18147005389584987",
+        "publicado_em": "2026-11-05T02:07:39-03:00"
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
