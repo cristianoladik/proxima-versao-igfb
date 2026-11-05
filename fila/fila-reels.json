@@ -9305,7 +9305,7 @@
       "id": "reel-20261105-1300-e36ff8a727",
       "data": "2026-11-05",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "122 - FOI ASSIM QUE PERDI MUITOS SEGUIDORES.mp4",
         "sha256": "e36ff8a727c6129399b1e9744f6a4e5347120cc64e336e657c890b46dadf911f"
@@ -9335,18 +9335,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-05T18:51:05-03:00",
         "tentativas": 1,
         "video_id": "1698259321721745",
         "fase_api": "publicado_confirmado",
-        "id": "1698259321721745"
+        "id": "1698259321721745",
+        "publicado_em": "2026-11-05T18:52:07-03:00"
       },
-      "execucao": {
-        "id": "42116184622-1",
-        "reivindicado_em": "2026-11-05T18:50:13-03:00",
-        "expira_em": "2026-11-05T19:15:13-03:00"
-      }
+      "concluido_em": "2026-11-05T18:52:07-03:00"
     },
     {
       "id": "reel-20261105-1700-ecb4515d04",
