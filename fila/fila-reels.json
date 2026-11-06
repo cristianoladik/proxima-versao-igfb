@@ -9350,7 +9350,7 @@
       "id": "reel-20261105-1700-ecb4515d04",
       "data": "2026-11-05",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "122 - O MAIOR ATIVO DO MUNDO NAO E O DINHEIRO.mp4",
         "sha256": "ecb4515d04b7ce4248cf863f90a53a5e7ef1b58648b46ef8429847266e9eb62c"
@@ -9380,18 +9380,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-05T21:51:45-03:00",
         "tentativas": 1,
         "video_id": "1008053619024437",
         "fase_api": "publicado_confirmado",
-        "id": "1008053619024437"
+        "id": "1008053619024437",
+        "publicado_em": "2026-11-05T21:52:36-03:00"
       },
-      "execucao": {
-        "id": "42139622040-1",
-        "reivindicado_em": "2026-11-05T21:49:48-03:00",
-        "expira_em": "2026-11-05T22:14:48-03:00"
-      }
+      "concluido_em": "2026-11-05T21:52:36-03:00"
     },
     {
       "id": "reel-20261105-2100-85202da547",
