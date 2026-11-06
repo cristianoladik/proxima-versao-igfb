@@ -9575,7 +9575,7 @@
       "id": "reel-20261106-1700-e52ff5f8c2",
       "data": "2026-11-06",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "124 - FILHOS.mp4",
         "sha256": "e52ff5f8c287c477dd44372120b0a81eb65de748f5224060cade83d4b904c117"
@@ -9605,18 +9605,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-06T20:59:01-03:00",
         "tentativas": 1,
         "video_id": "1163159082947435",
         "fase_api": "publicado_confirmado",
-        "id": "1163159082947435"
+        "id": "1163159082947435",
+        "publicado_em": "2026-11-06T20:59:33-03:00"
       },
-      "execucao": {
-        "id": "42315261293-1",
-        "reivindicado_em": "2026-11-06T20:58:09-03:00",
-        "expira_em": "2026-11-06T21:23:09-03:00"
-      }
+      "concluido_em": "2026-11-06T20:59:33-03:00"
     },
     {
       "id": "reel-20261106-2100-132e660714",
