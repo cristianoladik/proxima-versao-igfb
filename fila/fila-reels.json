@@ -9485,7 +9485,7 @@
       "id": "reel-20261106-0900-881d535ebc",
       "data": "2026-11-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "123 - VOCE SABE CRIAR CONTEUDO E NEM SABIA.mp4",
         "sha256": "881d535ebc065bdeeea6efee38ffd3cf8f9bdc0c817b47d8eff73e67c8a8686d"
@@ -9515,18 +9515,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-06T15:44:36-03:00",
         "tentativas": 1,
         "video_id": "1453042863706161",
         "fase_api": "publicado_confirmado",
-        "id": "1453042863706161"
+        "id": "1453042863706161",
+        "publicado_em": "2026-11-06T15:45:26-03:00"
       },
-      "execucao": {
-        "id": "42273203124-1",
-        "reivindicado_em": "2026-11-06T15:43:14-03:00",
-        "expira_em": "2026-11-06T16:08:14-03:00"
-      }
+      "concluido_em": "2026-11-06T15:45:26-03:00"
     },
     {
       "id": "reel-20261106-1300-ab53d25c84",
