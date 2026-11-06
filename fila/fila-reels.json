@@ -9530,7 +9530,7 @@
       "id": "reel-20261106-1300-ab53d25c84",
       "data": "2026-11-06",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "124 - A BUSCA PELO CONHECIMENTO LEVA VOCE A SUA PROXIMA VERSA.mp4",
         "sha256": "ab53d25c8466e451e731ab1627e024366f183d96195481ca5913b961c16cd7cb"
@@ -9560,18 +9560,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-06T18:24:04-03:00",
         "tentativas": 1,
         "video_id": "1148655204772368",
         "fase_api": "publicado_confirmado",
-        "id": "1148655204772368"
+        "id": "1148655204772368",
+        "publicado_em": "2026-11-06T18:24:57-03:00"
       },
-      "execucao": {
-        "id": "42296263038-1",
-        "reivindicado_em": "2026-11-06T18:23:11-03:00",
-        "expira_em": "2026-11-06T18:48:11-03:00"
-      }
+      "concluido_em": "2026-11-06T18:24:57-03:00"
     },
     {
       "id": "reel-20261106-1700-e52ff5f8c2",
