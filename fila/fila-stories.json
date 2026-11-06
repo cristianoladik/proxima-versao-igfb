@@ -3124,7 +3124,7 @@
       "id": "story-20261106-166320f8b2",
       "data": "2026-11-06",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1837 - FACA ISSO E SERA UM PROCRASTINADOR NATO.mp4",
         "sha256": "166320f8b20e25fcc39409bd4016aea573e6ebecb01c7a8db9174409cc3ea378"
@@ -3155,22 +3155,19 @@
             "publicado_em": "2026-11-06T15:46:42-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-06T15:46:44-03:00",
             "tentativas": 1,
             "video_id": "946953571606807",
             "fase_api": "publicado_confirmado",
             "post_id": "2592673081160387",
             "id": "2592673081160387",
-            "media_id": "946953571606807"
+            "media_id": "946953571606807",
+            "publicado_em": "2026-11-06T15:47:35-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "42273203124-1",
-        "reivindicado_em": "2026-11-06T15:43:14-03:00",
-        "expira_em": "2026-11-06T16:08:14-03:00"
-      }
+      "concluido_em": "2026-11-06T15:47:35-03:00"
     },
     {
       "id": "story-20261107-076f13f69a",
