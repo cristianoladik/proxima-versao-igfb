@@ -3159,7 +3159,7 @@
             "ultima_tentativa_em": "2026-11-06T15:46:44-03:00",
             "tentativas": 1,
             "video_id": "946953571606807",
-            "fase_api": "upload_concluido"
+            "fase_api": "finalizacao_pendente_confirmacao"
           }
         }
       ],
