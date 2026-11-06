@@ -9515,7 +9515,11 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente"
+        "status": "pendente",
+        "ultima_tentativa_em": "2026-11-06T15:44:36-03:00",
+        "tentativas": 1,
+        "video_id": "1453042863706161",
+        "fase_api": "upload_iniciado"
       },
       "execucao": {
         "id": "42273203124-1",
