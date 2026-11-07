@@ -3174,7 +3174,7 @@
       "id": "story-20261107-076f13f69a",
       "data": "2026-11-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1838 - O VERDADEIRO SIGNIFICADO DA MEDALHA QUE JOEL PRESENTEOU.mp4",
         "sha256": "076f13f69abfa0d0629a6602eb2b9f83254882e8ba6c0f6e336d55374ac17b43"
@@ -3205,22 +3205,19 @@
             "publicado_em": "2026-11-07T14:17:00-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-07T14:17:01-03:00",
             "tentativas": 1,
             "video_id": "1962254031415415",
             "fase_api": "publicado_confirmado",
             "post_id": "2588611011602004",
             "id": "2588611011602004",
-            "media_id": "1962254031415415"
+            "media_id": "1962254031415415",
+            "publicado_em": "2026-11-07T14:17:52-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "42395240816-1",
-        "reivindicado_em": "2026-11-07T14:13:39-03:00",
-        "expira_em": "2026-11-07T14:38:39-03:00"
-      }
+      "concluido_em": "2026-11-07T14:17:52-03:00"
     },
     {
       "id": "story-20261108-189d7a268e",
