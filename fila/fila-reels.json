@@ -9800,7 +9800,7 @@
       "id": "reel-20261107-1700-f137b026e9",
       "data": "2026-11-07",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "127 - OLHE PARA DENTRO.mp4",
         "sha256": "f137b026e97bcd23d4e3536f59c868f5e4a46862b442b5074bcaf50fe19e5120"
@@ -9830,18 +9830,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-07T20:28:59-03:00",
         "tentativas": 1,
         "video_id": "1155168240709710",
         "fase_api": "publicado_confirmado",
-        "id": "1155168240709710"
+        "id": "1155168240709710",
+        "publicado_em": "2026-11-07T20:29:45-03:00"
       },
-      "execucao": {
-        "id": "42425367501-1",
-        "reivindicado_em": "2026-11-07T20:28:09-03:00",
-        "expira_em": "2026-11-07T20:53:09-03:00"
-      }
+      "concluido_em": "2026-11-07T20:29:45-03:00"
     },
     {
       "id": "reel-20261107-2100-f5b1edd384",
