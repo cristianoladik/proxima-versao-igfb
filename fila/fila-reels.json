@@ -9780,6 +9780,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "42408910459-1",
+        "reivindicado_em": "2026-11-07T17:00:37-03:00",
+        "expira_em": "2026-11-07T17:25:37-03:00"
       }
     },
     {
