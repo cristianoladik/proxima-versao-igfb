@@ -9710,7 +9710,7 @@
       "id": "reel-20261107-0900-c83bac013f",
       "data": "2026-11-07",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "126 - O QUE E BRANDING.mp4",
         "sha256": "c83bac013f562038a47cd0f21a49a93f65f6aaa9fa952f492a737f4bfa35eccb"
@@ -9740,18 +9740,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-07T14:15:27-03:00",
         "tentativas": 1,
         "video_id": "1441139827496574",
         "fase_api": "publicado_confirmado",
-        "id": "1441139827496574"
+        "id": "1441139827496574",
+        "publicado_em": "2026-11-07T14:16:18-03:00"
       },
-      "execucao": {
-        "id": "42395240816-1",
-        "reivindicado_em": "2026-11-07T14:13:39-03:00",
-        "expira_em": "2026-11-07T14:38:39-03:00"
-      }
+      "concluido_em": "2026-11-07T14:16:18-03:00"
     },
     {
       "id": "reel-20261107-1300-660b875bff",
