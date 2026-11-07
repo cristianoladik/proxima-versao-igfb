@@ -9620,7 +9620,7 @@
       "id": "reel-20261106-2100-132e660714",
       "data": "2026-11-06",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "124 - USE SEU DIFERENCIAL PARA GANHAR DA CONCORRENCIA.mp4",
         "sha256": "132e660714a29358b72fac2ca61b1d7d33194fa74e5d0eb82c9ead65ed2a7496"
@@ -9650,18 +9650,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-07T01:40:07-03:00",
         "tentativas": 1,
         "video_id": "1109502881861868",
         "fase_api": "publicado_confirmado",
-        "id": "1109502881861868"
+        "id": "1109502881861868",
+        "publicado_em": "2026-11-07T01:41:13-03:00"
       },
-      "execucao": {
-        "id": "42339374704-1",
-        "reivindicado_em": "2026-11-07T01:39:19-03:00",
-        "expira_em": "2026-11-07T02:04:19-03:00"
-      }
+      "concluido_em": "2026-11-07T01:41:13-03:00"
     },
     {
       "id": "reel-20261107-0500-096626cf15",
