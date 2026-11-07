@@ -3205,7 +3205,11 @@
             "publicado_em": "2026-11-07T14:17:00-03:00"
           },
           "facebook": {
-            "status": "pendente"
+            "status": "pendente",
+            "ultima_tentativa_em": "2026-11-07T14:17:01-03:00",
+            "tentativas": 1,
+            "video_id": "1962254031415415",
+            "fase_api": "upload_iniciado"
           }
         }
       ],
