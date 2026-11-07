@@ -9665,7 +9665,7 @@
       "id": "reel-20261107-0500-096626cf15",
       "data": "2026-11-07",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "125 - NINGUEM FAZ NADA SOZINHO.mp4",
         "sha256": "096626cf1589f013ecbe04947d695ac6364548428dccdcc5c4ef54873416a6df"
@@ -9695,18 +9695,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-07T11:27:55-03:00",
         "tentativas": 1,
         "video_id": "1693066155750205",
         "fase_api": "publicado_confirmado",
-        "id": "1693066155750205"
+        "id": "1693066155750205",
+        "publicado_em": "2026-11-07T11:28:43-03:00"
       },
-      "execucao": {
-        "id": "42381638128-1",
-        "reivindicado_em": "2026-11-07T11:27:04-03:00",
-        "expira_em": "2026-11-07T11:52:04-03:00"
-      }
+      "concluido_em": "2026-11-07T11:28:43-03:00"
     },
     {
       "id": "reel-20261107-0900-c83bac013f",
