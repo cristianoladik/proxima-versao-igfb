@@ -9980,7 +9980,7 @@
       "id": "reel-20261108-1300-ea5eec3cb0",
       "data": "2026-11-08",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "129 - EMPREENDER E FACIL VOCE QUE COMPLICA.mp4",
         "sha256": "ea5eec3cb06149f79807bfe2dc27b44c52f9cbd68570c1758ec7e2d280f68c03"
@@ -10010,18 +10010,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-08T17:18:23-03:00",
         "tentativas": 1,
         "video_id": "1143411535047535",
         "fase_api": "publicado_confirmado",
-        "id": "1143411535047535"
+        "id": "1143411535047535",
+        "publicado_em": "2026-11-08T17:19:12-03:00"
       },
-      "execucao": {
-        "id": "42519352555-1",
-        "reivindicado_em": "2026-11-08T17:17:33-03:00",
-        "expira_em": "2026-11-08T17:42:33-03:00"
-      }
+      "concluido_em": "2026-11-08T17:19:12-03:00"
     },
     {
       "id": "reel-20261108-1700-f8e02fb7d4",
