@@ -9890,7 +9890,7 @@
       "id": "reel-20261108-0500-093a63e417",
       "data": "2026-11-08",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "128 - APAIXONE.mp4",
         "sha256": "093a63e417e335a00447d5311be87f4df8770fa764e57e764f7534e6fb5fabd7"
@@ -9920,18 +9920,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-08T11:37:43-03:00",
         "tentativas": 1,
         "video_id": "4456884324642239",
         "fase_api": "publicado_confirmado",
-        "id": "4456884324642239"
+        "id": "4456884324642239",
+        "publicado_em": "2026-11-08T11:38:27-03:00"
       },
-      "execucao": {
-        "id": "42490622635-1",
-        "reivindicado_em": "2026-11-08T11:36:25-03:00",
-        "expira_em": "2026-11-08T12:01:25-03:00"
-      }
+      "concluido_em": "2026-11-08T11:38:27-03:00"
     },
     {
       "id": "reel-20261108-0900-052cafe662",
