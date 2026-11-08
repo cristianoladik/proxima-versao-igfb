@@ -9935,7 +9935,7 @@
       "id": "reel-20261108-0900-052cafe662",
       "data": "2026-11-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "128 - ELA CRIOU AS ROUPAS.mp4",
         "sha256": "052cafe6627779cc7151da589eee451eda0756bd8d98c3e4301a91d87ea2f14e"
@@ -9965,18 +9965,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-08T14:26:40-03:00",
         "tentativas": 1,
         "video_id": "1684772096688720",
         "fase_api": "publicado_confirmado",
-        "id": "1684772096688720"
+        "id": "1684772096688720",
+        "publicado_em": "2026-11-08T14:27:40-03:00"
       },
-      "execucao": {
-        "id": "42504912427-1",
-        "reivindicado_em": "2026-11-08T14:25:53-03:00",
-        "expira_em": "2026-11-08T14:50:53-03:00"
-      }
+      "concluido_em": "2026-11-08T14:27:40-03:00"
     },
     {
       "id": "reel-20261108-1300-ea5eec3cb0",
