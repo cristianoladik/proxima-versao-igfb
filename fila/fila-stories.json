@@ -3224,7 +3224,7 @@
       "id": "story-20261108-189d7a268e",
       "data": "2026-11-08",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1839 - VOCE SERA LEMBRADO POR ISSO.mp4",
         "sha256": "189d7a268ef86b0d868af43689362d39703a0f5ed5a5d3ec16dc2769e356b882"
@@ -3255,22 +3255,19 @@
             "publicado_em": "2026-11-08T14:28:54-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-08T14:28:56-03:00",
             "tentativas": 1,
             "video_id": "4753736794849408",
             "fase_api": "publicado_confirmado",
             "post_id": "1460361102725101",
             "id": "1460361102725101",
-            "media_id": "4753736794849408"
+            "media_id": "4753736794849408",
+            "publicado_em": "2026-11-08T14:29:42-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "42504912427-1",
-        "reivindicado_em": "2026-11-08T14:25:53-03:00",
-        "expira_em": "2026-11-08T14:50:53-03:00"
-      }
+      "concluido_em": "2026-11-08T14:29:42-03:00"
     },
     {
       "id": "story-20261109-97192cc791",
