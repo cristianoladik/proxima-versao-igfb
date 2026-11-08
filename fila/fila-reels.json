@@ -10025,7 +10025,7 @@
       "id": "reel-20261108-1700-f8e02fb7d4",
       "data": "2026-11-08",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "130 - .mp4",
         "sha256": "f8e02fb7d4e17084f91c85cdfd1df2e9ab5fe1b4bd9ae34762f3f131355a1849"
@@ -10055,18 +10055,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-08T20:27:41-03:00",
         "tentativas": 1,
         "video_id": "1454839426830812",
         "fase_api": "publicado_confirmado",
-        "id": "1454839426830812"
+        "id": "1454839426830812",
+        "publicado_em": "2026-11-08T20:28:11-03:00"
       },
-      "execucao": {
-        "id": "42535202170-1",
-        "reivindicado_em": "2026-11-08T20:26:53-03:00",
-        "expira_em": "2026-11-08T20:51:53-03:00"
-      }
+      "concluido_em": "2026-11-08T20:28:11-03:00"
     },
     {
       "id": "reel-20261108-2100-bcd3e3c87f",
