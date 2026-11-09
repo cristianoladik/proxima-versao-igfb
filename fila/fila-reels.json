@@ -10160,7 +10160,7 @@
       "id": "reel-20261109-0900-564e20a805",
       "data": "2026-11-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "131 - OLHE PARA DENTRO E RECONHECA O SEU VALOR.mp4",
         "sha256": "564e20a805ba07c4c78c4032e8f86fb8331ae648a3db094720d551609fcc9d4f"
@@ -10190,18 +10190,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-09T18:48:50-03:00",
         "tentativas": 1,
         "video_id": "2696573087426109",
         "fase_api": "publicado_confirmado",
-        "id": "2696573087426109"
+        "id": "2696573087426109",
+        "publicado_em": "2026-11-09T18:49:22-03:00"
       },
-      "execucao": {
-        "id": "42705725621-1",
-        "reivindicado_em": "2026-11-09T18:47:00-03:00",
-        "expira_em": "2026-11-09T19:12:00-03:00"
-      }
+      "concluido_em": "2026-11-09T18:49:22-03:00"
     },
     {
       "id": "reel-20261109-1300-af2e664897",
