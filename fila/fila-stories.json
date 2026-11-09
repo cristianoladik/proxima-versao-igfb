@@ -3274,7 +3274,7 @@
       "id": "story-20261109-97192cc791",
       "data": "2026-11-09",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "1840 - FELIZ NATAL.mp4",
         "sha256": "97192cc7915a1b0cc92cd533e08324bc1460eaa56937e1eb47cae27c184fdeda"
@@ -3305,22 +3305,19 @@
             "publicado_em": "2026-11-09T18:50:38-03:00"
           },
           "facebook": {
-            "status": "pendente",
+            "status": "publicado",
             "ultima_tentativa_em": "2026-11-09T18:50:39-03:00",
             "tentativas": 1,
             "video_id": "29483990574572840",
             "fase_api": "publicado_confirmado",
             "post_id": "4597645713854752",
             "id": "4597645713854752",
-            "media_id": "29483990574572840"
+            "media_id": "29483990574572840",
+            "publicado_em": "2026-11-09T18:51:28-03:00"
           }
         }
       ],
-      "execucao": {
-        "id": "42705725621-1",
-        "reivindicado_em": "2026-11-09T18:47:00-03:00",
-        "expira_em": "2026-11-09T19:12:00-03:00"
-      }
+      "concluido_em": "2026-11-09T18:51:28-03:00"
     },
     {
       "id": "story-20261110-e7bde3c146",
