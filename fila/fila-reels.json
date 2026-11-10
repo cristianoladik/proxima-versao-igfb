@@ -10340,7 +10340,7 @@
       "id": "reel-20261110-0500-eb0feec579",
       "data": "2026-11-10",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "2 - JUNTOS PODEMOS.mp4",
         "sha256": "eb0feec579e2300af87bccf71f7fd81999e2eca90b109c88fef71c0c28bf59b2"
@@ -10370,18 +10370,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-10T12:53:43-03:00",
         "tentativas": 1,
         "video_id": "2186789062193904",
         "fase_api": "publicado_confirmado",
-        "id": "2186789062193904"
+        "id": "2186789062193904",
+        "publicado_em": "2026-11-10T12:55:08-03:00"
       },
-      "execucao": {
-        "id": "42848856525-1",
-        "reivindicado_em": "2026-11-10T12:52:19-03:00",
-        "expira_em": "2026-11-10T13:17:19-03:00"
-      }
+      "concluido_em": "2026-11-10T12:55:08-03:00"
     },
     {
       "id": "reel-20261110-0900-eb76ab5813",
