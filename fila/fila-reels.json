@@ -10205,7 +10205,7 @@
       "id": "reel-20261109-1300-af2e664897",
       "data": "2026-11-09",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "131 - PARE DE APOSTAR NAS TENDENCIAS E FOQUE NO AGORA.mp4",
         "sha256": "af2e664897781b4aad3132771b3bc7732bb308101bc3f111f32d5859cdcec903"
@@ -10235,18 +10235,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-09T21:02:38-03:00",
         "tentativas": 1,
         "video_id": "1466735678672646",
         "fase_api": "publicado_confirmado",
-        "id": "1466735678672646"
+        "id": "1466735678672646",
+        "publicado_em": "2026-11-09T21:03:29-03:00"
       },
-      "execucao": {
-        "id": "42725099459-1",
-        "reivindicado_em": "2026-11-09T21:01:50-03:00",
-        "expira_em": "2026-11-09T21:26:50-03:00"
-      }
+      "concluido_em": "2026-11-09T21:03:29-03:00"
     },
     {
       "id": "reel-20261109-1700-1426702ecd",
