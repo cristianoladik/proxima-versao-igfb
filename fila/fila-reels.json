@@ -10419,7 +10419,7 @@
         "ultima_tentativa_em": "2026-11-10T16:08:41-03:00",
         "tentativas": 1,
         "video_id": "1328296736018269",
-        "fase_api": "finalizacao_pendente_confirmacao"
+        "fase_api": "finish_aceito"
       },
       "execucao": {
         "id": "42881872127-1",
