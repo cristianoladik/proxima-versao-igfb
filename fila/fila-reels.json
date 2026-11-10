@@ -10295,7 +10295,7 @@
       "id": "reel-20261109-2100-38d0c1a093",
       "data": "2026-11-09",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "132 - O CONTEUDO E UM MEIO E NAO O FIM O FIM E A VENDA.mp4",
         "sha256": "38d0c1a0933bcfb091ad679b5d058f594246a0317eb1a33e82f31c8570e0d910"
@@ -10325,18 +10325,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-10T02:56:51-03:00",
         "tentativas": 1,
         "video_id": "1653025622981331",
         "fase_api": "publicado_confirmado",
-        "id": "1653025622981331"
+        "id": "1653025622981331",
+        "publicado_em": "2026-11-10T02:57:42-03:00"
       },
-      "execucao": {
-        "id": "42765168989-1",
-        "reivindicado_em": "2026-11-10T02:56:00-03:00",
-        "expira_em": "2026-11-10T03:21:00-03:00"
-      }
+      "concluido_em": "2026-11-10T02:57:42-03:00"
     },
     {
       "id": "reel-20261110-0500-eb0feec579",
