@@ -10250,7 +10250,7 @@
       "id": "reel-20261109-1700-1426702ecd",
       "data": "2026-11-09",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "132 - APROVEITE AO MAXIMO O TEMPO QUE AINDA TEM ESTAO AO SEU .mp4",
         "sha256": "1426702ecd3cf621f2dfee1a64f42f5478c04b32719ed5b3d00e02c3c6064a22"
@@ -10280,18 +10280,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-09T23:35:13-03:00",
         "tentativas": 1,
         "video_id": "2217573642509720",
         "fase_api": "publicado_confirmado",
-        "id": "2217573642509720"
+        "id": "2217573642509720",
+        "publicado_em": "2026-11-09T23:35:47-03:00"
       },
-      "execucao": {
-        "id": "42743675605-1",
-        "reivindicado_em": "2026-11-09T23:34:24-03:00",
-        "expira_em": "2026-11-09T23:59:24-03:00"
-      }
+      "concluido_em": "2026-11-09T23:35:47-03:00"
     },
     {
       "id": "reel-20261109-2100-38d0c1a093",
