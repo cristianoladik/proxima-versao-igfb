@@ -10385,7 +10385,7 @@
       "id": "reel-20261110-0900-eb76ab5813",
       "data": "2026-11-10",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "3 - O EMPREENDEDORISMO COMECA ANTES DO CNPJ.mp4",
         "sha256": "eb76ab58138acf2a0d724e981dde9cc8eaf085aa4b88b065608f7bee9e4b5274"
@@ -10415,18 +10415,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-10T16:08:41-03:00",
         "tentativas": 1,
         "video_id": "1328296736018269",
         "fase_api": "publicado_confirmado",
-        "id": "1328296736018269"
+        "id": "1328296736018269",
+        "publicado_em": "2026-11-10T16:09:29-03:00"
       },
-      "execucao": {
-        "id": "42881872127-1",
-        "reivindicado_em": "2026-11-10T16:06:20-03:00",
-        "expira_em": "2026-11-10T16:31:20-03:00"
-      }
+      "concluido_em": "2026-11-10T16:09:29-03:00"
     },
     {
       "id": "reel-20261110-1300-c5fbff9996",
