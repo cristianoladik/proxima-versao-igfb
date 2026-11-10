@@ -3352,7 +3352,12 @@
             "status": "pendente"
           }
         }
-      ]
+      ],
+      "execucao": {
+        "id": "42881872127-1",
+        "reivindicado_em": "2026-11-10T16:06:20-03:00",
+        "expira_em": "2026-11-10T16:31:20-03:00"
+      }
     }
   ],
   "estoque_minimo_dias": 60,
