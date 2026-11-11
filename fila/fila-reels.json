@@ -10610,7 +10610,7 @@
       "id": "reel-20261111-0900-b7aeb941e0",
       "data": "2026-11-11",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "10 - A FAMILIA E ONDE CONSTRUIMOS NOSSOS VALORES.mp4",
         "sha256": "b7aeb941e093d1838aa709e9584d9a6fee0ecd36cb416869d20fd7fe88a9a8a8"
@@ -10640,18 +10640,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-11T16:04:57-03:00",
         "tentativas": 1,
         "video_id": "1644245817249532",
         "fase_api": "publicado_confirmado",
-        "id": "1644245817249532"
+        "id": "1644245817249532",
+        "publicado_em": "2026-11-11T16:06:06-03:00"
       },
-      "execucao": {
-        "id": "43083577406-1",
-        "reivindicado_em": "2026-11-11T16:03:35-03:00",
-        "expira_em": "2026-11-11T16:28:35-03:00"
-      }
+      "concluido_em": "2026-11-11T16:06:06-03:00"
     },
     {
       "id": "reel-20261111-1300-0f32b79257",
