@@ -10680,6 +10680,11 @@
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
         "status": "pendente"
+      },
+      "execucao": {
+        "id": "43112696797-1",
+        "reivindicado_em": "2026-11-11T19:33:13-03:00",
+        "expira_em": "2026-11-11T19:58:13-03:00"
       }
     },
     {
