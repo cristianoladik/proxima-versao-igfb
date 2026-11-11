@@ -10520,7 +10520,7 @@
       "id": "reel-20261110-2100-c369f31be1",
       "data": "2026-11-10",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "5 - DINHEIRO RESOLVE PROBLEMAS.mp4",
         "sha256": "c369f31be13ebe375449f54e53de8de2927e620d72321a928624dcc06db9f4bc"
@@ -10550,18 +10550,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-11T01:45:19-03:00",
         "tentativas": 1,
         "video_id": "1426528985852563",
         "fase_api": "publicado_confirmado",
-        "id": "1426528985852563"
+        "id": "1426528985852563",
+        "publicado_em": "2026-11-11T01:46:24-03:00"
       },
-      "execucao": {
-        "id": "42960991413-1",
-        "reivindicado_em": "2026-11-11T01:42:58-03:00",
-        "expira_em": "2026-11-11T02:07:58-03:00"
-      }
+      "concluido_em": "2026-11-11T01:46:24-03:00"
     },
     {
       "id": "reel-20261111-0500-4ad7ce5d3d",
