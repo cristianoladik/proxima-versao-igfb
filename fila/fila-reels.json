@@ -10565,7 +10565,7 @@
       "id": "reel-20261111-0500-4ad7ce5d3d",
       "data": "2026-11-11",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "6 - O QUE NINGUEM TE CONTA SOBRE ENRIQUECER.mp4",
         "sha256": "4ad7ce5d3d414465c4d319e2672c2ac8cfabf4bdb6e1a151c8b4343ddff13762"
@@ -10595,18 +10595,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-11T12:41:15-03:00",
         "tentativas": 1,
         "video_id": "1793096655273803",
         "fase_api": "publicado_confirmado",
-        "id": "1793096655273803"
+        "id": "1793096655273803",
+        "publicado_em": "2026-11-11T12:42:38-03:00"
       },
-      "execucao": {
-        "id": "43050580939-1",
-        "reivindicado_em": "2026-11-11T12:39:55-03:00",
-        "expira_em": "2026-11-11T13:04:55-03:00"
-      }
+      "concluido_em": "2026-11-11T12:42:38-03:00"
     },
     {
       "id": "reel-20261111-0900-b7aeb941e0",
