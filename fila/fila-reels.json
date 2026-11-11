@@ -10655,7 +10655,7 @@
       "id": "reel-20261111-1300-0f32b79257",
       "data": "2026-11-11",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "11 - DIA DO COMERCIANTE.mp4",
         "sha256": "0f32b79257ef038be7f17e56924ffacd139f1ba358dcf55223294f63d3f09756"
@@ -10685,18 +10685,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-11T19:34:33-03:00",
         "tentativas": 1,
         "video_id": "1636389788224016",
         "fase_api": "publicado_confirmado",
-        "id": "1636389788224016"
+        "id": "1636389788224016",
+        "publicado_em": "2026-11-11T19:35:41-03:00"
       },
-      "execucao": {
-        "id": "43112696797-1",
-        "reivindicado_em": "2026-11-11T19:33:13-03:00",
-        "expira_em": "2026-11-11T19:58:13-03:00"
-      }
+      "concluido_em": "2026-11-11T19:35:41-03:00"
     },
     {
       "id": "reel-20261111-1700-5b30ffe8be",
