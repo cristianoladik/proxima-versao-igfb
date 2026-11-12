@@ -10835,7 +10835,7 @@
       "id": "reel-20261112-0900-0512c495e6",
       "data": "2026-11-12",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "19 - LUXO DE VERDADE NAO E O QUE VOCE MOSTRA.mp4",
         "sha256": "0512c495e61f6df83c59a25e7b6f60b18b53382ebe2c93ed629fb8c616784943"
@@ -10865,18 +10865,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-12T16:23:25-03:00",
         "tentativas": 1,
         "video_id": "2645721332614910",
         "fase_api": "publicado_confirmado",
-        "id": "2645721332614910"
+        "id": "2645721332614910",
+        "publicado_em": "2026-11-12T16:24:16-03:00"
       },
-      "execucao": {
-        "id": "43289397962-1",
-        "reivindicado_em": "2026-11-12T16:22:04-03:00",
-        "expira_em": "2026-11-12T16:47:04-03:00"
-      }
+      "concluido_em": "2026-11-12T16:24:16-03:00"
     },
     {
       "id": "reel-20261112-1300-bcd3b8b139",
