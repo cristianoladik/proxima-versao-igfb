@@ -10880,7 +10880,7 @@
       "id": "reel-20261112-1300-bcd3b8b139",
       "data": "2026-11-12",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "20 - MENINO BURR0 POR ISSO QUE APANH.mp4",
         "sha256": "bcd3b8b139ddbb3e9e7441107c8e7ce079be257e953bba927de53eb3cbf6de29"
@@ -10910,18 +10910,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-12T19:10:05-03:00",
         "tentativas": 1,
         "video_id": "2886795761697091",
         "fase_api": "publicado_confirmado",
-        "id": "2886795761697091"
+        "id": "2886795761697091",
+        "publicado_em": "2026-11-12T19:10:54-03:00"
       },
-      "execucao": {
-        "id": "43317027779-1",
-        "reivindicado_em": "2026-11-12T19:08:15-03:00",
-        "expira_em": "2026-11-12T19:33:15-03:00"
-      }
+      "concluido_em": "2026-11-12T19:10:54-03:00"
     },
     {
       "id": "reel-20261112-1700-84c42d0864",
