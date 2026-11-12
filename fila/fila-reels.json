@@ -10790,7 +10790,7 @@
       "id": "reel-20261112-0500-0f5907de5c",
       "data": "2026-11-12",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "16 - NAO DEIXE QUE O MEDO SEJA MAIOR DO QUE O SEU PROPOSITO.mp4",
         "sha256": "0f5907de5ca9fa7400b62d15f754b229e21d734aed2b793618bbb5d42957253a"
@@ -10820,18 +10820,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-12T13:25:07-03:00",
         "tentativas": 1,
         "video_id": "1150211398017286",
         "fase_api": "publicado_confirmado",
-        "id": "1150211398017286"
+        "id": "1150211398017286",
+        "publicado_em": "2026-11-12T13:25:57-03:00"
       },
-      "execucao": {
-        "id": "43258157662-1",
-        "reivindicado_em": "2026-11-12T13:23:47-03:00",
-        "expira_em": "2026-11-12T13:48:47-03:00"
-      }
+      "concluido_em": "2026-11-12T13:25:57-03:00"
     },
     {
       "id": "reel-20261112-0900-0512c495e6",
