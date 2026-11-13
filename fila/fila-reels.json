@@ -11015,7 +11015,7 @@
       "id": "reel-20261113-0500-4e62945f6e",
       "data": "2026-11-13",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "24 - CHEGAR LA.mp4",
         "sha256": "4e62945f6e1459b821f7862db43e97d1c42e3af81eca22c3831dad6b890523e5"
@@ -11045,18 +11045,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-13T12:45:49-03:00",
         "tentativas": 1,
         "video_id": "4121165014685334",
         "fase_api": "publicado_confirmado",
-        "id": "4121165014685334"
+        "id": "4121165014685334",
+        "publicado_em": "2026-11-13T12:46:56-03:00"
       },
-      "execucao": {
-        "id": "43455610854-1",
-        "reivindicado_em": "2026-11-13T12:44:30-03:00",
-        "expira_em": "2026-11-13T13:09:30-03:00"
-      }
+      "concluido_em": "2026-11-13T12:46:56-03:00"
     },
     {
       "id": "reel-20261113-0900-ee113c9d0d",
