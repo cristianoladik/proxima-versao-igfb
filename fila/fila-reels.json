@@ -10925,7 +10925,7 @@
       "id": "reel-20261112-1700-84c42d0864",
       "data": "2026-11-12",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "20 - MUITA GENTE CONFUNDE FICAR SEM DINHEIRO.mp4",
         "sha256": "84c42d08647b8557f54a87bd83ceb048b6a374c52723537875867946bc668912"
@@ -10955,18 +10955,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-12T21:56:52-03:00",
         "tentativas": 1,
         "video_id": "1155867296785155",
         "fase_api": "publicado_confirmado",
-        "id": "1155867296785155"
+        "id": "1155867296785155",
+        "publicado_em": "2026-11-12T21:58:02-03:00"
       },
-      "execucao": {
-        "id": "43340833731-1",
-        "reivindicado_em": "2026-11-12T21:55:03-03:00",
-        "expira_em": "2026-11-12T22:20:03-03:00"
-      }
+      "concluido_em": "2026-11-12T21:58:02-03:00"
     },
     {
       "id": "reel-20261112-2100-ed7848a4af",
