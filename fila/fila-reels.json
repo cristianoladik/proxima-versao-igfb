@@ -11060,7 +11060,7 @@
       "id": "reel-20261113-0900-ee113c9d0d",
       "data": "2026-11-13",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "26 - SE VOCE TEM DIVIDAS VOCE NAO PROSPERA.mp4",
         "sha256": "ee113c9d0d5680860274e8a8e94aaf99eac03235456b2b0cfef21d4ccae4c48e"
@@ -11090,18 +11090,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-13T16:00:50-03:00",
         "tentativas": 1,
         "video_id": "1119660147630027",
         "fase_api": "publicado_confirmado",
-        "id": "1119660147630027"
+        "id": "1119660147630027",
+        "publicado_em": "2026-11-13T16:01:43-03:00"
       },
-      "execucao": {
-        "id": "43487861045-1",
-        "reivindicado_em": "2026-11-13T15:59:30-03:00",
-        "expira_em": "2026-11-13T16:24:30-03:00"
-      }
+      "concluido_em": "2026-11-13T16:01:43-03:00"
     },
     {
       "id": "reel-20261113-1300-71f6fba1f7",
