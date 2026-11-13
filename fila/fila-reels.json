@@ -11139,7 +11139,7 @@
         "ultima_tentativa_em": "2026-11-13T18:51:58-03:00",
         "tentativas": 1,
         "video_id": "1678870173955961",
-        "fase_api": "upload_iniciado"
+        "fase_api": "upload_concluido"
       },
       "execucao": {
         "id": "43514208521-1",
