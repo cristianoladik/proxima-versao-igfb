@@ -10970,7 +10970,7 @@
       "id": "reel-20261112-2100-ed7848a4af",
       "data": "2026-11-12",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "23 - O QUE E FELICIDADE PRA MIM.mp4",
         "sha256": "ed7848a4afd2297b82f28e2e169931e6fd493ce63991848c01e78dcc68c886c7"
@@ -11000,18 +11000,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-13T02:04:57-03:00",
         "tentativas": 1,
         "video_id": "1521538499808451",
         "fase_api": "publicado_confirmado",
-        "id": "1521538499808451"
+        "id": "1521538499808451",
+        "publicado_em": "2026-11-13T02:06:07-03:00"
       },
-      "execucao": {
-        "id": "43369466075-1",
-        "reivindicado_em": "2026-11-13T02:03:36-03:00",
-        "expira_em": "2026-11-13T02:28:36-03:00"
-      }
+      "concluido_em": "2026-11-13T02:06:07-03:00"
     },
     {
       "id": "reel-20261113-0500-4e62945f6e",
