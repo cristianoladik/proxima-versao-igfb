@@ -11105,7 +11105,7 @@
       "id": "reel-20261113-1300-71f6fba1f7",
       "data": "2026-11-13",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "27 - EMPREENDER NAO E SO GANHAR DINHEIRO.mp4",
         "sha256": "71f6fba1f798ce3f7b19b07b47fcf0edadbc8f065a3327b6fb982910687a2c7f"
@@ -11135,18 +11135,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-13T18:51:58-03:00",
         "tentativas": 1,
         "video_id": "1678870173955961",
         "fase_api": "publicado_confirmado",
-        "id": "1678870173955961"
+        "id": "1678870173955961",
+        "publicado_em": "2026-11-13T18:52:47-03:00"
       },
-      "execucao": {
-        "id": "43514208521-1",
-        "reivindicado_em": "2026-11-13T18:50:37-03:00",
-        "expira_em": "2026-11-13T19:15:37-03:00"
-      }
+      "concluido_em": "2026-11-13T18:52:47-03:00"
     },
     {
       "id": "reel-20261113-1700-2c70921bde",
