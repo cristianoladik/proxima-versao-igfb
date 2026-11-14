@@ -11285,7 +11285,7 @@
       "id": "reel-20261114-0900-0f664f722a",
       "data": "2026-11-14",
       "horario": "09:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "36 - COMO FORTALECER A MENTE EM DIAS DIFICEIS.mp4",
         "sha256": "0f664f722a9a017211a3c7fcb8fd34fb885ea9a45b646233e2cc82f20120ce75"
@@ -11315,18 +11315,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-14T14:31:24-03:00",
         "tentativas": 1,
         "video_id": "1896569581500674",
         "fase_api": "publicado_confirmado",
-        "id": "1896569581500674"
+        "id": "1896569581500674",
+        "publicado_em": "2026-11-14T14:32:32-03:00"
       },
-      "execucao": {
-        "id": "43621406827-1",
-        "reivindicado_em": "2026-11-14T14:30:03-03:00",
-        "expira_em": "2026-11-14T14:55:03-03:00"
-      }
+      "concluido_em": "2026-11-14T14:32:32-03:00"
     },
     {
       "id": "reel-20261114-1300-1bff63cafd",
