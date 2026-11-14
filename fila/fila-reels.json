@@ -11375,7 +11375,7 @@
       "id": "reel-20261114-1700-6158c99a5a",
       "data": "2026-11-14",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "39 - COMECE QUANTAS VEZES FOR PRECISO.mp4",
         "sha256": "6158c99a5a95e351d698582aae86173abe295bd08e4ca0994baad493098066e4"
@@ -11405,18 +11405,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-14T20:42:39-03:00",
         "tentativas": 1,
         "video_id": "990974436891080",
         "fase_api": "publicado_confirmado",
-        "id": "990974436891080"
+        "id": "990974436891080",
+        "publicado_em": "2026-11-14T20:43:44-03:00"
       },
-      "execucao": {
-        "id": "43654447990-1",
-        "reivindicado_em": "2026-11-14T20:41:18-03:00",
-        "expira_em": "2026-11-14T21:06:18-03:00"
-      }
+      "concluido_em": "2026-11-14T20:43:44-03:00"
     },
     {
       "id": "reel-20261114-2100-a9465c6b17",
