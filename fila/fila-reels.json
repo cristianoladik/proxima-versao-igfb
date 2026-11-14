@@ -11270,16 +11270,12 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "erro",
         "ultima_tentativa_em": "2026-11-14T11:36:56-03:00",
         "tentativas": 1,
         "video_id": "1916275089339804",
-        "fase_api": "finalizacao_pendente_confirmacao"
-      },
-      "execucao": {
-        "id": "43605612715-1",
-        "reivindicado_em": "2026-11-14T11:35:07-03:00",
-        "expira_em": "2026-11-14T12:00:07-03:00"
+        "fase_api": "finalizacao_pendente_confirmacao",
+        "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1."
       }
     },
     {
