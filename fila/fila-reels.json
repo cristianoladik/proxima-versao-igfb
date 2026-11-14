@@ -11330,7 +11330,7 @@
       "id": "reel-20261114-1300-1bff63cafd",
       "data": "2026-11-14",
       "horario": "13:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "37 - NOS SOMOS GERADORES DE PROBLEMAS.mp4",
         "sha256": "1bff63cafd3b5fb2fd0d7799bfe567087d9eb34321df94e47b3928bf29cd4bc2"
@@ -11360,18 +11360,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-14T17:31:58-03:00",
         "tentativas": 1,
         "video_id": "1129886489890760",
         "fase_api": "publicado_confirmado",
-        "id": "1129886489890760"
+        "id": "1129886489890760",
+        "publicado_em": "2026-11-14T17:33:06-03:00"
       },
-      "execucao": {
-        "id": "43637840142-1",
-        "reivindicado_em": "2026-11-14T17:30:35-03:00",
-        "expira_em": "2026-11-14T17:55:35-03:00"
-      }
+      "concluido_em": "2026-11-14T17:33:06-03:00"
     },
     {
       "id": "reel-20261114-1700-6158c99a5a",
