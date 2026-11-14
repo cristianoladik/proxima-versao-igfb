@@ -11240,7 +11240,7 @@
       "id": "reel-20261114-0500-6e5d14af41",
       "data": "2026-11-14",
       "horario": "05:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "35 - PENSE POSITIVO.mp4",
         "sha256": "6e5d14af41be3aad6a6ce945d456a0471ad65db97d67c6a2c748eab5e433b5ca"
@@ -11270,19 +11270,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "erro",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-14T12:15:00-03:00",
         "tentativas": 2,
         "video_id": "1916275089339804",
         "fase_api": "publicado_confirmado",
-        "erro": "Command '('git', '-C', '/home/runner/work/proxima-versao-igfb/proxima-versao-igfb', 'push')' returned non-zero exit status 1.",
-        "id": "1916275089339804"
+        "id": "1916275089339804",
+        "publicado_em": "2026-11-14T12:21:16-03:00"
       },
-      "execucao": {
-        "id": "43609127177-1",
-        "reivindicado_em": "2026-11-14T12:14:58-03:00",
-        "expira_em": "2026-11-14T12:39:58-03:00"
-      }
+      "concluido_em": "2026-11-14T12:21:16-03:00"
     },
     {
       "id": "reel-20261114-0900-0f664f722a",
