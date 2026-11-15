@@ -11600,7 +11600,7 @@
       "id": "reel-20261115-1700-cec163447c",
       "data": "2026-11-15",
       "horario": "17:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "49 - RECOMECE.mp4",
         "sha256": "cec163447c9dbf384d3fea6f8763aff4bc8b4b84487daf73fae2c1e1c19ff990"
@@ -11630,18 +11630,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-15T20:49:01-03:00",
         "tentativas": 1,
         "video_id": "1794272818508800",
         "fase_api": "publicado_confirmado",
-        "id": "1794272818508800"
+        "id": "1794272818508800",
+        "publicado_em": "2026-11-15T20:49:48-03:00"
       },
-      "execucao": {
-        "id": "43776701661-1",
-        "reivindicado_em": "2026-11-15T20:47:42-03:00",
-        "expira_em": "2026-11-15T21:12:42-03:00"
-      }
+      "concluido_em": "2026-11-15T20:49:48-03:00"
     },
     {
       "id": "reel-20261115-2100-fa0442dcb5",
