@@ -11420,7 +11420,7 @@
       "id": "reel-20261114-2100-a9465c6b17",
       "data": "2026-11-14",
       "horario": "21:00",
-      "status": "pendente",
+      "status": "concluido",
       "origem": {
         "arquivo": "45 - BOM DIA.mp4",
         "sha256": "a9465c6b1756a8171d2a974a7e76de8d1b80919740a8d8faf5a6d80bf241179e"
@@ -11450,18 +11450,15 @@
       },
       "facebook": {
         "legenda": "Siga @proximaversao_br.",
-        "status": "pendente",
+        "status": "publicado",
         "ultima_tentativa_em": "2026-11-15T01:50:18-03:00",
         "tentativas": 1,
         "video_id": "1093314790378328",
         "fase_api": "publicado_confirmado",
-        "id": "1093314790378328"
+        "id": "1093314790378328",
+        "publicado_em": "2026-11-15T01:51:22-03:00"
       },
-      "execucao": {
-        "id": "43678336747-1",
-        "reivindicado_em": "2026-11-15T01:48:30-03:00",
-        "expira_em": "2026-11-15T02:13:30-03:00"
-      }
+      "concluido_em": "2026-11-15T01:51:22-03:00"
     },
     {
       "id": "reel-20261115-0500-383a3bbc7b",
